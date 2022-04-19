@@ -5,7 +5,7 @@ Re-curring topics on this list are:
 - Quantum protocol design
 - Quantum algorithms
 - Silicon based quantum technologies
-- The Hong-Our-Mandel effect
+- The Hong-Ou-Mandel effect
 - Quantum circuits 
 - Electron-spin states
 - Commercial and philosophical views on quantum technologies
