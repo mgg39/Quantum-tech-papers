@@ -10,6 +10,7 @@ Re-curring topics on this list are:
 - Electron-spin states
 - Commercial and philosophical views on quantum technologies
 - Quantum repreater achitectures
+- Quantum memories
 - Experimental simulating tools
 
 
