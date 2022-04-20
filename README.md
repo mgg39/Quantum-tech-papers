@@ -9,7 +9,7 @@ Re-curring topics on this list are:
 - Quantum circuits 
 - Electron-spin states
 - Commercial and philosophical views on quantum technologies
-- Quantum repreater achitectures
+- Quantum repeater architectures
 - Quantum memories
 - Experimental simulating tools
 
