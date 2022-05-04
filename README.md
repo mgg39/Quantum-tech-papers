@@ -77,6 +77,8 @@ The following papers are available in this repo (in order):
        https://arxiv.org/abs/1201.4780
 - Quantum-Enhanced Data Classification with a Variational Entangled Sensor Network - Yi Xia, Wei Li, Quntao Zhuang, Zheshen Zhang
        https://arxiv.org/abs/2006.11962
+- Quantum Long Short-Term Memory - Samuel Yen-Chi Chen, Shinjae Yoo, Yao-Lung L. Fang
+       https://arxiv.org/abs/2009.01783
 - Request_Scheduling_in_Quantum_Networks - C. Cicconetti, M. Conti, and A. Passarella
        https://www.researchgate.net/publication/352621787_Request_Scheduling_in_Quantum_Networks
 - Scaling silicon-based quantum computing using CMOS technology - M. F. Gonzalez-Zalba, S. de Franceschi, E. Charbon, T. Meunier, M. Vinet, A. S. Dzurak
