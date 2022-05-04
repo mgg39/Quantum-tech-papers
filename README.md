@@ -50,6 +50,8 @@ The following papers are available in this repo (in order):
        https://journals.aps.org/pra/abstract/10.1103/PhysRevA.92.040302
 - Implementing the quantum random walk - B. C. Travaglione, G. J. Milburn
        https://arxiv.org/abs/quant-ph/0109076
+-Linear growth of quantum circuit complexity, by Jonas Haferkamp, Philippe Faist , Naga B. T. Kothakonda, Jens Eisert, and Nicole Yunger Halpern.
+       https://www.nature.com/articles/s41567-022-01539-6
 - Multiple Particle Interference and Quantum Error Correction - Andrew Steane 
        https://arxiv.org/abs/quant-ph/9601029Multiplexed quantum repeaters
 - Multiplexed quantum repeaters based on dual-species trapped-ion systems - Prajit Dhara, Norbert M. Linke, Edo Waks, Saikat Guha, Kaushik P. Seshadreesan
