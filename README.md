@@ -87,6 +87,8 @@ The following papers are available in this repo (in order):
        https://arxiv.org/abs/2009.12000
 - Simple Proof of Security of the BB84 Quantum Key Distribution Protocol -Peter W. Shor, John Preskill
        https://arxiv.org/abs/quant-ph/0003004
+- Stabilizer Codes and Quantum Error Correction -Thesis by Daniel Gottesman
+       https://arxiv.org/abs/quant-ph/9705052
 - Teleportation of entanglement over 143 km - Thomas Herbst, Thomas Scheidl, Matthias Fink, Johannes Handsteiner, Bernhard Wittmann, Rupert Ursin, Anton Zeilinger
        https://arxiv.org/abs/1403.0009
 - The SWAP test and the Hong-Ou-Mandel effect are equivalent - Juan Carlos Garcia-Escartin, Pedro Chamorro-Posada
