@@ -103,6 +103,8 @@ The following papers are available in this repo (in order):
        https://arxiv.org/abs/1108.1791
 
 # Notes:
-If you would like to add any paper to this repository please feel free to create a pull request &/or reach out to me via linkeding or email.
+If you would like to add any paper to this repository please feel free to create a pull request &/or reach out to me via linkedin or email.
+
 Linkedin : https://www.linkedin.com/in/maria-gragera-garces/
+
 Email : m.gragera.garces@gmail.com
