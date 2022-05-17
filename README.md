@@ -36,6 +36,8 @@ The following papers are available in this repo (in order):
        https://arxiv.org/abs/1701.00815
 - Commercial applications of quantum computing - Francesco Bova, Avi Goldfarb, Roger G. Melko
        https://epjquantumtechnology.springeropen.com/articles/10.1140/epjqt/s40507-021-00091-1
+- Continued Fractions and Probability Estimations in Shor’s Algorithm: A Detailed and Self-Contained Treatise -Johanna Barzen and Frank Leymann
+       https://arxiv.org/abs/2205.01925
 - Designing a Quantum Network Protocol - Wojciech Kozlowski, Axel Dahlberg, Stephanie Wehner
        https://arxiv.org/abs/2010.02575
 - Discrete simulation of quantum walks - Madita Willsch, Dennis Willsch, Kristel Michielsen, and Hans De Raedt
@@ -62,7 +64,8 @@ The following papers are available in this repo (in order):
        https://dl.acm.org/doi/10.1145/380752.380757
 - Optimal architectures for long distance quantum communication - Sreraman Muralidharan, Linshu Li, Jungsang Kim, Norbert Lütkenhaus, Mikhail D. Lukin & Liang Jiang
        https://www.nature.com/articles/srep20463
-- Practical Intermediate Representation for Quantum -QED.C
+- Packet Switching in Quantum Networks: A Path to Quantum Internet - Stephen DiAdamo, Bing Qi, Glen Miller, Ramana Kompella, Alireza Shabani
+       https://arxiv.org/abs/2205.07507
 - Practical randomness and privacy amplification - Cameron Foreman, Sherilyn Wright, Alec Edgington, Mario Berta, Florian J. Curchod
        https://arxiv.org/abs/2009.06551
 - Proposal for room-temperature quantum repeaters with nitrogen-vacancy centers and optomechanics - Jia-Wei Ji, Yu-Feng Wu, Stephen C. Wein, ...
@@ -87,6 +90,8 @@ The following papers are available in this repo (in order):
        https://arxiv.org/abs/2009.12000
 - Simple Proof of Security of the BB84 Quantum Key Distribution Protocol -Peter W. Shor, John Preskill
        https://arxiv.org/abs/quant-ph/0003004
+- Stabilizer Codes and Quantum Error Correction -Thesis by Daniel Gottesman
+       https://arxiv.org/abs/quant-ph/9705052
 - Teleportation of entanglement over 143 km - Thomas Herbst, Thomas Scheidl, Matthias Fink, Johannes Handsteiner, Bernhard Wittmann, Rupert Ursin, Anton Zeilinger
        https://arxiv.org/abs/1403.0009
 - The SWAP test and the Hong-Ou-Mandel effect are equivalent - Juan Carlos Garcia-Escartin, Pedro Chamorro-Posada
@@ -99,3 +104,10 @@ The following papers are available in this repo (in order):
        https://arxiv.org/abs/2006.09335
 - Why Philosophers Should Care About Computational Complexity - Scott Aaronson
        https://arxiv.org/abs/1108.1791
+
+# Notes:
+If you would like to add any paper to this repository please feel free to create a pull request &/or reach out to me via linkedin or email.
+
+Linkedin : https://www.linkedin.com/in/maria-gragera-garces/
+
+Email : m.gragera.garces@gmail.com
