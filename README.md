@@ -36,6 +36,8 @@ The following papers are available in this repo (in order):
        https://arxiv.org/abs/1701.00815
 - Commercial applications of quantum computing - Francesco Bova, Avi Goldfarb, Roger G. Melko
        https://epjquantumtechnology.springeropen.com/articles/10.1140/epjqt/s40507-021-00091-1
+- Continued Fractions and Probability Estimations in Shor’s Algorithm: A Detailed and Self-Contained Treatise -Johanna Barzen and Frank Leymann
+       https://arxiv.org/abs/2205.01925
 - Designing a Quantum Network Protocol - Wojciech Kozlowski, Axel Dahlberg, Stephanie Wehner
        https://arxiv.org/abs/2010.02575
 - Discrete simulation of quantum walks - Madita Willsch, Dennis Willsch, Kristel Michielsen, and Hans De Raedt
