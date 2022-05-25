@@ -12,6 +12,7 @@ Re-curring topics on this list are:
 - Quantum repeater architectures
 - Quantum memories
 - Experimental simulating tools
+- Quantum markets and hype
 
 The following papers are available in this repo (in order):
 - Quantum networking, by  Rodney Van Meter (book)
@@ -54,6 +55,8 @@ The following papers are available in this repo (in order):
        https://arxiv.org/abs/quant-ph/0109076
 -Linear growth of quantum circuit complexity, by Jonas Haferkamp, Philippe Faist , Naga B. T. Kothakonda, Jens Eisert, and Nicole Yunger Halpern.
        https://www.nature.com/articles/s41567-022-01539-6
+- Mitigating the quantum hype - Olivier Ezratty
+       https://arxiv.org/abs/2202.01925
 - Multiple Particle Interference and Quantum Error Correction - Andrew Steane 
        https://arxiv.org/abs/quant-ph/9601029Multiplexed quantum repeaters
 - Multiplexed quantum repeaters based on dual-species trapped-ion systems - Prajit Dhara, Norbert M. Linke, Edo Waks, Saikat Guha, Kaushik P. Seshadreesan
