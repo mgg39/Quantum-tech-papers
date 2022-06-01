@@ -80,6 +80,8 @@ and Stefan Woerner
        https://arxiv.org/abs/2010.12259
 - Quantum Switch for the Quantum Internet: Noiseless Communications through Noisy Channels - Marcello Caleffi, Angela Sara Cacciapuoti
        https://arxiv.org/abs/1907.07432
+-  Quantum computational advantage with a programmable photonic processor - Lars S. Madsen, Fabian Laudenbach, Mohsen Falamarzi. Askarani, ...
+       https://www.nature.com/articles/s41586-022-04725-x
 - Quantum computing with photons - introduction to the circuit model, the one way quantum computer, and the fundamental principles of photonic experiments 
        https://iopscience.iop.org/article/10.1088/0953-4075/48/8/083001
 - Quantum walks a comprehensive review - Salvador E. Venegas-Andraca
@@ -100,6 +102,8 @@ and Stefan Woerner
        https://arxiv.org/abs/quant-ph/9705052
 - Stim: a fast stabilizer circuit simulator -Craig Gidney
        https://arxiv.org/abs/2103.02202v3
+- Subsystem codes with high thresholds by gauge fixing and reduced qubit overhead - Oscar Higgott, Nikolas P. Breuckmann
+       https://arxiv.org/abs/2010.09626
 - Teleportation of entanglement over 143 km - Thomas Herbst, Thomas Scheidl, Matthias Fink, Johannes Handsteiner, Bernhard Wittmann, Rupert Ursin, Anton Zeilinger
        https://arxiv.org/abs/1403.0009
 - The SWAP test and the Hong-Ou-Mandel effect are equivalent - Juan Carlos Garcia-Escartin, Pedro Chamorro-Posada
