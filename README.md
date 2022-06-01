@@ -67,6 +67,9 @@ The following papers are available in this repo (in order):
        https://dl.acm.org/doi/10.1145/380752.380757
 - Optimal architectures for long distance quantum communication - Sreraman Muralidharan, Linshu Li, Jungsang Kim, Norbert Lütkenhaus, Mikhail D. Lukin & Liang Jiang
        https://www.nature.com/articles/srep20463
+- Option Pricing using Quantum Computers Nikitas Stamatopoulos, Daniel J. Egger, Yue Sun, Christa Zoufal2,3, Raban Iten2,3, Ning Shen1,
+and Stefan Woerner
+       https://arxiv.org/abs/1905.02666
 - Packet Switching in Quantum Networks: A Path to Quantum Internet - Stephen DiAdamo, Bing Qi, Glen Miller, Ramana Kompella, Alireza Shabani
        https://arxiv.org/abs/2205.07507
 - Practical randomness and privacy amplification - Cameron Foreman, Sherilyn Wright, Alec Edgington, Mario Berta, Florian J. Curchod
