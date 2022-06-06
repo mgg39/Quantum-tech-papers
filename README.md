@@ -4,6 +4,7 @@ It is not a curated list of the most recommended publications for a beginner in 
 Re-curring topics on this list are:
 - Quantum protocol design
 - Quantum algorithms
+- The Quantum internet
 - Silicon based quantum technologies
 - The Hong-Ou-Mandel effect
 - Quantum circuits 
@@ -78,6 +79,8 @@ and Stefan Woerner
        https://arxiv.org/abs/2012.06687
 - Protocols for creating and distilling multipartite GHZ states with Bell pairs - Sébastian de Bone, Runsheng Ouyang, Kenneth Goodenough, David Elkouss
        https://arxiv.org/abs/2010.12259
+- Quantum Internet Protocol Stack a Comprehensive Survey - Jessica Illiano, Marcello Caleffi, Antonio Manzalini, Angela Sara Cacciapuoti
+       https://arxiv.org/abs/2202.10894
 - Quantum Switch for the Quantum Internet: Noiseless Communications through Noisy Channels - Marcello Caleffi, Angela Sara Cacciapuoti
        https://arxiv.org/abs/1907.07432
 -  Quantum computational advantage with a programmable photonic processor - Lars S. Madsen, Fabian Laudenbach, Mohsen Falamarzi. Askarani, ...
