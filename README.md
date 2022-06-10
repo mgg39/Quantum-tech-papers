@@ -28,7 +28,9 @@ The following papers are available in this repo (in order):
        https://ieeexplore.ieee.org/document/9205209/authors#authors
 - An Architecture for Meeting Quality-of-Service Requirements in Multi-User Quantum Networks - Matthew Skrzypczyk, Stephanie Wehner
        https://arxiv.org/abs/2111.13124
-- Anti-Hong-Ou-Mandel effect with entangled photons -Anton N. Vetlugin, Ruixiang Guo, Cesare Soci, Nikolay I. Zheludev
+- An introduction to measurement based quantum computation - Richard Jozsa
+       https://arxiv.org/abs/quant-ph/0508124
+- Anti-Hong-Ou-Mandel effect with entangled photons - Anton N. Vetlugin, Ruixiang Guo, Cesare Soci, Nikolay I. Zheludev
        https://arxiv.org/abs/2105.05444
 - Automated distribution of quantum circuits via hypergraph partitioning - Pablo Andrés-Martínez, Chris Heunen
        https://arxiv.org/abs/1811.10972
@@ -48,6 +50,8 @@ The following papers are available in this repo (in order):
        https://arxiv.org/abs/1909.01323
 - Five open problems in theory of quantum information - Paweł Horodecki, Łukasz Rudnicki, Karol Życzkowski
        https://arxiv.org/abs/2002.03233
+- Fusion-based quantum computation - Sara Bartolucci, Patrick Birchall, Hector Bombin, Hugo Cable, Chris Dawson, Mercedes Gimeno-Segovia, Eric Johnston, ...
+       https://arxiv.org/abs/2101.09310
 - Generalized GHZ States and Distributed Quantum - Anocha Yimsiriwattana, Samuel J. Lomonaco Jr
        https://arxiv.org/abs/quant-ph/0402148
 - Implementation of multidimensional quantum walks using linear optics and classical light - Sandeep K. Goyal, Filippus S. Roux, Andrew Forbes, and Thomas Konrad
@@ -83,7 +87,9 @@ and Stefan Woerner
        https://arxiv.org/abs/2202.10894
 - Quantum Switch for the Quantum Internet: Noiseless Communications through Noisy Channels - Marcello Caleffi, Angela Sara Cacciapuoti
        https://arxiv.org/abs/1907.07432
--  Quantum computational advantage with a programmable photonic processor - Lars S. Madsen, Fabian Laudenbach, Mohsen Falamarzi. Askarani, ...
+- Quantum computational advantage using photons - Han-Sen Zhong, Hui Wang, Yu-Hao Deng, Ming-Cheng Chen, Li-Chao Peng, Yi-Han Luo, Jian Qin, ...
+       https://www.science.org/doi/10.1126/science.abe8770
+- Quantum computational advantage with a programmable photonic processor - Lars S. Madsen, Fabian Laudenbach, Mohsen Falamarzi. Askarani, ...
        https://www.nature.com/articles/s41586-022-04725-x
 - Quantum computing with photons - introduction to the circuit model, the one way quantum computer, and the fundamental principles of photonic experiments 
        https://iopscience.iop.org/article/10.1088/0953-4075/48/8/083001
