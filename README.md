@@ -110,6 +110,8 @@ and Stefan Woerner
        https://www.researchgate.net/publication/352621787_Request_Scheduling_in_Quantum_Networks
 - Scaling silicon-based quantum computing using CMOS technology - M. F. Gonzalez-Zalba, S. de Franceschi, E. Charbon, T. Meunier, M. Vinet, A. S. Dzurak
        https://arxiv.org/abs/2011.11753
+- Scheme for reducing decoherence in quantum computer memory, Peter W. Shor
+       https://www.cs.miami.edu/home/burt/learning/Csc670.052/pR2493_1.pdf
 - SeQUeNCe a customizable discrete-event simulator of quantum networks - Xiaoliang Wu, Alexander Kolar, Joaquin Chung, Dong Jin,, Tian Zhong, ...
        https://arxiv.org/abs/2009.12000
 - Simple Proof of Security of the BB84 Quantum Key Distribution Protocol -Peter W. Shor, John Preskill
