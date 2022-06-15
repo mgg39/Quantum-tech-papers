@@ -53,6 +53,8 @@ The following papers are available in this repo (in order):
        https://users.physics.ox.ac.uk/~Steane/pubs/Steane_PRL95.pdf 
 - Experimental demonstration of memory-enhanced quantum communication - Mihir K. Bhaskar, Ralf Riedinger, Bartholomeus Machielse, David S. Levonian,...
        https://arxiv.org/abs/1909.01323
+- Fault-tolerant Preparation of Stabilizer States for Quantum CSS Codes by Classical Error-Correcting Codes - Ching-Yi Lai, Yi-Cong Zheng, and Todd A. Brun
+       https://arxiv.org/abs/1605.05647
 - Five open problems in theory of quantum information - Paweł Horodecki, Łukasz Rudnicki, Karol Życzkowski
        https://arxiv.org/abs/2002.03233
 - Fusion-based quantum computation - Sara Bartolucci, Patrick Birchall, Hector Bombin, Hugo Cable, Chris Dawson, Mercedes Gimeno-Segovia, Eric Johnston, ...
