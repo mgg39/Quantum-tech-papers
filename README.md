@@ -132,6 +132,8 @@ and Stefan Woerner
        https://www.physics.rutgers.edu/grad/602/Lectures/JC_Presentations/0419/Intro_Toric_Code.pdf
 - The_Virtual_Quantum_Optics_Laboratory - Brian R. La Cour, Maria Maynard, Parth Shroff, Gabriel Ko, Evan Ellis
        https://arxiv.org/abs/2105.07300
+- Topological quantum memory - Eric Dennis,Alexei Kitaev,Andrew Landahl,and John Preskill
+       https://arxiv.org/abs/quant-ph/0110143
 - Paving the Way towards 800 Gbps Quantum-Secured Optical Channel Deployment - Farzam Toudeh-Fallah, Marco Pistoia, Yasushi Kawakura,...
        https://arxiv.org/abs/2202.07764
 - Transitioning organizations to post-quantum cryptography - David Joseph1, Rafael Misoczki2, Marc Manzano1, Joe Tricot1, Fernando Dominguez, ...
