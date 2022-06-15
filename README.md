@@ -8,6 +8,7 @@ Re-curring topics on this list are:
 - Silicon based quantum technologies
 - The Hong-Ou-Mandel effect
 - Quantum circuits 
+- Quantum error correction
 - Electron-spin states
 - Commercial and philosophical views on quantum technologies
 - Quantum repeater architectures
@@ -20,6 +21,8 @@ The following papers are available in this repo (in order):
 - Schrödinger's Web: Race to Build the Quantum Internet, by Jonathan Dowling (book)
 - A Grand Unification of Quantum Algorithms - John M. Martyn, Zane M. Rossi, Andrew K. Tan, Isaac L. Chuang
        https://arxiv.org/abs/2105.02859
+- A Tutorial on Quantum Error Correction - Andrew M. Steane
+       https://www2.physics.ox.ac.uk/sites/default/files/ErrorCorrectionSteane06.pdf
 - A photonic cluster state machine gun - Netanel H. Lindner, Terry Rudolph
        https://arxiv.org/abs/0810.2587
 - A quantum walk control plane for distributed quantum computing in quantum networks - Matheus Guedes de Andrade, Wenhan Dai, Saikat Guha, Don Towsley
@@ -28,7 +31,9 @@ The following papers are available in this repo (in order):
        https://ieeexplore.ieee.org/document/9205209/authors#authors
 - An Architecture for Meeting Quality-of-Service Requirements in Multi-User Quantum Networks - Matthew Skrzypczyk, Stephanie Wehner
        https://arxiv.org/abs/2111.13124
-- Anti-Hong-Ou-Mandel effect with entangled photons -Anton N. Vetlugin, Ruixiang Guo, Cesare Soci, Nikolay I. Zheludev
+- An introduction to measurement based quantum computation - Richard Jozsa
+       https://arxiv.org/abs/quant-ph/0508124
+- Anti-Hong-Ou-Mandel effect with entangled photons - Anton N. Vetlugin, Ruixiang Guo, Cesare Soci, Nikolay I. Zheludev
        https://arxiv.org/abs/2105.05444
 - Automated distribution of quantum circuits via hypergraph partitioning - Pablo Andrés-Martínez, Chris Heunen
        https://arxiv.org/abs/1811.10972
@@ -44,10 +49,14 @@ The following papers are available in this repo (in order):
        https://arxiv.org/abs/2010.02575
 - Discrete simulation of quantum walks - Madita Willsch, Dennis Willsch, Kristel Michielsen, and Hans De Raedt
        https://www.frontiersin.org/articles/10.3389/fphy.2020.00145/full
+- Error Correcting Codes in Quantum Theory, Andrew Steane
+       https://users.physics.ox.ac.uk/~Steane/pubs/Steane_PRL95.pdf 
 - Experimental demonstration of memory-enhanced quantum communication - Mihir K. Bhaskar, Ralf Riedinger, Bartholomeus Machielse, David S. Levonian,...
        https://arxiv.org/abs/1909.01323
 - Five open problems in theory of quantum information - Paweł Horodecki, Łukasz Rudnicki, Karol Życzkowski
        https://arxiv.org/abs/2002.03233
+- Fusion-based quantum computation - Sara Bartolucci, Patrick Birchall, Hector Bombin, Hugo Cable, Chris Dawson, Mercedes Gimeno-Segovia, Eric Johnston, ...
+       https://arxiv.org/abs/2101.09310
 - Generalized GHZ States and Distributed Quantum - Anocha Yimsiriwattana, Samuel J. Lomonaco Jr
        https://arxiv.org/abs/quant-ph/0402148
 - Implementation of multidimensional quantum walks using linear optics and classical light - Sandeep K. Goyal, Filippus S. Roux, Andrew Forbes, and Thomas Konrad
@@ -58,6 +67,8 @@ The following papers are available in this repo (in order):
        https://www.nature.com/articles/s41567-022-01539-6
 - Mitigating the quantum hype - Olivier Ezratty
        https://arxiv.org/abs/2202.01925
+- Multiple Particle Interference and Quantum Error Correction, Andrew Steane
+       https://arxiv.org/abs/quant-ph/9601029
 - Multiple Particle Interference and Quantum Error Correction - Andrew Steane 
        https://arxiv.org/abs/quant-ph/9601029Multiplexed quantum repeaters
 - Multiplexed quantum repeaters based on dual-species trapped-ion systems - Prajit Dhara, Norbert M. Linke, Edo Waks, Saikat Guha, Kaushik P. Seshadreesan
@@ -83,7 +94,9 @@ and Stefan Woerner
        https://arxiv.org/abs/2202.10894
 - Quantum Switch for the Quantum Internet: Noiseless Communications through Noisy Channels - Marcello Caleffi, Angela Sara Cacciapuoti
        https://arxiv.org/abs/1907.07432
--  Quantum computational advantage with a programmable photonic processor - Lars S. Madsen, Fabian Laudenbach, Mohsen Falamarzi. Askarani, ...
+- Quantum computational advantage using photons - Han-Sen Zhong, Hui Wang, Yu-Hao Deng, Ming-Cheng Chen, Li-Chao Peng, Yi-Han Luo, Jian Qin, ...
+       https://www.science.org/doi/10.1126/science.abe8770
+- Quantum computational advantage with a programmable photonic processor - Lars S. Madsen, Fabian Laudenbach, Mohsen Falamarzi. Askarani, ...
        https://www.nature.com/articles/s41586-022-04725-x
 - Quantum computing with photons - introduction to the circuit model, the one way quantum computer, and the fundamental principles of photonic experiments 
        https://iopscience.iop.org/article/10.1088/0953-4075/48/8/083001
@@ -97,6 +110,8 @@ and Stefan Woerner
        https://www.researchgate.net/publication/352621787_Request_Scheduling_in_Quantum_Networks
 - Scaling silicon-based quantum computing using CMOS technology - M. F. Gonzalez-Zalba, S. de Franceschi, E. Charbon, T. Meunier, M. Vinet, A. S. Dzurak
        https://arxiv.org/abs/2011.11753
+- Scheme for reducing decoherence in quantum computer memory, Peter W. Shor
+       https://www.cs.miami.edu/home/burt/learning/Csc670.052/pR2493_1.pdf
 - SeQUeNCe a customizable discrete-event simulator of quantum networks - Xiaoliang Wu, Alexander Kolar, Joaquin Chung, Dong Jin,, Tian Zhong, ...
        https://arxiv.org/abs/2009.12000
 - Simple Proof of Security of the BB84 Quantum Key Distribution Protocol -Peter W. Shor, John Preskill
@@ -111,6 +126,8 @@ and Stefan Woerner
        https://arxiv.org/abs/1403.0009
 - The SWAP test and the Hong-Ou-Mandel effect are equivalent - Juan Carlos Garcia-Escartin, Pedro Chamorro-Posada
        https://arxiv.org/abs/1303.6814
+- The Toric Code, Paul Herringer
+       https://www.physics.rutgers.edu/grad/602/Lectures/JC_Presentations/0419/Intro_Toric_Code.pdf
 - The_Virtual_Quantum_Optics_Laboratory - Brian R. La Cour, Maria Maynard, Parth Shroff, Gabriel Ko, Evan Ellis
        https://arxiv.org/abs/2105.07300
 - Paving the Way towards 800 Gbps Quantum-Secured Optical Channel Deployment - Farzam Toudeh-Fallah, Marco Pistoia, Yasushi Kawakura,...
