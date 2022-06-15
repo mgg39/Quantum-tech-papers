@@ -122,6 +122,8 @@ and Stefan Woerner
        https://arxiv.org/abs/2103.02202v3
 - Subsystem codes with high thresholds by gauge fixing and reduced qubit overhead - Oscar Higgott, Nikolas P. Breuckmann
        https://arxiv.org/abs/2010.09626
+- Surface codes: Towards practical large-scale quantum computation - Austin G. Fowler, Matteo Mariantoni, John M. Martinis and Andrew N. Cleland
+     https://arxiv.org/abs/1208.0928   
 - Teleportation of entanglement over 143 km - Thomas Herbst, Thomas Scheidl, Matthias Fink, Johannes Handsteiner, Bernhard Wittmann, Rupert Ursin, Anton Zeilinger
        https://arxiv.org/abs/1403.0009
 - The SWAP test and the Hong-Ou-Mandel effect are equivalent - Juan Carlos Garcia-Escartin, Pedro Chamorro-Posada
