@@ -122,6 +122,8 @@ and Stefan Woerner
        https://arxiv.org/abs/2103.02202v3
 - Subsystem codes with high thresholds by gauge fixing and reduced qubit overhead - Oscar Higgott, Nikolas P. Breuckmann
        https://arxiv.org/abs/2010.09626
+- Surface codes: Towards practical large-scale quantum computation - Austin G. Fowler, Matteo Mariantoni, John M. Martinis and Andrew N. Cleland
+     https://arxiv.org/abs/1208.0928   
 - Teleportation of entanglement over 143 km - Thomas Herbst, Thomas Scheidl, Matthias Fink, Johannes Handsteiner, Bernhard Wittmann, Rupert Ursin, Anton Zeilinger
        https://arxiv.org/abs/1403.0009
 - The SWAP test and the Hong-Ou-Mandel effect are equivalent - Juan Carlos Garcia-Escartin, Pedro Chamorro-Posada
@@ -130,6 +132,8 @@ and Stefan Woerner
        https://www.physics.rutgers.edu/grad/602/Lectures/JC_Presentations/0419/Intro_Toric_Code.pdf
 - The_Virtual_Quantum_Optics_Laboratory - Brian R. La Cour, Maria Maynard, Parth Shroff, Gabriel Ko, Evan Ellis
        https://arxiv.org/abs/2105.07300
+- Topological quantum memory - Eric Dennis,Alexei Kitaev,Andrew Landahl,and John Preskill
+       https://arxiv.org/abs/quant-ph/0110143
 - Paving the Way towards 800 Gbps Quantum-Secured Optical Channel Deployment - Farzam Toudeh-Fallah, Marco Pistoia, Yasushi Kawakura,...
        https://arxiv.org/abs/2202.07764
 - Transitioning organizations to post-quantum cryptography - David Joseph1, Rafael Misoczki2, Marc Manzano1, Joe Tricot1, Fernando Dominguez, ...
