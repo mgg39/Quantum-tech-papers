@@ -20,6 +20,8 @@ The following papers are available in this repo (in order):
 - Schrödinger's Web: Race to Build the Quantum Internet, by Jonathan Dowling (book)
 - A Grand Unification of Quantum Algorithms - John M. Martyn, Zane M. Rossi, Andrew K. Tan, Isaac L. Chuang
        https://arxiv.org/abs/2105.02859
+- A Tutorial on Quantum Error Correction - Andrew M. Steane
+       https://www2.physics.ox.ac.uk/sites/default/files/ErrorCorrectionSteane06.pdf
 - A photonic cluster state machine gun - Netanel H. Lindner, Terry Rudolph
        https://arxiv.org/abs/0810.2587
 - A quantum walk control plane for distributed quantum computing in quantum networks - Matheus Guedes de Andrade, Wenhan Dai, Saikat Guha, Don Towsley
