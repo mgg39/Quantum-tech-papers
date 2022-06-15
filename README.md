@@ -8,6 +8,7 @@ Re-curring topics on this list are:
 - Silicon based quantum technologies
 - The Hong-Ou-Mandel effect
 - Quantum circuits 
+- Quantum error correction
 - Electron-spin states
 - Commercial and philosophical views on quantum technologies
 - Quantum repeater architectures
@@ -64,6 +65,8 @@ The following papers are available in this repo (in order):
        https://www.nature.com/articles/s41567-022-01539-6
 - Mitigating the quantum hype - Olivier Ezratty
        https://arxiv.org/abs/2202.01925
+- Multiple Particle Interference and Quantum Error Correction, Andrew Steane
+       https://arxiv.org/abs/quant-ph/9601029
 - Multiple Particle Interference and Quantum Error Correction - Andrew Steane 
        https://arxiv.org/abs/quant-ph/9601029Multiplexed quantum repeaters
 - Multiplexed quantum repeaters based on dual-species trapped-ion systems - Prajit Dhara, Norbert M. Linke, Edo Waks, Saikat Guha, Kaushik P. Seshadreesan
