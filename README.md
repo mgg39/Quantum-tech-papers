@@ -8,6 +8,7 @@ Re-curring topics on this list are:
 - Silicon based quantum technologies
 - The Hong-Ou-Mandel effect
 - Quantum circuits 
+- Quantum error correction
 - Electron-spin states
 - Commercial and philosophical views on quantum technologies
 - Quantum repeater architectures
@@ -20,6 +21,8 @@ The following papers are available in this repo (in order):
 - Schrödinger's Web: Race to Build the Quantum Internet, by Jonathan Dowling (book)
 - A Grand Unification of Quantum Algorithms - John M. Martyn, Zane M. Rossi, Andrew K. Tan, Isaac L. Chuang
        https://arxiv.org/abs/2105.02859
+- A Tutorial on Quantum Error Correction - Andrew M. Steane
+       https://www2.physics.ox.ac.uk/sites/default/files/ErrorCorrectionSteane06.pdf
 - A photonic cluster state machine gun - Netanel H. Lindner, Terry Rudolph
        https://arxiv.org/abs/0810.2587
 - A quantum walk control plane for distributed quantum computing in quantum networks - Matheus Guedes de Andrade, Wenhan Dai, Saikat Guha, Don Towsley
@@ -46,6 +49,8 @@ The following papers are available in this repo (in order):
        https://arxiv.org/abs/2010.02575
 - Discrete simulation of quantum walks - Madita Willsch, Dennis Willsch, Kristel Michielsen, and Hans De Raedt
        https://www.frontiersin.org/articles/10.3389/fphy.2020.00145/full
+- Error Correcting Codes in Quantum Theory, Andrew Steane
+       https://users.physics.ox.ac.uk/~Steane/pubs/Steane_PRL95.pdf 
 - Experimental demonstration of memory-enhanced quantum communication - Mihir K. Bhaskar, Ralf Riedinger, Bartholomeus Machielse, David S. Levonian,...
        https://arxiv.org/abs/1909.01323
 - Five open problems in theory of quantum information - Paweł Horodecki, Łukasz Rudnicki, Karol Życzkowski
@@ -62,6 +67,8 @@ The following papers are available in this repo (in order):
        https://www.nature.com/articles/s41567-022-01539-6
 - Mitigating the quantum hype - Olivier Ezratty
        https://arxiv.org/abs/2202.01925
+- Multiple Particle Interference and Quantum Error Correction, Andrew Steane
+       https://arxiv.org/abs/quant-ph/9601029
 - Multiple Particle Interference and Quantum Error Correction - Andrew Steane 
        https://arxiv.org/abs/quant-ph/9601029Multiplexed quantum repeaters
 - Multiplexed quantum repeaters based on dual-species trapped-ion systems - Prajit Dhara, Norbert M. Linke, Edo Waks, Saikat Guha, Kaushik P. Seshadreesan
@@ -103,6 +110,8 @@ and Stefan Woerner
        https://www.researchgate.net/publication/352621787_Request_Scheduling_in_Quantum_Networks
 - Scaling silicon-based quantum computing using CMOS technology - M. F. Gonzalez-Zalba, S. de Franceschi, E. Charbon, T. Meunier, M. Vinet, A. S. Dzurak
        https://arxiv.org/abs/2011.11753
+- Scheme for reducing decoherence in quantum computer memory, Peter W. Shor
+       https://www.cs.miami.edu/home/burt/learning/Csc670.052/pR2493_1.pdf
 - SeQUeNCe a customizable discrete-event simulator of quantum networks - Xiaoliang Wu, Alexander Kolar, Joaquin Chung, Dong Jin,, Tian Zhong, ...
        https://arxiv.org/abs/2009.12000
 - Simple Proof of Security of the BB84 Quantum Key Distribution Protocol -Peter W. Shor, John Preskill
@@ -117,6 +126,8 @@ and Stefan Woerner
        https://arxiv.org/abs/1403.0009
 - The SWAP test and the Hong-Ou-Mandel effect are equivalent - Juan Carlos Garcia-Escartin, Pedro Chamorro-Posada
        https://arxiv.org/abs/1303.6814
+- The Toric Code, Paul Herringer
+       https://www.physics.rutgers.edu/grad/602/Lectures/JC_Presentations/0419/Intro_Toric_Code.pdf
 - The_Virtual_Quantum_Optics_Laboratory - Brian R. La Cour, Maria Maynard, Parth Shroff, Gabriel Ko, Evan Ellis
        https://arxiv.org/abs/2105.07300
 - Paving the Way towards 800 Gbps Quantum-Secured Optical Channel Deployment - Farzam Toudeh-Fallah, Marco Pistoia, Yasushi Kawakura,...
