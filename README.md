@@ -102,6 +102,8 @@ and Stefan Woerner
        https://www.nature.com/articles/s41586-022-04725-x
 - Quantum computing with photons - introduction to the circuit model, the one way quantum computer, and the fundamental principles of photonic experiments 
        https://iopscience.iop.org/article/10.1088/0953-4075/48/8/083001
+- Quantum information processing with bosonic qubits in circuit QED - Atharv Joshi, Kyungjoo Noh, and Yvonne Y Gao
+       https://iopscience.iop.org/article/10.1088/2058-9565/abe989/pdf
 - Quantum walks a comprehensive review - Salvador E. Venegas-Andraca
        https://arxiv.org/abs/1201.4780
 - Quantum-Enhanced Data Classification with a Variational Entangled Sensor Network - Yi Xia, Wei Li, Quntao Zhuang, Zheshen Zhang
