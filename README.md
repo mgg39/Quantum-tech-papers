@@ -88,8 +88,6 @@ The following papers are available in this repo (in order):
 - Option Pricing using Quantum Computers Nikitas Stamatopoulos, Daniel J. Egger, Yue Sun, Christa Zoufal2,3, Raban Iten2,3, Ning Shen1,
 and Stefan Woerner
        https://arxiv.org/abs/1905.02666
-- Packet Switching in Quantum Networks: A Path to Quantum Internet - Stephen DiAdamo, Bing Qi, Glen Miller, Ramana Kompella, Alireza Shabani
-       https://arxiv.org/abs/2205.07507
 - Practical randomness and privacy amplification - Cameron Foreman, Sherilyn Wright, Alec Edgington, Mario Berta, Florian J. Curchod
        https://arxiv.org/abs/2009.06551
 - Proposal for room-temperature quantum repeaters with nitrogen-vacancy centers and optomechanics - Jia-Wei Ji, Yu-Feng Wu, Stephen C. Wein, ...
