@@ -59,6 +59,8 @@ The following papers are available in this repo (in order):
        https://arxiv.org/abs/2002.03233
 - Fusion-based quantum computation - Sara Bartolucci, Patrick Birchall, Hector Bombin, Hugo Cable, Chris Dawson, Mercedes Gimeno-Segovia, Eric Johnston, ...
        https://arxiv.org/abs/2101.09310
+- Gate Set Tomography - Erik Nielsen, John King Gamble, Kenneth Rudinger, Travis Scholten, Kevin Young1, and Robin Blume-Kohout
+       https://arxiv.org/abs/2009.07301
 - Generalized GHZ States and Distributed Quantum - Anocha Yimsiriwattana, Samuel J. Lomonaco Jr
        https://arxiv.org/abs/quant-ph/0402148
 - Implementation of multidimensional quantum walks using linear optics and classical light - Sandeep K. Goyal, Filippus S. Roux, Andrew Forbes, and Thomas Konrad
