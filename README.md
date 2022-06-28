@@ -23,6 +23,8 @@ The following papers are available in this repo (in order):
        https://arxiv.org/abs/2105.02859
 - A Tutorial on Quantum Error Correction - Andrew M. Steane
        https://www2.physics.ox.ac.uk/sites/default/files/ErrorCorrectionSteane06.pdf
+- A generalization of the stabilizer formalism for simulating arbitrary quantum circuits - Theodore J. Yoder   
+       https://www.scottaaronson.com/showcase2/report/ted-yoder.pdf
 - A photonic cluster state machine gun - Netanel H. Lindner, Terry Rudolph
        https://arxiv.org/abs/0810.2587
 - A quantum walk control plane for distributed quantum computing in quantum networks - Matheus Guedes de Andrade, Wenhan Dai, Saikat Guha, Don Towsley
