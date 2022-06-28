@@ -29,6 +29,8 @@ The following papers are available in this repo (in order):
        https://arxiv.org/abs/2106.09839
 - Advances in Silicon Quantum Photonics - Jeremy C. Adcock; Jueming Bao; Yulin Chi; Xiaojiong Chen; Davide Bacco; Qihuang
        https://ieeexplore.ieee.org/document/9205209/authors#authors
+- All-photonic quantum repeaters - Koji Azuma, Kiyoshi Tamaki & Hoi-Kwong Lo
+       https://arxiv.org/abs/1309.7207
 - An Architecture for Meeting Quality-of-Service Requirements in Multi-User Quantum Networks - Matthew Skrzypczyk, Stephanie Wehner
        https://arxiv.org/abs/2111.13124
 - An introduction to measurement based quantum computation - Richard Jozsa
@@ -59,6 +61,8 @@ The following papers are available in this repo (in order):
        https://arxiv.org/abs/2002.03233
 - Fusion-based quantum computation - Sara Bartolucci, Patrick Birchall, Hector Bombin, Hugo Cable, Chris Dawson, Mercedes Gimeno-Segovia, Eric Johnston, ...
        https://arxiv.org/abs/2101.09310
+- Gate Set Tomography - Erik Nielsen, John King Gamble, Kenneth Rudinger, Travis Scholten, Kevin Young1, and Robin Blume-Kohout
+       https://arxiv.org/abs/2009.07301
 - Generalized GHZ States and Distributed Quantum - Anocha Yimsiriwattana, Samuel J. Lomonaco Jr
        https://arxiv.org/abs/quant-ph/0402148
 - Implementation of multidimensional quantum walks using linear optics and classical light - Sandeep K. Goyal, Filippus S. Roux, Andrew Forbes, and Thomas Konrad
@@ -84,8 +88,8 @@ The following papers are available in this repo (in order):
 - Option Pricing using Quantum Computers Nikitas Stamatopoulos, Daniel J. Egger, Yue Sun, Christa Zoufal2,3, Raban Iten2,3, Ning Shen1,
 and Stefan Woerner
        https://arxiv.org/abs/1905.02666
-- Packet Switching in Quantum Networks: A Path to Quantum Internet - Stephen DiAdamo, Bing Qi, Glen Miller, Ramana Kompella, Alireza Shabani
-       https://arxiv.org/abs/2205.07507
+-  Photonic resource state generation from a minimal number of quantum emitters - Bikun Li, Sophia E. Economou, and Edwin Barnes     
+       https://www.nature.com/articles/s41534-022-00522-6
 - Practical randomness and privacy amplification - Cameron Foreman, Sherilyn Wright, Alec Edgington, Mario Berta, Florian J. Curchod
        https://arxiv.org/abs/2009.06551
 - Proposal for room-temperature quantum repeaters with nitrogen-vacancy centers and optomechanics - Jia-Wei Ji, Yu-Feng Wu, Stephen C. Wein, ...
@@ -96,6 +100,8 @@ and Stefan Woerner
        https://arxiv.org/abs/2202.10894
 - Quantum Switch for the Quantum Internet: Noiseless Communications through Noisy Channels - Marcello Caleffi, Angela Sara Cacciapuoti
        https://arxiv.org/abs/1907.07432
+- Quantum advantage in learning from experiments - Hsin-Yuan Huang, Michael Broughton, Jordan Cotler, Sitan Chen, Jerry Li, ...
+       https://arxiv.org/abs/2112.00778
 - Quantum computational advantage using photons - Han-Sen Zhong, Hui Wang, Yu-Hao Deng, Ming-Cheng Chen, Li-Chao Peng, Yi-Han Luo, Jian Qin, ...
        https://www.science.org/doi/10.1126/science.abe8770
 - Quantum computational advantage with a programmable photonic processor - Lars S. Madsen, Fabian Laudenbach, Mohsen Falamarzi. Askarani, ...
