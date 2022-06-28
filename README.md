@@ -88,6 +88,8 @@ The following papers are available in this repo (in order):
 - Option Pricing using Quantum Computers Nikitas Stamatopoulos, Daniel J. Egger, Yue Sun, Christa Zoufal2,3, Raban Iten2,3, Ning Shen1,
 and Stefan Woerner
        https://arxiv.org/abs/1905.02666
+-  Photonic resource state generation from a minimal number of quantum emitters - Bikun Li, Sophia E. Economou, and Edwin Barnes     
+       https://www.nature.com/articles/s41534-022-00522-6
 - Practical randomness and privacy amplification - Cameron Foreman, Sherilyn Wright, Alec Edgington, Mario Berta, Florian J. Curchod
        https://arxiv.org/abs/2009.06551
 - Proposal for room-temperature quantum repeaters with nitrogen-vacancy centers and optomechanics - Jia-Wei Ji, Yu-Feng Wu, Stephen C. Wein, ...
