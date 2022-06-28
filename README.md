@@ -29,6 +29,8 @@ The following papers are available in this repo (in order):
        https://arxiv.org/abs/2106.09839
 - Advances in Silicon Quantum Photonics - Jeremy C. Adcock; Jueming Bao; Yulin Chi; Xiaojiong Chen; Davide Bacco; Qihuang
        https://ieeexplore.ieee.org/document/9205209/authors#authors
+- All-photonic quantum repeaters - Koji Azuma, Kiyoshi Tamaki & Hoi-Kwong Lo
+       https://arxiv.org/abs/1309.7207
 - An Architecture for Meeting Quality-of-Service Requirements in Multi-User Quantum Networks - Matthew Skrzypczyk, Stephanie Wehner
        https://arxiv.org/abs/2111.13124
 - An introduction to measurement based quantum computation - Richard Jozsa
