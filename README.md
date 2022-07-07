@@ -15,6 +15,8 @@ Re-curring topics on this list are:
 - Quantum memories
 - Experimental simulating tools
 - Quantum markets and hype
+- Quantum Machine Learning (QML)
+  - QML for Earth Observation
 
 The following papers are available in this repo (in order):
 - Quantum networking, by  Rodney Van Meter (book)
@@ -31,6 +33,7 @@ The following papers are available in this repo (in order):
        https://arxiv.org/abs/2106.09839
 - Advances in Silicon Quantum Photonics - Jeremy C. Adcock; Jueming Bao; Yulin Chi; Xiaojiong Chen; Davide Bacco; Qihuang
        https://ieeexplore.ieee.org/document/9205209/authors#authors
+- Advantages and Bottlenecks of Quantum Machine Learning for Remote Sensing - Daniela A. Zaidenberg, Alessandro Sebastianelli, Dario Spiller, Bertrand Le Saux, Silvia Liberata Ullo https://arxiv.org/abs/2101.10657 or https://ieeexplore.ieee.org/document/9553133
 - All-photonic quantum repeaters - Koji Azuma, Kiyoshi Tamaki & Hoi-Kwong Lo
        https://arxiv.org/abs/1309.7207
 - An Architecture for Meeting Quality-of-Service Requirements in Multi-User Quantum Networks - Matthew Skrzypczyk, Stephanie Wehner
@@ -83,6 +86,7 @@ The following papers are available in this repo (in order):
        https://arxiv.org/abs/2105.06707
 - NetSquid, a NETwork Simulator for QUantum Information using Discrete events - Tim Coopmans, Robert Knegjens, Axel Dahlberg, David Maier, Loek Nijsten, ...
        https://arxiv.org/abs/2010.12535
+- On Circuit-based Hybrid Quantum Neural Networks for Remote Sensing Imagery Classification - Alessandro Sebastianelli, Daniela A. Zaidenberg, Dario Spiller, Bertrand Le Saux, Silvia Liberata Ullo https://arxiv.org/abs/2109.09484 or https://ieeexplore.ieee.org/document/9647979
 - One-Dimensional Quantum Walks - Andris Ambainis, Eric Bach, Ashwin Nayak, Ashvin Vishwanath, John Watrous
        https://dl.acm.org/doi/10.1145/380752.380757
 - Optimal architectures for long distance quantum communication - Sreraman Muralidharan, Linshu Li, Jungsang Kim, Norbert Lütkenhaus, Mikhail D. Lukin & Liang Jiang
