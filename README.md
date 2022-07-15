@@ -56,6 +56,8 @@ The following papers are available in this repo (in order):
        https://arxiv.org/abs/2010.02575
 - Discrete simulation of quantum walks - Madita Willsch, Dennis Willsch, Kristel Michielsen, and Hans De Raedt
        https://www.frontiersin.org/articles/10.3389/fphy.2020.00145/full
+- Distribution of entanglement in large-scale quantum networks - S Perseguers, G J Lapeyre Jr, D Cavalcanti, M Lewenstein and A Acin
+       https://iopscience.iop.org/article/10.1088/0034-4885/76/9/096001/pdf
 - Error Correcting Codes in Quantum Theory, Andrew Steane
        https://users.physics.ox.ac.uk/~Steane/pubs/Steane_PRL95.pdf 
 - Experimental demonstration of memory-enhanced quantum communication - Mihir K. Bhaskar, Ralf Riedinger, Bartholomeus Machielse, David S. Levonian,...
