@@ -74,6 +74,8 @@ The following papers are available in this repo (in order):
        https://arxiv.org/abs/quant-ph/0402148
 - Implementation of multidimensional quantum walks using linear optics and classical light - Sandeep K. Goyal, Filippus S. Roux, Andrew Forbes, and Thomas Konrad
        https://journals.aps.org/pra/abstract/10.1103/PhysRevA.92.040302
+- Implementing Post-quantum Cryptography for Developers - Julius Hekkala, Kimmo Halunen and Visa Vallivaara
+       https://www.scitepress.org/Papers/2022/107862/107862.pdf
 - Implementing the quantum random walk - B. C. Travaglione, G. J. Milburn
        https://arxiv.org/abs/quant-ph/0109076
 -Linear growth of quantum circuit complexity, by Jonas Haferkamp, Philippe Faist , Naga B. T. Kothakonda, Jens Eisert, and Nicole Yunger Halpern.
