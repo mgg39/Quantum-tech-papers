@@ -15,6 +15,8 @@ Re-curring topics on this list are:
 - Quantum memories
 - Experimental simulating tools
 - Quantum markets and hype
+- Quantum Machine Learning (QML)
+  - QML for Earth Observation
 
 The following papers are available in this repo (in order):
 - Quantum networking, by  Rodney Van Meter (book)
@@ -31,6 +33,7 @@ The following papers are available in this repo (in order):
        https://arxiv.org/abs/2106.09839
 - Advances in Silicon Quantum Photonics - Jeremy C. Adcock; Jueming Bao; Yulin Chi; Xiaojiong Chen; Davide Bacco; Qihuang
        https://ieeexplore.ieee.org/document/9205209/authors#authors
+- Advantages and Bottlenecks of Quantum Machine Learning for Remote Sensing - Daniela A. Zaidenberg, Alessandro Sebastianelli, Dario Spiller, Bertrand Le Saux, Silvia Liberata Ullo https://arxiv.org/abs/2101.10657 or https://ieeexplore.ieee.org/document/9553133
 - All-photonic quantum repeaters - Koji Azuma, Kiyoshi Tamaki & Hoi-Kwong Lo
        https://arxiv.org/abs/1309.7207
 - An Architecture for Meeting Quality-of-Service Requirements in Multi-User Quantum Networks - Matthew Skrzypczyk, Stephanie Wehner
@@ -53,6 +56,8 @@ The following papers are available in this repo (in order):
        https://arxiv.org/abs/2010.02575
 - Discrete simulation of quantum walks - Madita Willsch, Dennis Willsch, Kristel Michielsen, and Hans De Raedt
        https://www.frontiersin.org/articles/10.3389/fphy.2020.00145/full
+- Distribution of entanglement in large-scale quantum networks - S Perseguers, G J Lapeyre Jr, D Cavalcanti, M Lewenstein and A Acin
+       https://iopscience.iop.org/article/10.1088/0034-4885/76/9/096001/pdf
 - Error Correcting Codes in Quantum Theory, Andrew Steane
        https://users.physics.ox.ac.uk/~Steane/pubs/Steane_PRL95.pdf 
 - Experimental demonstration of memory-enhanced quantum communication - Mihir K. Bhaskar, Ralf Riedinger, Bartholomeus Machielse, David S. Levonian,...
@@ -69,6 +74,8 @@ The following papers are available in this repo (in order):
        https://arxiv.org/abs/quant-ph/0402148
 - Implementation of multidimensional quantum walks using linear optics and classical light - Sandeep K. Goyal, Filippus S. Roux, Andrew Forbes, and Thomas Konrad
        https://journals.aps.org/pra/abstract/10.1103/PhysRevA.92.040302
+- Implementing Post-quantum Cryptography for Developers - Julius Hekkala, Kimmo Halunen and Visa Vallivaara
+       https://www.scitepress.org/Papers/2022/107862/107862.pdf
 - Implementing the quantum random walk - B. C. Travaglione, G. J. Milburn
        https://arxiv.org/abs/quant-ph/0109076
 -Linear growth of quantum circuit complexity, by Jonas Haferkamp, Philippe Faist , Naga B. T. Kothakonda, Jens Eisert, and Nicole Yunger Halpern.
@@ -83,6 +90,7 @@ The following papers are available in this repo (in order):
        https://arxiv.org/abs/2105.06707
 - NetSquid, a NETwork Simulator for QUantum Information using Discrete events - Tim Coopmans, Robert Knegjens, Axel Dahlberg, David Maier, Loek Nijsten, ...
        https://arxiv.org/abs/2010.12535
+- On Circuit-based Hybrid Quantum Neural Networks for Remote Sensing Imagery Classification - Alessandro Sebastianelli, Daniela A. Zaidenberg, Dario Spiller, Bertrand Le Saux, Silvia Liberata Ullo https://arxiv.org/abs/2109.09484 or https://ieeexplore.ieee.org/document/9647979
 - One-Dimensional Quantum Walks - Andris Ambainis, Eric Bach, Ashwin Nayak, Ashvin Vishwanath, John Watrous
        https://dl.acm.org/doi/10.1145/380752.380757
 - Optimal architectures for long distance quantum communication - Sreraman Muralidharan, Linshu Li, Jungsang Kim, Norbert Lütkenhaus, Mikhail D. Lukin & Liang Jiang
