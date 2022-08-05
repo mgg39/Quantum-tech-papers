@@ -128,6 +128,8 @@ and Stefan Woerner
        https://arxiv.org/abs/2006.11962
 - Quantum Long Short-Term Memory - Samuel Yen-Chi Chen, Shinjae Yoo, Yao-Lung L. Fang
        https://arxiv.org/abs/2009.01783
+- Realization of Real-Time Fault-Tolerant Quantum Error Correction - C. Ryan-Anderson, J. G. Bohnet, K. Lee, D. Gresh, A. Hankin, J. P. Gaebler, Francois, A. Chernoguzov, ...
+       https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.041058
 - Request_Scheduling_in_Quantum_Networks - C. Cicconetti, M. Conti, and A. Passarella
        https://www.researchgate.net/publication/352621787_Request_Scheduling_in_Quantum_Networks
 - Scaling silicon-based quantum computing using CMOS technology - M. F. Gonzalez-Zalba, S. de Franceschi, E. Charbon, T. Meunier, M. Vinet, A. S. Dzurak
