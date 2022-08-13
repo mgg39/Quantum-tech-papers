@@ -98,6 +98,8 @@ The following papers are available in this repo (in order):
 - Option Pricing using Quantum Computers Nikitas Stamatopoulos, Daniel J. Egger, Yue Sun, Christa Zoufal2,3, Raban Iten2,3, Ning Shen1,
 and Stefan Woerner
        https://arxiv.org/abs/1905.02666
+- Phase sensitivity at the Heisenberg limit in an SU(1,1) interferometer via parity detection - Dong Li, Bryan T. Gard, Yang Gao3, Chun-Hua Yuan1, Weiping Zhang1, Hwang Lee, Jonathan P. Dowling
+       https://arxiv.org/abs/1603.09019
 -  Photonic resource state generation from a minimal number of quantum emitters - Bikun Li, Sophia E. Economou, and Edwin Barnes     
        https://www.nature.com/articles/s41534-022-00522-6
 - Practical randomness and privacy amplification - Cameron Foreman, Sherilyn Wright, Alec Edgington, Mario Berta, Florian J. Curchod
