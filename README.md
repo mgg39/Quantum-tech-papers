@@ -66,6 +66,8 @@ The following papers are available in this repo (in order):
        https://arxiv.org/abs/1605.05647
 - Five open problems in theory of quantum information - Paweł Horodecki, Łukasz Rudnicki, Karol Życzkowski
        https://arxiv.org/abs/2002.03233
+- Foundations for Near-Term Quantum Natural Language Processing - Bob Coecke, Giovanni de Felice, Konstantinos Meichanetzidis, Alexis Toumi
+       https://arxiv.org/abs/2012.03755
 - Fusion-based quantum computation - Sara Bartolucci, Patrick Birchall, Hector Bombin, Hugo Cable, Chris Dawson, Mercedes Gimeno-Segovia, Eric Johnston, ...
        https://arxiv.org/abs/2101.09310
 - Gate Set Tomography - Erik Nielsen, John King Gamble, Kenneth Rudinger, Travis Scholten, Kevin Young1, and Robin Blume-Kohout
