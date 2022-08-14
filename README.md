@@ -66,6 +66,8 @@ The following papers are available in this repo (in order):
        https://arxiv.org/abs/1605.05647
 - Five open problems in theory of quantum information - Paweł Horodecki, Łukasz Rudnicki, Karol Życzkowski
        https://arxiv.org/abs/2002.03233
+- Foundations for Near-Term Quantum Natural Language Processing - Bob Coecke, Giovanni de Felice, Konstantinos Meichanetzidis, Alexis Toumi
+       https://arxiv.org/abs/2012.03755
 - Fusion-based quantum computation - Sara Bartolucci, Patrick Birchall, Hector Bombin, Hugo Cable, Chris Dawson, Mercedes Gimeno-Segovia, Eric Johnston, ...
        https://arxiv.org/abs/2101.09310
 - Gate Set Tomography - Erik Nielsen, John King Gamble, Kenneth Rudinger, Travis Scholten, Kevin Young1, and Robin Blume-Kohout
@@ -98,6 +100,8 @@ The following papers are available in this repo (in order):
 - Option Pricing using Quantum Computers Nikitas Stamatopoulos, Daniel J. Egger, Yue Sun, Christa Zoufal2,3, Raban Iten2,3, Ning Shen1,
 and Stefan Woerner
        https://arxiv.org/abs/1905.02666
+- Phase sensitivity at the Heisenberg limit in an SU(1,1) interferometer via parity detection - Dong Li, Bryan T. Gard, Yang Gao3, Chun-Hua Yuan1, Weiping Zhang1, Hwang Lee, Jonathan P. Dowling
+       https://arxiv.org/abs/1603.09019
 -  Photonic resource state generation from a minimal number of quantum emitters - Bikun Li, Sophia E. Economou, and Edwin Barnes     
        https://www.nature.com/articles/s41534-022-00522-6
 - Practical randomness and privacy amplification - Cameron Foreman, Sherilyn Wright, Alec Edgington, Mario Berta, Florian J. Curchod
@@ -166,6 +170,8 @@ and Stefan Woerner
        https://arxiv.org/abs/2006.09335
 - Why Philosophers Should Care About Computational Complexity - Scott Aaronson
        https://arxiv.org/abs/1108.1791
+- lambeq: An Efficient High-Level Python Library for Quantum NLP
+       https://arxiv.org/abs/2110.04236
 
 # Notes:
 If you would like to add any paper to this repository please feel free to create a pull request &/or reach out to me via linkedin or email.
