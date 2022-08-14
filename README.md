@@ -170,6 +170,8 @@ and Stefan Woerner
        https://arxiv.org/abs/2006.09335
 - Why Philosophers Should Care About Computational Complexity - Scott Aaronson
        https://arxiv.org/abs/1108.1791
+- lambeq: An Efficient High-Level Python Library for Quantum NLP
+       https://arxiv.org/abs/2110.04236
 
 # Notes:
 If you would like to add any paper to this repository please feel free to create a pull request &/or reach out to me via linkedin or email.
