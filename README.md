@@ -114,6 +114,8 @@ and Stefan Woerner
        https://arxiv.org/abs/2010.12259
 - Quantum Internet Protocol Stack a Comprehensive Survey - Jessica Illiano, Marcello Caleffi, Antonio Manzalini, Angela Sara Cacciapuoti
        https://arxiv.org/abs/2202.10894
+- Quantum Particles and Classical Particles - Nathan Rosen
+       https://link.springer.com/article/10.1007/BF00735376
 - Quantum Switch for the Quantum Internet: Noiseless Communications through Noisy Channels - Marcello Caleffi, Angela Sara Cacciapuoti
        https://arxiv.org/abs/1907.07432
 - Quantum advantage in learning from experiments - Hsin-Yuan Huang, Michael Broughton, Jordan Cotler, Sitan Chen, Jerry Li, ...
