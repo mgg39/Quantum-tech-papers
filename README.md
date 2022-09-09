@@ -21,6 +21,8 @@ Re-curring topics on this list are:
 The following papers are available in this repo (in order):
 - Quantum networking, by  Rodney Van Meter (book)
 - Schrödinger's Web: Race to Build the Quantum Internet, by Jonathan Dowling (book)
+- 2D materials for quantum information science
+       https://www.nature.com/articles/s41578-019-0136-x
 - A Grand Unification of Quantum Algorithms - John M. Martyn, Zane M. Rossi, Andrew K. Tan, Isaac L. Chuang
        https://arxiv.org/abs/2105.02859
 - A Tutorial on Quantum Error Correction - Andrew M. Steane
@@ -62,6 +64,8 @@ The following papers are available in this repo (in order):
        https://users.physics.ox.ac.uk/~Steane/pubs/Steane_PRL95.pdf 
 - Experimental demonstration of memory-enhanced quantum communication - Mihir K. Bhaskar, Ralf Riedinger, Bartholomeus Machielse, David S. Levonian,...
        https://arxiv.org/abs/1909.01323
+- Experimental exploration of five-qubit quantum error-correcting code with superconducting qubits - Ming Gong, Xiao Yuan, Shiyu Wang, Yulin Wu, ...
+       https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiH6f7Sk8n5AhW6S0EAHYpcCL0QFnoECAsQAQ&url=https%3A%2F%2Fora.ox.ac.uk%2Fobjects%2Fuuid%3A5b2e5204-7746-4569-807e-77654a77313a%2Ffiles%2Fs0v838175c&usg=AOvVaw3l2-7GFf0m6Fw14IpYljjx
 - Fault-tolerant Preparation of Stabilizer States for Quantum CSS Codes by Classical Error-Correcting Codes - Ching-Yi Lai, Yi-Cong Zheng, and Todd A. Brun
        https://arxiv.org/abs/1605.05647
 - Five open problems in theory of quantum information - Paweł Horodecki, Łukasz Rudnicki, Karol Życzkowski
@@ -112,6 +116,8 @@ and Stefan Woerner
        https://arxiv.org/abs/2010.12259
 - Quantum Internet Protocol Stack a Comprehensive Survey - Jessica Illiano, Marcello Caleffi, Antonio Manzalini, Angela Sara Cacciapuoti
        https://arxiv.org/abs/2202.10894
+- Quantum Particles and Classical Particles - Nathan Rosen
+       https://link.springer.com/article/10.1007/BF00735376
 - Quantum Switch for the Quantum Internet: Noiseless Communications through Noisy Channels - Marcello Caleffi, Angela Sara Cacciapuoti
        https://arxiv.org/abs/1907.07432
 - Quantum advantage in learning from experiments - Hsin-Yuan Huang, Michael Broughton, Jordan Cotler, Sitan Chen, Jerry Li, ...
