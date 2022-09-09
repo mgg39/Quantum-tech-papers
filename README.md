@@ -21,6 +21,8 @@ Re-curring topics on this list are:
 The following papers are available in this repo (in order):
 - Quantum networking, by  Rodney Van Meter (book)
 - Schrödinger's Web: Race to Build the Quantum Internet, by Jonathan Dowling (book)
+- 2D materials for quantum information science
+       https://www.nature.com/articles/s41578-019-0136-x
 - A Grand Unification of Quantum Algorithms - John M. Martyn, Zane M. Rossi, Andrew K. Tan, Isaac L. Chuang
        https://arxiv.org/abs/2105.02859
 - A Tutorial on Quantum Error Correction - Andrew M. Steane
