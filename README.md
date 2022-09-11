@@ -1,24 +1,6 @@
 # Quantum-networking-papers
-This repo contains some of the papers and publications, I have read over the past few months, that pertain to quantum technology development.
-It is not a curated list of the most recommended publications for a beginner in the quantum networking field, but rather a journal (of sorts) that depics my journey through publications.
-Re-curring topics on this list are:
-- Quantum protocol design
-- Quantum algorithms
-- The Quantum internet
-- Silicon based quantum technologies
-- The Hong-Ou-Mandel effect
-- Quantum circuits 
-- Quantum error correction
-- Electron-spin states
-- Commercial and philosophical views on quantum technologies
-- Quantum repeater architectures
-- Quantum memories
-- Experimental simulating tools
-- Quantum markets and hype
-- Quantum Machine Learning (QML)
-  - QML for Earth Observation
+This branch contains all the papers I have read in the 2021/2022 academic year and summer:
 
-The following papers are available in this repo (in order):
 - Quantum networking, by  Rodney Van Meter (book)
 - Schrödinger's Web: Race to Build the Quantum Internet, by Jonathan Dowling (book)
 - 2D materials for quantum information science
