@@ -160,6 +160,8 @@ and Stefan Woerner
      https://arxiv.org/abs/1208.0928   
 - Teleportation of entanglement over 143 km - Thomas Herbst, Thomas Scheidl, Matthias Fink, Johannes Handsteiner, Bernhard Wittmann, Rupert Ursin, Anton Zeilinger
        https://arxiv.org/abs/1403.0009
+- The Physical Implementation of Quantum Computation
+       https://arxiv.org/abs/quant-ph/0002077
 - The SWAP test and the Hong-Ou-Mandel effect are equivalent - Juan Carlos Garcia-Escartin, Pedro Chamorro-Posada
        https://arxiv.org/abs/1303.6814
 - The Toric Code, Paul Herringer
