@@ -44,6 +44,8 @@ The following papers are available in this repo (in order):
        https://arxiv.org/abs/quant-ph/0508124
 - Anti-Hong-Ou-Mandel effect with entangled photons - Anton N. Vetlugin, Ruixiang Guo, Cesare Soci, Nikolay I. Zheludev
        https://arxiv.org/abs/2105.05444
+- Assembly and coherent control of a register of nuclear spin qubits
+       https://arxiv.org/abs/2108.04790
 - Automated distribution of quantum circuits via hypergraph partitioning - Pablo Andrés-Martínez, Chris Heunen
        https://arxiv.org/abs/1811.10972
 - Blueprint for a Scalable Photonic Fault-Tolerant Quantum Computer - J. Eli Bourassa, Rafael N. Alexander, Michael Vasmer, Ashlesha Patil, ...
