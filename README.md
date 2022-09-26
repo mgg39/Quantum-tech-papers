@@ -40,6 +40,8 @@ The following papers are available in this repo (in order):
        https://arxiv.org/abs/1309.7207
 - An Architecture for Meeting Quality-of-Service Requirements in Multi-User Quantum Networks - Matthew Skrzypczyk, Stephanie Wehner
        https://arxiv.org/abs/2111.13124
+- An energy efficient multipliers using reversible gates
+       https://www.researchgate.net/publication/347857423_An_energy_efficient_multipliers_using_reversible_gates
 - An introduction to measurement based quantum computation - Richard Jozsa
        https://arxiv.org/abs/quant-ph/0508124
 - Anti-Hong-Ou-Mandel effect with entangled photons - Anton N. Vetlugin, Ruixiang Guo, Cesare Soci, Nikolay I. Zheludev
