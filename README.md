@@ -4,6 +4,8 @@ This branch contains all the papers I have read in the 2022/2023 academic year a
        https://www.researchgate.net/publication/347857423_An_energy_efficient_multipliers_using_reversible_gates
 - Assembly and coherent control of a register of nuclear spin qubits
        https://arxiv.org/abs/2108.04790
+ - Quantum Data Center: Theories and Applications
+       https://arxiv.org/abs/2207.14336
 - The Physical Implementation of Quantum Computation
        https://arxiv.org/abs/quant-ph/0002077
 
