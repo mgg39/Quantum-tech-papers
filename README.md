@@ -118,6 +118,8 @@ and Stefan Woerner
        https://arxiv.org/abs/2012.06687
 - Protocols for creating and distilling multipartite GHZ states with Bell pairs - Sébastian de Bone, Runsheng Ouyang, Kenneth Goodenough, David Elkouss
        https://arxiv.org/abs/2010.12259
+- Quantum Data Center: Theories and Applications - Junyu Liu, Connor T. Hann, and Liang Jiang1
+       https://arxiv.org/abs/2207.14336
 - Quantum Internet Protocol Stack a Comprehensive Survey - Jessica Illiano, Marcello Caleffi, Antonio Manzalini, Angela Sara Cacciapuoti
        https://arxiv.org/abs/2202.10894
 - Quantum Particles and Classical Particles - Nathan Rosen
