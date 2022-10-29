@@ -6,6 +6,8 @@ This branch contains all the papers I have read in the 2022/2023 academic year a
        https://arxiv.org/abs/2108.04790
  - Quantum Data Center: Theories and Applications
        https://arxiv.org/abs/2207.14336
+ - Field-Deployable Quantum Memory for Quantum Networking - Yang Wang, Alexander N. Craddock, Rourke Sekelsky, Mael Flament, and Mehdi Namazi
+       https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.18.044058
 - The Physical Implementation of Quantum Computation
        https://arxiv.org/abs/quant-ph/0002077
 
