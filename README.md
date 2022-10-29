@@ -72,6 +72,8 @@ The following papers are available in this repo (in order):
        https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiH6f7Sk8n5AhW6S0EAHYpcCL0QFnoECAsQAQ&url=https%3A%2F%2Fora.ox.ac.uk%2Fobjects%2Fuuid%3A5b2e5204-7746-4569-807e-77654a77313a%2Ffiles%2Fs0v838175c&usg=AOvVaw3l2-7GFf0m6Fw14IpYljjx
 - Fault-tolerant Preparation of Stabilizer States for Quantum CSS Codes by Classical Error-Correcting Codes - Ching-Yi Lai, Yi-Cong Zheng, and Todd A. Brun
        https://arxiv.org/abs/1605.05647
+- Field-Deployable Quantum Memory for Quantum Networking - Yang Wang, Alexander N. Craddock, Rourke Sekelsky, Mael Flament, and Mehdi Namazi
+       https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.18.044058
 - Five open problems in theory of quantum information - Paweł Horodecki, Łukasz Rudnicki, Karol Życzkowski
        https://arxiv.org/abs/2002.03233
 - Foundations for Near-Term Quantum Natural Language Processing - Bob Coecke, Giovanni de Felice, Konstantinos Meichanetzidis, Alexis Toumi
