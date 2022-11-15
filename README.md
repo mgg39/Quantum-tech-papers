@@ -1,5 +1,7 @@
 # Quantum-information-papers
 This branch contains all the papers I have read in the 2022/2023 academic year and summer:
+- A Preprocessing Perspective for Quantum Machine Learning Classification Advantage in Finance Using NISQ Algorithms - Javier Mancilla, Christophe Pere 
+       https://www.mdpi.com/1099-4300/24/11/1656
 - An energy efficient multipliers using reversible gates
        https://www.researchgate.net/publication/347857423_An_energy_efficient_multipliers_using_reversible_gates
 - Assembly and coherent control of a register of nuclear spin qubits
