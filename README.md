@@ -25,6 +25,8 @@ The following papers are available in this repo (in order):
        https://www.nature.com/articles/s41578-019-0136-x
 - A Grand Unification of Quantum Algorithms - John M. Martyn, Zane M. Rossi, Andrew K. Tan, Isaac L. Chuang
        https://arxiv.org/abs/2105.02859
+- A Preprocessing Perspective for Quantum Machine Learning Classification Advantage in Finance Using NISQ Algorithms - Javier Mancilla, Christophe Pere 
+       https://www.mdpi.com/1099-4300/24/11/1656
 - A Tutorial on Quantum Error Correction - Andrew M. Steane
        https://www2.physics.ox.ac.uk/sites/default/files/ErrorCorrectionSteane06.pdf
 - A generalization of the stabilizer formalism for simulating arbitrary quantum circuits - Theodore J. Yoder   
