@@ -148,6 +148,8 @@ and Stefan Woerner
        https://arxiv.org/abs/2006.11962
 - Quantum Long Short-Term Memory - Samuel Yen-Chi Chen, Shinjae Yoo, Yao-Lung L. Fang
        https://arxiv.org/abs/2009.01783
+- Real-time quantum error correction beyond break-even
+       https://arxiv.org/abs/2211.09116
 - Realization of Real-Time Fault-Tolerant Quantum Error Correction - C. Ryan-Anderson, J. G. Bohnet, K. Lee, D. Gresh, A. Hankin, J. P. Gaebler, Francois, A. Chernoguzov, ...
        https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.041058
 - Request_Scheduling_in_Quantum_Networks - C. Cicconetti, M. Conti, and A. Passarella
