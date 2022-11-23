@@ -86,6 +86,8 @@ The following papers are available in this repo (in order):
        https://arxiv.org/abs/2009.07301
 - Generalized GHZ States and Distributed Quantum - Anocha Yimsiriwattana, Samuel J. Lomonaco Jr
        https://arxiv.org/abs/quant-ph/0402148
+- How many qubits are needed for quantum computational supremacy? - Alexander M. Dalzell1, Aram W. Harrow, Dax Enshan Koh, and Rolando L. La Placa 
+       https://quantum-journal.org/papers/q-2020-05-11-264/
 - Implementation of multidimensional quantum walks using linear optics and classical light - Sandeep K. Goyal, Filippus S. Roux, Andrew Forbes, and Thomas Konrad
        https://journals.aps.org/pra/abstract/10.1103/PhysRevA.92.040302
 - Implementing Post-quantum Cryptography for Developers - Julius Hekkala, Kimmo Halunen and Visa Vallivaara
