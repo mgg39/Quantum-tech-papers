@@ -6,8 +6,10 @@ Re-curring topics on this list are:
 - Quantum algorithms
 - The Quantum internet
 - Silicon based quantum technologies
+- Ion traps
 - The Hong-Ou-Mandel effect
 - Quantum circuits 
+- Programmable quantum gates
 - Quantum error correction
 - Electron-spin states
 - Commercial and philosophical views on quantum technologies
@@ -16,7 +18,6 @@ Re-curring topics on this list are:
 - Experimental simulating tools
 - Quantum markets and hype
 - Quantum Machine Learning (QML)
-  - QML for Earth Observation
 
 The following papers are available in this repo (in order):
 - Quantum networking, by  Rodney Van Meter (book)
@@ -116,10 +117,12 @@ and Stefan Woerner
        https://arxiv.org/abs/1905.02666
 - Phase sensitivity at the Heisenberg limit in an SU(1,1) interferometer via parity detection - Dong Li, Bryan T. Gard, Yang Gao3, Chun-Hua Yuan1, Weiping Zhang1, Hwang Lee, Jonathan P. Dowling
        https://arxiv.org/abs/1603.09019
--  Photonic resource state generation from a minimal number of quantum emitters - Bikun Li, Sophia E. Economou, and Edwin Barnes     
+- Photonic resource state generation from a minimal number of quantum emitters - Bikun Li, Sophia E. Economou, and Edwin Barnes     
        https://www.nature.com/articles/s41534-022-00522-6
 - Practical randomness and privacy amplification - Cameron Foreman, Sherilyn Wright, Alec Edgington, Mario Berta, Florian J. Curchod
        https://arxiv.org/abs/2009.06551
+- Programmable Heisenberg interactions between Floquet qubits - Long B. Nguyen, Yosep Kim, Akel Hashim, Noah Goss, Brian Marinelli, ... 
+       https://arxiv.org/abs/2211.10383
 - Proposal for room-temperature quantum repeaters with nitrogen-vacancy centers and optomechanics - Jia-Wei Ji, Yu-Feng Wu, Stephen C. Wein, ...
        https://arxiv.org/abs/2012.06687
 - Protocols for creating and distilling multipartite GHZ states with Bell pairs - Sébastian de Bone, Runsheng Ouyang, Kenneth Goodenough, David Elkouss
