@@ -10,6 +10,8 @@ This branch contains all the papers I have read in the 2022/2023 academic year a
        https://arxiv.org/abs/2108.04790
 - Energy-Efficient Superconducting Computing—Power Budgets and Requirements
        https://ieeexplore.ieee.org/abstract/document/6449287
+- Establishing the quantum supremacy frontier with a 281 Pflop/s simulation
+       https://iopscience.iop.org/article/10.1088/2058-9565/ab7eeb/pdf?casa_token=fqUuMeRiHW8AAAAA:-qCFEf4B8q71vIHgiBtzWC_CMtpzILLTB5PaGoVOSn-EugRt6crwFnEY65HH3AwY_zVOkq2gmQ
 - Experimental Demonstration of Quantum Key Distribution (QKD) for Energy-Efficient Software-Defined Internet of Things - Alex Mavromatis, Foteini Ntavou, Emilio Hugues Salas, ...
        https://ieeexplore.ieee.org/abstract/document/8535267
 - Field-Deployable Quantum Memory for Quantum Networking - Yang Wang, Alexander N. Craddock, Rourke Sekelsky, Mael Flament, and Mehdi Namazi
