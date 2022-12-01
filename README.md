@@ -42,6 +42,8 @@ This branch contains all the papers I have read in the 2022/2023 academic year a
        https://github.com/intarchboard/e-impact-workshop-public/blob/main/papers/Welzel-Alay-Teymoori-Islam_Reducing-Green-House-Gas-Emissions-With-Congestion-Control-v2.pdf
 - Room temperature quantum key distribution characteristics of low‑noise InGaAs/InP single‑photon avalanche diode - Soo‑Hyun Baek, Seung‑Chul Yang1, Chan‑Yong Park
        https://link.springer.com/article/10.1007/s40042-021-00111-4
+- The Computational and Latency Advantage of Quantum Communication Networks - Roberto Ferrara, Riccardo Bassoli, Christian Deppe, Frank H.P. Fitzek and Holger Boche
+       https://arxiv.org/pdf/2106.03360.pdf
 - The Physical Implementation of Quantum Computation
        https://arxiv.org/abs/quant-ph/0002077
 - Universal and operational benchmarking of quantum memories - Xiao Yuan, Yunchao Liu, Qi Zhao, Bartosz Regula, Jayne Thompson and Mile Gu
