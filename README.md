@@ -32,6 +32,8 @@ This branch contains all the papers I have read in the 2022/2023 academic year a
        https://arxiv.org/pdf/1903.10685.pdf
 - Quantum Data Center: Theories and Applications
        https://arxiv.org/abs/2207.14336
+- Quantum principal component analysis - Seth Lloyd, Masoud Mohseni and Patrick Rebentrost
+       https://www.nature.com/articles/nphys3029#Sec2
 - Quantum supremacy using a programmable superconducting processor - Frank Arute1, Kunal Arya1, Ryan Babbush1, Dave Bacon
        https://www.nature.com/articles/s41586-019-1666-5
 - Real-time quantum error correction beyond break-even     
