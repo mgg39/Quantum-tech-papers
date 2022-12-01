@@ -2,22 +2,30 @@
 This branch contains all the papers I have read in the 2022/2023 academic year and summer:
 - A Preprocessing Perspective for Quantum Machine Learning Classification Advantage in Finance Using NISQ Algorithms - Javier Mancilla, Christophe Pere 
        https://www.mdpi.com/1099-4300/24/11/1656
+- A Review of Quantum Computer Energy Efficiency - Nelly Elsayed† Anthony S. Maida† Magdy Bayoumi
+       https://ieeexplore.ieee.org/abstract/document/8767125
 - An energy efficient multipliers using reversible gates
        https://www.researchgate.net/publication/347857423_An_energy_efficient_multipliers_using_reversible_gates
 - Assembly and coherent control of a register of nuclear spin qubits
        https://arxiv.org/abs/2108.04790
+- Field-Deployable Quantum Memory for Quantum Networking - Yang Wang, Alexander N. Craddock, Rourke Sekelsky, Mael Flament, and Mehdi Namazi
+       https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.18.044058
 - How many qubits are needed for quantum computational supremacy? - Alexander M. Dalzell1, Aram W. Harrow, Dax Enshan Koh, and Rolando L. La Placa
        https://quantum-journal.org/papers/q-2020-05-11-264/
+- Memory cost of quantum protocols - Alessandro Bisio, Giacomo Mauro D’Ariano, and Paolo Perinott
+       https://www.researchgate.net/publication/51965796_Memory_cost_of_quantum_protocols
 - Programmable Heisenberg interactions between Floquet qubits - Long B. Nguyen, Yosep Kim, Akel Hashim, Noah Goss, Brian Marinelli, ...
        https://arxiv.org/abs/2211.10383
 - Quantum Data Center: Theories and Applications
        https://arxiv.org/abs/2207.14336
-- Field-Deployable Quantum Memory for Quantum Networking - Yang Wang, Alexander N. Craddock, Rourke Sekelsky, Mael Flament, and Mehdi Namazi
-       https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.18.044058
+- Quantum supremacy using a programmable superconducting processor - Frank Arute1, Kunal Arya1, Ryan Babbush1, Dave Bacon
+       https://www.nature.com/articles/s41586-019-1666-5
 - Real-time quantum error correction beyond break-even     
        https://arxiv.org/abs/2211.09116
 - The Physical Implementation of Quantum Computation
        https://arxiv.org/abs/quant-ph/0002077
+- Universal and operational benchmarking of quantum memories - Xiao Yuan, Yunchao Liu, Qi Zhao, Bartosz Regula, Jayne Thompson and Mile Gu
+       https://bartoszregula.me/pdf/s41534-021-00444-9.pdf
 
 
 # Notes:
