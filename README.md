@@ -28,6 +28,8 @@ This branch contains all the papers I have read in the 2022/2023 academic year a
        https://github.com/intarchboard/e-impact-workshop-public/blob/main/papers/Clemm-Dong-Mirsky-Ciavaglia-Tantsura-Odini_Green-Networking-Metrics.pdf
 - Programmable Heisenberg interactions between Floquet qubits - Long B. Nguyen, Yosep Kim, Akel Hashim, Noah Goss, Brian Marinelli, ...
        https://arxiv.org/abs/2211.10383
+- Protocols for Packet Quantum Network Intercommunication - Nengkun Yu, Ching-Yi Lai, and Li Zhou
+       https://arxiv.org/pdf/1903.10685.pdf
 - Quantum Data Center: Theories and Applications
        https://arxiv.org/abs/2207.14336
 - Quantum supremacy using a programmable superconducting processor - Frank Arute1, Kunal Arya1, Ryan Babbush1, Dave Bacon
