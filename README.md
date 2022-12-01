@@ -28,6 +28,8 @@ The following papers are available in this repo (in order):
        https://arxiv.org/abs/2105.02859
 - A Preprocessing Perspective for Quantum Machine Learning Classification Advantage in Finance Using NISQ Algorithms - Javier Mancilla, Christophe Pere 
        https://www.mdpi.com/1099-4300/24/11/1656
+- A Review of Quantum Computer Energy Efficiency - Nelly Elsayed† Anthony S. Maida† Magdy Bayoumi
+       https://ieeexplore.ieee.org/abstract/document/8767125
 - A Tutorial on Quantum Error Correction - Andrew M. Steane
        https://www2.physics.ox.ac.uk/sites/default/files/ErrorCorrectionSteane06.pdf
 - A generalization of the stabilizer formalism for simulating arbitrary quantum circuits - Theodore J. Yoder   
@@ -67,8 +69,14 @@ The following papers are available in this repo (in order):
        https://www.frontiersin.org/articles/10.3389/fphy.2020.00145/full
 - Distribution of entanglement in large-scale quantum networks - S Perseguers, G J Lapeyre Jr, D Cavalcanti, M Lewenstein and A Acin
        https://iopscience.iop.org/article/10.1088/0034-4885/76/9/096001/pdf
+- Energy-Efficient Superconducting Computing—Power Budgets and Requirements
+       https://ieeexplore.ieee.org/abstract/document/6449287
 - Error Correcting Codes in Quantum Theory, Andrew Steane
        https://users.physics.ox.ac.uk/~Steane/pubs/Steane_PRL95.pdf 
+- Energy-Efficient Superconducting Computing—Power Budgets and Requirements
+       https://ieeexplore.ieee.org/abstract/document/6449287
+- Establishing the quantum supremacy frontier with a 281 Pflop/s simulation
+       https://iopscience.iop.org/article/10.1088/2058-9565/ab7eeb/pdf?casa_token=fqUuMeRiHW8AAAAA:-qCFEf4B8q71vIHgiBtzWC_CMtpzILLTB5PaGoVOSn-EugRt6crwFnEY65HH3AwY_zVOkq2gmQ
 - Experimental demonstration of memory-enhanced quantum communication - Mihir K. Bhaskar, Ralf Riedinger, Bartholomeus Machielse, David S. Levonian,...
        https://arxiv.org/abs/1909.01323
 - Experimental exploration of five-qubit quantum error-correcting code with superconducting qubits - Ming Gong, Xiao Yuan, Shiyu Wang, Yulin Wu, ...
@@ -95,8 +103,14 @@ The following papers are available in this repo (in order):
        https://www.scitepress.org/Papers/2022/107862/107862.pdf
 - Implementing the quantum random walk - B. C. Travaglione, G. J. Milburn
        https://arxiv.org/abs/quant-ph/0109076
--Linear growth of quantum circuit complexity, by Jonas Haferkamp, Philippe Faist , Naga B. T. Kothakonda, Jens Eisert, and Nicole Yunger Halpern.
+- Is quantum computing green? An estimate for an energy-efficiency quantum advantage - Daniel Jaschke and Simone Montangero
+       https://arxiv.org/pdf/2205.12092.pdf
+- lambeq: An Efficient High-Level Python Library for Quantum NLP - Dimitri Kartsaklis, Ian Fan, Richie Yeung, Anna Pearson, Robin Lorenz,...
+       https://arxiv.org/abs/2110.04236
+- Linear growth of quantum circuit complexity, by Jonas Haferkamp, Philippe Faist , Naga B. T. Kothakonda, Jens Eisert, and Nicole Yunger Halpern.
        https://www.nature.com/articles/s41567-022-01539-6
+- Memory cost of quantum protocols - Alessandro Bisio, Giacomo Mauro D’Ariano, and Paolo Perinott
+       https://www.researchgate.net/publication/51965796_Memory_cost_of_quantum_protocols
 - Mitigating the quantum hype - Olivier Ezratty
        https://arxiv.org/abs/2202.01925
 - Multiple Particle Interference and Quantum Error Correction, Andrew Steane
@@ -119,6 +133,8 @@ and Stefan Woerner
        https://arxiv.org/abs/1603.09019
 - Photonic resource state generation from a minimal number of quantum emitters - Bikun Li, Sophia E. Economou, and Edwin Barnes     
        https://www.nature.com/articles/s41534-022-00522-6
+- Position paper: Green Networking Metrics - draft-cx-green-metrics
+       https://github.com/intarchboard/e-impact-workshop-public/blob/main/papers/Clemm-Dong-Mirsky-Ciavaglia-Tantsura-Odini_Green-Networking-Metrics.pdf
 - Practical randomness and privacy amplification - Cameron Foreman, Sherilyn Wright, Alec Edgington, Mario Berta, Florian J. Curchod
        https://arxiv.org/abs/2009.06551
 - Programmable Heisenberg interactions between Floquet qubits - Long B. Nguyen, Yosep Kim, Akel Hashim, Noah Goss, Brian Marinelli, ... 
@@ -133,6 +149,12 @@ and Stefan Woerner
        https://arxiv.org/abs/2202.10894
 - Quantum Particles and Classical Particles - Nathan Rosen
        https://link.springer.com/article/10.1007/BF00735376
+- Quantum principal component analysis - Seth Lloyd, Masoud Mohseni and Patrick Rebentrost
+       https://www.nature.com/articles/nphys3029#Sec2
+- Quantum Support Vector Machine for Big Data Classification
+       https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.113.130503
+- Quantum supremacy using a programmable superconducting processor - Frank Arute1, Kunal Arya1, Ryan Babbush1, Dave Bacon
+       https://www.nature.com/articles/s41586-019-1666-5
 - Quantum Switch for the Quantum Internet: Noiseless Communications through Noisy Channels - Marcello Caleffi, Angela Sara Cacciapuoti
        https://arxiv.org/abs/1907.07432
 - Quantum advantage in learning from experiments - Hsin-Yuan Huang, Michael Broughton, Jordan Cotler, Sitan Chen, Jerry Li, ...
@@ -153,12 +175,18 @@ and Stefan Woerner
        https://arxiv.org/abs/2006.11962
 - Quantum Long Short-Term Memory - Samuel Yen-Chi Chen, Shinjae Yoo, Yao-Lung L. Fang
        https://arxiv.org/abs/2009.01783
+- Rate limits in quantum networks with lossy repeaters - Riccardo Laurenza, Nathan Walk, Jens Eisert and Stefao Pirandola
+       https://arxiv.org/pdf/2110.10168.pdf
 - Real-time quantum error correction beyond break-even
        https://arxiv.org/abs/2211.09116
 - Realization of Real-Time Fault-Tolerant Quantum Error Correction - C. Ryan-Anderson, J. G. Bohnet, K. Lee, D. Gresh, A. Hankin, J. P. Gaebler, Francois, A. Chernoguzov, ...
        https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.041058
+- Reducing Green House Gas Emissions With Congestion Control - Michael Welzl, Ozgu Alay, Peyman Teymoori, Safiqul Islam
+       https://github.com/intarchboard/e-impact-workshop-public/blob/main/papers/Welzel-Alay-Teymoori-Islam_Reducing-Green-House-Gas-Emissions-With-Congestion-Control-v2.pdf
 - Request_Scheduling_in_Quantum_Networks - C. Cicconetti, M. Conti, and A. Passarella
        https://www.researchgate.net/publication/352621787_Request_Scheduling_in_Quantum_Networks
+- Room temperature quantum key distribution characteristics of low‑noise InGaAs/InP single‑photon avalanche diode - Soo‑Hyun Baek, Seung‑Chul Yang1, Chan‑Yong Park
+       https://link.springer.com/article/10.1007/s40042-021-00111-4
 - Scaling silicon-based quantum computing using CMOS technology - M. F. Gonzalez-Zalba, S. de Franceschi, E. Charbon, T. Meunier, M. Vinet, A. S. Dzurak
        https://arxiv.org/abs/2011.11753
 - Scheme for reducing decoherence in quantum computer memory, Peter W. Shor
@@ -177,6 +205,8 @@ and Stefan Woerner
      https://arxiv.org/abs/1208.0928   
 - Teleportation of entanglement over 143 km - Thomas Herbst, Thomas Scheidl, Matthias Fink, Johannes Handsteiner, Bernhard Wittmann, Rupert Ursin, Anton Zeilinger
        https://arxiv.org/abs/1403.0009
+- The Computational and Latency Advantage of Quantum Communication Networks - Roberto Ferrara, Riccardo Bassoli, Christian Deppe, Frank H.P. Fitzek and Holger Boche
+       https://arxiv.org/pdf/2106.03360.pdf
 - The Physical Implementation of Quantum Computation
        https://arxiv.org/abs/quant-ph/0002077
 - The SWAP test and the Hong-Ou-Mandel effect are equivalent - Juan Carlos Garcia-Escartin, Pedro Chamorro-Posada
@@ -193,6 +223,8 @@ and Stefan Woerner
        https://www.nature.com/articles/s41586-022-04623-2
 - Two-photon interference the Hong-Ou-Mandel effect - FrédÉric Bouchard, Alicia Sit, Yingwen Zhang, Robert Fickler, Filippo M. Miatto,...
        https://arxiv.org/abs/2006.09335
+- Universal and operational benchmarking of quantum memories - Xiao Yuan, Yunchao Liu, Qi Zhao, Bartosz Regula, Jayne Thompson and Mile Gu
+       https://bartoszregula.me/pdf/s41534-021-00444-9.pdf
 - Why Philosophers Should Care About Computational Complexity - Scott Aaronson
        https://arxiv.org/abs/1108.1791
 - lambeq: An Efficient High-Level Python Library for Quantum NLP
