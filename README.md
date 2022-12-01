@@ -24,6 +24,8 @@ This branch contains all the papers I have read in the 2022/2023 academic year a
        https://arxiv.org/pdf/2205.12092.pdf
 - Memory cost of quantum protocols - Alessandro Bisio, Giacomo Mauro D’Ariano, and Paolo Perinott
        https://www.researchgate.net/publication/51965796_Memory_cost_of_quantum_protocols
+- Position paper: Green Networking Metrics - draft-cx-green-metrics
+       https://github.com/intarchboard/e-impact-workshop-public/blob/main/papers/Clemm-Dong-Mirsky-Ciavaglia-Tantsura-Odini_Green-Networking-Metrics.pdf
 - Programmable Heisenberg interactions between Floquet qubits - Long B. Nguyen, Yosep Kim, Akel Hashim, Noah Goss, Brian Marinelli, ...
        https://arxiv.org/abs/2211.10383
 - Quantum Data Center: Theories and Applications
@@ -32,6 +34,8 @@ This branch contains all the papers I have read in the 2022/2023 academic year a
        https://www.nature.com/articles/s41586-019-1666-5
 - Real-time quantum error correction beyond break-even     
        https://arxiv.org/abs/2211.09116
+- Reducing Green House Gas Emissions With Congestion Control - Michael Welzl, Ozgu Alay, Peyman Teymoori, Safiqul Islam
+       https://github.com/intarchboard/e-impact-workshop-public/blob/main/papers/Welzel-Alay-Teymoori-Islam_Reducing-Green-House-Gas-Emissions-With-Congestion-Control-v2.pdf
 - Room temperature quantum key distribution characteristics of low‑noise InGaAs/InP single‑photon avalanche diode - Soo‑Hyun Baek, Seung‑Chul Yang1, Chan‑Yong Park
        https://link.springer.com/article/10.1007/s40042-021-00111-4
 - The Physical Implementation of Quantum Computation
