@@ -26,6 +26,8 @@ This branch contains all the papers I have read in the 2022/2023 academic year a
        https://www.nature.com/articles/s41586-019-1666-5
 - Real-time quantum error correction beyond break-even     
        https://arxiv.org/abs/2211.09116
+- Room temperature quantum key distribution characteristics of low‑noise InGaAs/InP single‑photon avalanche diode - Soo‑Hyun Baek, Seung‑Chul Yang1, Chan‑Yong Park
+       https://link.springer.com/article/10.1007/s40042-021-00111-4
 - The Physical Implementation of Quantum Computation
        https://arxiv.org/abs/quant-ph/0002077
 - Universal and operational benchmarking of quantum memories - Xiao Yuan, Yunchao Liu, Qi Zhao, Bartosz Regula, Jayne Thompson and Mile Gu
