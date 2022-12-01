@@ -36,6 +36,8 @@ This branch contains all the papers I have read in the 2022/2023 academic year a
        https://www.nature.com/articles/nphys3029#Sec2
 - Quantum supremacy using a programmable superconducting processor - Frank Arute1, Kunal Arya1, Ryan Babbush1, Dave Bacon
        https://www.nature.com/articles/s41586-019-1666-5
+- Rate limits in quantum networks with lossy repeaters - Riccardo Laurenza, Nathan Walk, Jens Eisert and Stefao Pirandola
+       https://arxiv.org/pdf/2110.10168.pdf
 - Real-time quantum error correction beyond break-even     
        https://arxiv.org/abs/2211.09116
 - Reducing Green House Gas Emissions With Congestion Control - Michael Welzl, Ozgu Alay, Peyman Teymoori, Safiqul Islam
