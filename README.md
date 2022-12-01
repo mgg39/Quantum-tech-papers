@@ -8,6 +8,8 @@ This branch contains all the papers I have read in the 2022/2023 academic year a
        https://www.researchgate.net/publication/347857423_An_energy_efficient_multipliers_using_reversible_gates
 - Assembly and coherent control of a register of nuclear spin qubits
        https://arxiv.org/abs/2108.04790
+- Energy-Efficient Superconducting Computing—Power Budgets and Requirements
+       https://ieeexplore.ieee.org/abstract/document/6449287
 - Field-Deployable Quantum Memory for Quantum Networking - Yang Wang, Alexander N. Craddock, Rourke Sekelsky, Mael Flament, and Mehdi Namazi
        https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.18.044058
 - How many qubits are needed for quantum computational supremacy? - Alexander M. Dalzell1, Aram W. Harrow, Dax Enshan Koh, and Rolando L. La Placa
