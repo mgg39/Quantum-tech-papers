@@ -10,6 +10,8 @@ This branch contains all the papers I have read in the 2022/2023 academic year a
        https://arxiv.org/abs/2108.04790
 - Benchmarking of Quantum Protocols - Chin-Te Liao, Sima Bahrani, Francisco Ferreira da Silva, and Elham Kashefi
        https://arxiv.org/pdf/2111.02527.pdf
+- Constructor Theory of Information -David Deutsch, Chiara Marletto
+       https://arxiv.org/abs/1405.5563
 - Energy-Efficient Superconducting Computing—Power Budgets and Requirements
        https://ieeexplore.ieee.org/abstract/document/6449287
 - Establishing the quantum supremacy frontier with a 281 Pflop/s simulation
