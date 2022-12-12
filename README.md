@@ -18,6 +18,7 @@ Re-curring topics on this list are:
 - Experimental simulating tools
 - Quantum markets and hype
 - Quantum Machine Learning (QML)
+- Constructor theory
 
 The following papers are available in this repo (in order):
 - Quantum networking, by  Rodney Van Meter (book)
@@ -61,6 +62,8 @@ The following papers are available in this repo (in order):
        https://arxiv.org/abs/1701.00815
 - Commercial applications of quantum computing - Francesco Bova, Avi Goldfarb, Roger G. Melko
        https://epjquantumtechnology.springeropen.com/articles/10.1140/epjqt/s40507-021-00091-1
+- Constructor Theory of Information -David Deutsch, Chiara Marletto
+       https://arxiv.org/abs/1405.5563
 - Continued Fractions and Probability Estimations in Shor’s Algorithm: A Detailed and Self-Contained Treatise -Johanna Barzen and Frank Leymann
        https://arxiv.org/abs/2205.01925
 - Designing a Quantum Network Protocol - Wojciech Kozlowski, Axel Dahlberg, Stephanie Wehner
