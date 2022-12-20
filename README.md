@@ -22,6 +22,8 @@ This branch contains all the papers I have read in the 2022/2023 academic year a
        https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.18.044058
 - How many qubits are needed for quantum computational supremacy? - Alexander M. Dalzell1, Aram W. Harrow, Dax Enshan Koh, and Rolando L. La Placa
        https://quantum-journal.org/papers/q-2020-05-11-264/
+- Information converted to energy - Edwin Cartlidge
+       https://physicsworld.com/a/information-converted-to-energy/
 - Is quantum computing green? An estimate for an energy-efficiency quantum advantage - Daniel Jaschke and Simone Montangero
        https://arxiv.org/pdf/2205.12092.pdf
 - Memory cost of quantum protocols - Alessandro Bisio, Giacomo Mauro D’Ariano, and Paolo Perinott
