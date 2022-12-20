@@ -84,6 +84,8 @@ The following papers are available in this repo (in order):
        https://users.physics.ox.ac.uk/~Steane/pubs/Steane_PRL95.pdf 
 - Energy-Efficient Superconducting Computing—Power Budgets and Requirements
        https://ieeexplore.ieee.org/abstract/document/6449287
+- Energy & Information - Myron Tribus and Edward C. McIrvine
+       https://www.jstor.org/stable/24923125?saml_data=eyJzYW1sVG9rZW4iOiIzYThiNDZlMi1iZGVhLTRlMGQtOGExOC03YzQ2ZDZkNzQyNWQiLCJpbnN0aXR1dGlvbklkcyI6WyJiN2JlMjYxZS1hOWVhLTRiZGYtOWVjNS00ZWVkN2NhNTI5NzIiXX0#metadata_info_tab_contents
 - Establishing the quantum supremacy frontier with a 281 Pflop/s simulation
        https://iopscience.iop.org/article/10.1088/2058-9565/ab7eeb/pdf?casa_token=fqUuMeRiHW8AAAAA:-qCFEf4B8q71vIHgiBtzWC_CMtpzILLTB5PaGoVOSn-EugRt6crwFnEY65HH3AwY_zVOkq2gmQ
 - Experimental demonstration of memory-enhanced quantum communication - Mihir K. Bhaskar, Ralf Riedinger, Bartholomeus Machielse, David S. Levonian,...
