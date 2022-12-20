@@ -10,9 +10,15 @@ This branch contains all the papers I have read in the 2022/2023 academic year a
        https://arxiv.org/abs/2108.04790
 - Benchmarking of Quantum Protocols - Chin-Te Liao, Sima Bahrani, Francisco Ferreira da Silva, and Elham Kashefi
        https://arxiv.org/pdf/2111.02527.pdf
-- Constructor Theory of Information -David Deutsch, Chiara Marletto
+- Constructor Theory of Information - David Deutsch, Chiara Marletto
        https://arxiv.org/abs/1405.5563
-- Energy-Efficient Superconducting Computing—Power Budgets and Requirements
+- Constructor Theory of Life - Chiara Marletto
+       https://arxiv.org/abs/1407.0681
+- Constructor Theory of Probability
+       https://arxiv.org/abs/1507.03287
+- Constructor Theory of Thermodynamics - Chiara Marletto
+       https://arxiv.org/abs/1608.02625
+- Energy-Efficient Superconducting Computing
        https://ieeexplore.ieee.org/abstract/document/6449287
 - Energy & Information - Myron Tribus and Edward C. McIrvine
        https://www.jstor.org/stable/24923125?saml_data=eyJzYW1sVG9rZW4iOiIzYThiNDZlMi1iZGVhLTRlMGQtOGExOC03YzQ2ZDZkNzQyNWQiLCJpbnN0aXR1dGlvbklkcyI6WyJiN2JlMjYxZS1hOWVhLTRiZGYtOWVjNS00ZWVkN2NhNTI5NzIiXX0#metadata_info_tab_contents
