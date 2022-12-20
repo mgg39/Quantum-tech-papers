@@ -28,6 +28,8 @@ This branch contains all the papers I have read in the 2022/2023 academic year a
        https://ieeexplore.ieee.org/abstract/document/8535267
 - Field-Deployable Quantum Memory for Quantum Networking - Yang Wang, Alexander N. Craddock, Rourke Sekelsky, Mael Flament, and Mehdi Namazi
        https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.18.044058
+- Fundamental Principle of Information-to-Energy Conversion - Antonio Alfonso-Faus
+       https://arxiv.org/abs/1401.6052
 - How many qubits are needed for quantum computational supremacy? - Alexander M. Dalzell1, Aram W. Harrow, Dax Enshan Koh, and Rolando L. La Placa
        https://quantum-journal.org/papers/q-2020-05-11-264/
 - Information converted to energy - Edwin Cartlidge
