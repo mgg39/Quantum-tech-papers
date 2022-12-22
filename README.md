@@ -26,6 +26,8 @@ This branch contains all the papers I have read in the 2022/2023 academic year a
        https://iopscience.iop.org/article/10.1088/2058-9565/ab7eeb/pdf?casa_token=fqUuMeRiHW8AAAAA:-qCFEf4B8q71vIHgiBtzWC_CMtpzILLTB5PaGoVOSn-EugRt6crwFnEY65HH3AwY_zVOkq2gmQ
 - Experimental Demonstration of Quantum Key Distribution (QKD) for Energy-Efficient Software-Defined Internet of Things - Alex Mavromatis, Foteini Ntavou, Emilio Hugues Salas, ...
        https://ieeexplore.ieee.org/abstract/document/8535267
+- Experimental violation of Bell inequalities for multi-dimensional systems - Hsin-Pin Lo1, Che-Ming Li2, AtsushiYabushita1, Yueh-NanChen3, Chih-Wei Luo1 & Takayoshi Kobayashi
+       https://www.nature.com/articles/srep22088
 - Field-Deployable Quantum Memory for Quantum Networking - Yang Wang, Alexander N. Craddock, Rourke Sekelsky, Mael Flament, and Mehdi Namazi
        https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.18.044058
 - Fundamental Principle of Information-to-Energy Conversion - Antonio Alfonso-Faus
