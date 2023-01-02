@@ -229,6 +229,8 @@ and Stefan Woerner
        https://arxiv.org/abs/1303.6814
 - The Toric Code, Paul Herringer
        https://www.physics.rutgers.edu/grad/602/Lectures/JC_Presentations/0419/Intro_Toric_Code.pdf
+- The information-theoretic foundation of thermodynamic work extraction - Chiara Marletto
+       https://arxiv.org/abs/2009.04588
 - The_Virtual_Quantum_Optics_Laboratory - Brian R. La Cour, Maria Maynard, Parth Shroff, Gabriel Ko, Evan Ellis
        https://arxiv.org/abs/2105.07300
 - Topological quantum memory - Eric Dennis,Alexei Kitaev,Andrew Landahl,and John Preskill
