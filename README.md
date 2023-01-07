@@ -59,6 +59,8 @@ The following papers are available in this repo (in order):
        https://arxiv.org/abs/1811.10972
 - Blueprint for a Scalable Photonic Fault-Tolerant Quantum Computer - J. Eli Bourassa, Rafael N. Alexander, Michael Vasmer, Ashlesha Patil, ...
        https://arxiv.org/abs/2010.02905
+- Classical, quantum and total correlations - L Henderson and V Vedral
+       https://iopscience.iop.org/article/10.1088/0305-4470/34/35/315
 - Coherent shuttle of electron-spin states - T. Fujita, T. A. Baart, C. Reichl, W. Wegscheider, L. M. K. Vandersype
        https://arxiv.org/abs/1701.00815
 - Commercial applications of quantum computing - Francesco Bova, Avi Goldfarb, Roger G. Melko
