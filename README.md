@@ -32,6 +32,8 @@ This branch contains all the papers I have read in the 2022/2023 academic year a
        https://www.nature.com/articles/srep22088
 - Field-Deployable Quantum Memory for Quantum Networking - Yang Wang, Alexander N. Craddock, Rourke Sekelsky, Mael Flament, and Mehdi Namazi
        https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.18.044058
+- Field-linked resonances of polar molecules
+       https://www.nature.com/articles/s41586-022-05651-8
 - Fundamental Principle of Information-to-Energy Conversion - Antonio Alfonso-Faus
        https://arxiv.org/abs/1401.6052
 - How many qubits are needed for quantum computational supremacy? - Alexander M. Dalzell1, Aram W. Harrow, Dax Enshan Koh, and Rolando L. La Placa
