@@ -101,6 +101,8 @@ The following papers are available in this repo (in order):
        https://arxiv.org/abs/1605.05647
 - Field-Deployable Quantum Memory for Quantum Networking - Yang Wang, Alexander N. Craddock, Rourke Sekelsky, Mael Flament, and Mehdi Namazi
        https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.18.044058
+- Field-linked resonances of polar molecules
+       https://www.nature.com/articles/s41586-022-05651-8
 - Five open problems in theory of quantum information - Paweł Horodecki, Łukasz Rudnicki, Karol Życzkowski
        https://arxiv.org/abs/2002.03233
 - Foundations for Near-Term Quantum Natural Language Processing - Bob Coecke, Giovanni de Felice, Konstantinos Meichanetzidis, Alexis Toumi
@@ -169,6 +171,8 @@ and Stefan Woerner
        https://link.springer.com/article/10.1007/BF00735376
 - Quantum principal component analysis - Seth Lloyd, Masoud Mohseni and Patrick Rebentrost
        https://www.nature.com/articles/nphys3029#Sec2
+- Quantum simulator enables first microscopic observation of charge carriers pairing
+       https://www.mpq.mpg.de/6803661/01-magnetic-pairing
 - Quantum Support Vector Machine for Big Data Classification
        https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.113.130503
 - Quantum supremacy using a programmable superconducting processor - Frank Arute1, Kunal Arya1, Ryan Babbush1, Dave Bacon
