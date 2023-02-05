@@ -52,6 +52,8 @@ This branch contains all the papers I have read in the 2022/2023 academic year a
        https://arxiv.org/abs/2207.14336
 - Quantum principal component analysis - Seth Lloyd, Masoud Mohseni and Patrick Rebentrost
        https://www.nature.com/articles/nphys3029#Sec2
+- Quantum simulator enables first microscopic observation of charge carriers pairing
+       https://www.mpq.mpg.de/6803661/01-magnetic-pairing
 - Quantum Support Vector Machine for Big Data Classification
        https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.113.130503
 - Quantum supremacy using a programmable superconducting processor - Frank Arute1, Kunal Arya1, Ryan Babbush1, Dave Bacon
