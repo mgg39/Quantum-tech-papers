@@ -18,6 +18,8 @@ Re-curring topics on this list are:
 - Experimental simulating tools
 - Quantum markets and hype
 - Quantum Machine Learning (QML)
+- Constructor theory
+- Physical information
 
 The following papers are available in this repo (in order):
 - Quantum networking, by  Rodney Van Meter (book)
@@ -57,10 +59,20 @@ The following papers are available in this repo (in order):
        https://arxiv.org/abs/1811.10972
 - Blueprint for a Scalable Photonic Fault-Tolerant Quantum Computer - J. Eli Bourassa, Rafael N. Alexander, Michael Vasmer, Ashlesha Patil, ...
        https://arxiv.org/abs/2010.02905
+- Classical, quantum and total correlations - L Henderson and V Vedral
+       https://iopscience.iop.org/article/10.1088/0305-4470/34/35/315
 - Coherent shuttle of electron-spin states - T. Fujita, T. A. Baart, C. Reichl, W. Wegscheider, L. M. K. Vandersype
        https://arxiv.org/abs/1701.00815
 - Commercial applications of quantum computing - Francesco Bova, Avi Goldfarb, Roger G. Melko
        https://epjquantumtechnology.springeropen.com/articles/10.1140/epjqt/s40507-021-00091-1
+- Constructor Theory of Information - David Deutsch, Chiara Marletto
+       https://arxiv.org/abs/1405.5563
+- Constructor Theory of Life - Chiara Marletto
+       https://arxiv.org/abs/1407.0681
+- Constructor Theory of Probability
+       https://arxiv.org/abs/1507.03287
+- Constructor Theory of Thermodynamics - Chiara Marletto
+       https://arxiv.org/abs/1608.02625
 - Continued Fractions and Probability Estimations in Shor’s Algorithm: A Detailed and Self-Contained Treatise -Johanna Barzen and Frank Leymann
        https://arxiv.org/abs/2205.01925
 - Designing a Quantum Network Protocol - Wojciech Kozlowski, Axel Dahlberg, Stephanie Wehner
@@ -75,20 +87,28 @@ The following papers are available in this repo (in order):
        https://users.physics.ox.ac.uk/~Steane/pubs/Steane_PRL95.pdf 
 - Energy-Efficient Superconducting Computing—Power Budgets and Requirements
        https://ieeexplore.ieee.org/abstract/document/6449287
+- Energy & Information - Myron Tribus and Edward C. McIrvine
+       https://www.jstor.org/stable/24923125?saml_data=eyJzYW1sVG9rZW4iOiIzYThiNDZlMi1iZGVhLTRlMGQtOGExOC03YzQ2ZDZkNzQyNWQiLCJpbnN0aXR1dGlvbklkcyI6WyJiN2JlMjYxZS1hOWVhLTRiZGYtOWVjNS00ZWVkN2NhNTI5NzIiXX0#metadata_info_tab_contents
 - Establishing the quantum supremacy frontier with a 281 Pflop/s simulation
        https://iopscience.iop.org/article/10.1088/2058-9565/ab7eeb/pdf?casa_token=fqUuMeRiHW8AAAAA:-qCFEf4B8q71vIHgiBtzWC_CMtpzILLTB5PaGoVOSn-EugRt6crwFnEY65HH3AwY_zVOkq2gmQ
 - Experimental demonstration of memory-enhanced quantum communication - Mihir K. Bhaskar, Ralf Riedinger, Bartholomeus Machielse, David S. Levonian,...
        https://arxiv.org/abs/1909.01323
 - Experimental exploration of five-qubit quantum error-correcting code with superconducting qubits - Ming Gong, Xiao Yuan, Shiyu Wang, Yulin Wu, ...
        https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiH6f7Sk8n5AhW6S0EAHYpcCL0QFnoECAsQAQ&url=https%3A%2F%2Fora.ox.ac.uk%2Fobjects%2Fuuid%3A5b2e5204-7746-4569-807e-77654a77313a%2Ffiles%2Fs0v838175c&usg=AOvVaw3l2-7GFf0m6Fw14IpYljjx
+- Experimental violation of Bell inequalities for multi-dimensional systems - Hsin-Pin Lo1, Che-Ming Li2, AtsushiYabushita1, Yueh-NanChen3, Chih-Wei Luo1 & Takayoshi Kobayashi
+       https://www.nature.com/articles/srep22088
 - Fault-tolerant Preparation of Stabilizer States for Quantum CSS Codes by Classical Error-Correcting Codes - Ching-Yi Lai, Yi-Cong Zheng, and Todd A. Brun
        https://arxiv.org/abs/1605.05647
 - Field-Deployable Quantum Memory for Quantum Networking - Yang Wang, Alexander N. Craddock, Rourke Sekelsky, Mael Flament, and Mehdi Namazi
        https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.18.044058
+- Field-linked resonances of polar molecules
+       https://www.nature.com/articles/s41586-022-05651-8
 - Five open problems in theory of quantum information - Paweł Horodecki, Łukasz Rudnicki, Karol Życzkowski
        https://arxiv.org/abs/2002.03233
 - Foundations for Near-Term Quantum Natural Language Processing - Bob Coecke, Giovanni de Felice, Konstantinos Meichanetzidis, Alexis Toumi
        https://arxiv.org/abs/2012.03755
+- Fundamental Principle of Information-to-Energy Conversion - Antonio Alfonso-Faus
+       https://arxiv.org/abs/1401.6052
 - Fusion-based quantum computation - Sara Bartolucci, Patrick Birchall, Hector Bombin, Hugo Cable, Chris Dawson, Mercedes Gimeno-Segovia, Eric Johnston, ...
        https://arxiv.org/abs/2101.09310
 - Gate Set Tomography - Erik Nielsen, John King Gamble, Kenneth Rudinger, Travis Scholten, Kevin Young1, and Robin Blume-Kohout
@@ -151,6 +171,8 @@ and Stefan Woerner
        https://link.springer.com/article/10.1007/BF00735376
 - Quantum principal component analysis - Seth Lloyd, Masoud Mohseni and Patrick Rebentrost
        https://www.nature.com/articles/nphys3029#Sec2
+- Quantum simulator enables first microscopic observation of charge carriers pairing
+       https://www.mpq.mpg.de/6803661/01-magnetic-pairing
 - Quantum Support Vector Machine for Big Data Classification
        https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.113.130503
 - Quantum supremacy using a programmable superconducting processor - Frank Arute1, Kunal Arya1, Ryan Babbush1, Dave Bacon
@@ -215,6 +237,8 @@ and Stefan Woerner
        https://arxiv.org/abs/1303.6814
 - The Toric Code, Paul Herringer
        https://www.physics.rutgers.edu/grad/602/Lectures/JC_Presentations/0419/Intro_Toric_Code.pdf
+- The information-theoretic foundation of thermodynamic work extraction - Chiara Marletto
+       https://arxiv.org/abs/2009.04588
 - The_Virtual_Quantum_Optics_Laboratory - Brian R. La Cour, Maria Maynard, Parth Shroff, Gabriel Ko, Evan Ellis
        https://arxiv.org/abs/2105.07300
 - Topological quantum memory - Eric Dennis,Alexei Kitaev,Andrew Landahl,and John Preskill
