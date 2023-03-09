@@ -76,6 +76,8 @@ This branch contains all the papers I have read in the 2022/2023 academic year a
        https://arxiv.org/abs/quant-ph/0002077
 - The information-theoretic foundation of thermodynamic work extraction - Chiara Marletto
        https://arxiv.org/abs/2009.04588
+- The role of quantum information in thermodynamics ~ a topical review - John Goold, Marcus Huber, Arnau Riera, L´ıdia del Rio, and Paul Skrzypczyk
+       https://arxiv.org/abs/1505.07835
 - Universal and operational benchmarking of quantum memories - Xiao Yuan, Yunchao Liu, Qi Zhao, Bartosz Regula, Jayne Thompson and Mile Gu
        https://bartoszregula.me/pdf/s41534-021-00444-9.pdf
 
