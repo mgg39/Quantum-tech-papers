@@ -239,6 +239,8 @@ and Stefan Woerner
        https://www.physics.rutgers.edu/grad/602/Lectures/JC_Presentations/0419/Intro_Toric_Code.pdf
 - The information-theoretic foundation of thermodynamic work extraction - Chiara Marletto
        https://arxiv.org/abs/2009.04588
+- The role of quantum information in thermodynamics ~ a topical review - John Goold, Marcus Huber, Arnau Riera, L´ıdia del Rio, and Paul Skrzypczyk
+       https://arxiv.org/abs/1505.07835
 - The_Virtual_Quantum_Optics_Laboratory - Brian R. La Cour, Maria Maynard, Parth Shroff, Gabriel Ko, Evan Ellis
        https://arxiv.org/abs/2105.07300
 - Topological quantum memory - Eric Dennis,Alexei Kitaev,Andrew Landahl,and John Preskill
