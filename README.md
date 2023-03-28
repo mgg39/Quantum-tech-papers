@@ -173,6 +173,8 @@ and Stefan Woerner
        https://www.nature.com/articles/nphys3029#Sec2
 - Quantum simulator enables first microscopic observation of charge carriers pairing
        https://www.mpq.mpg.de/6803661/01-magnetic-pairing
+- Quantum states with Einstein-Podolsky-Rosen correlations admitting a hidden-variable model - Reinhard F. Werner
+       https://journals.aps.org/pra/pdf/10.1103/PhysRevA.40.4277
 - Quantum Support Vector Machine for Big Data Classification
        https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.113.130503
 - Quantum supremacy using a programmable superconducting processor - Frank Arute1, Kunal Arya1, Ryan Babbush1, Dave Bacon
@@ -264,3 +266,4 @@ If you would like to add any paper to this repository please feel free to create
 Linkedin : https://www.linkedin.com/in/maria-gragera-garces/
 
 Email : m.gragera.garces@gmail.com
+
