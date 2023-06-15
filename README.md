@@ -44,6 +44,8 @@ This branch contains all the papers I have read in the 2022/2023 academic year a
        https://arxiv.org/pdf/2205.12092.pdf
 - Memory cost of quantum protocols - Alessandro Bisio, Giacomo Mauro D’Ariano, and Paolo Perinott
        https://www.researchgate.net/publication/51965796_Memory_cost_of_quantum_protocols
+- Mitiq: A software package for error mitigation on noisy quantum computers - Ryan LaRose, Andrea Mari, Sarah Kaiser, Peter J. Karalekas, Andre A. Alves, ...
+       https://arxiv.org/abs/2009.04417
 - Position paper: Green Networking Metrics - draft-cx-green-metrics
        https://github.com/intarchboard/e-impact-workshop-public/blob/main/papers/Clemm-Dong-Mirsky-Ciavaglia-Tantsura-Odini_Green-Networking-Metrics.pdf
 - Programmable Heisenberg interactions between Floquet qubits - Long B. Nguyen, Yosep Kim, Akel Hashim, Noah Goss, Brian Marinelli, ...
