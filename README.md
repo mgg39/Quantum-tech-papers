@@ -11,6 +11,7 @@ Re-curring topics on this list are:
 - Quantum circuits 
 - Programmable quantum gates
 - Quantum error correction
+- Quantum error mitigation
 - Electron-spin states
 - Commercial and philosophical views on quantum technologies
 - Quantum repeater architectures
