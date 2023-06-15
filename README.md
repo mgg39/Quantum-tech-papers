@@ -133,6 +133,8 @@ The following papers are available in this repo (in order):
        https://www.researchgate.net/publication/51965796_Memory_cost_of_quantum_protocols
 - Mitigating the quantum hype - Olivier Ezratty
        https://arxiv.org/abs/2202.01925
+- Mitiq: A software package for error mitigation on noisy quantum computers - Ryan LaRose, Andrea Mari, Sarah Kaiser, Peter J. Karalekas, Andre A. Alves, ...
+       https://arxiv.org/abs/2009.04417
 - Multiple Particle Interference and Quantum Error Correction, Andrew Steane
        https://arxiv.org/abs/quant-ph/9601029
 - Multiple Particle Interference and Quantum Error Correction - Andrew Steane 
