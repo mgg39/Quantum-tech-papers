@@ -82,6 +82,8 @@ The following papers are available in this repo (in order):
        https://www.frontiersin.org/articles/10.3389/fphy.2020.00145/full
 - Distribution of entanglement in large-scale quantum networks - S Perseguers, G J Lapeyre Jr, D Cavalcanti, M Lewenstein and A Acin
        https://iopscience.iop.org/article/10.1088/0034-4885/76/9/096001/pdf
+- Elementary gates for quantum computation - Adriano Barenco, Charles H. Bennett, Richard Cleve, David P. DiVincenzo, ...
+       https://journals.aps.org/pra/abstract/10.1103/PhysRevA.52.3457?cm_mc_uid=43781767191014577577895&cm_mc_sid_50200000=1460741020
 - Energy-Efficient Superconducting Computing—Power Budgets and Requirements
        https://ieeexplore.ieee.org/abstract/document/6449287
 - Error Correcting Codes in Quantum Theory, Andrew Steane
@@ -145,6 +147,8 @@ The following papers are available in this repo (in order):
 - NetSquid, a NETwork Simulator for QUantum Information using Discrete events - Tim Coopmans, Robert Knegjens, Axel Dahlberg, David Maier, Loek Nijsten, ...
        https://arxiv.org/abs/2010.12535
 - On Circuit-based Hybrid Quantum Neural Networks for Remote Sensing Imagery Classification - Alessandro Sebastianelli, Daniela A. Zaidenberg, Dario Spiller, Bertrand Le Saux, Silvia Liberata Ullo https://arxiv.org/abs/2109.09484 or https://ieeexplore.ieee.org/document/9647979
+- On the CNOT-cost of TOFFOLI gates - Vivek V. Shende, Igor L. Markov
+       https://dl.acm.org/doi/10.5555/2011791.2011799
 - One-Dimensional Quantum Walks - Andris Ambainis, Eric Bach, Ashwin Nayak, Ashvin Vishwanath, John Watrous
        https://dl.acm.org/doi/10.1145/380752.380757
 - Optimal architectures for long distance quantum communication - Sreraman Muralidharan, Linshu Li, Jungsang Kim, Norbert Lütkenhaus, Mikhail D. Lukin & Liang Jiang
