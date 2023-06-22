@@ -20,6 +20,8 @@ This branch contains all the papers I have read in the 2022/2023 academic year a
        https://arxiv.org/abs/1507.03287
 - Constructor Theory of Thermodynamics - Chiara Marletto
        https://arxiv.org/abs/1608.02625
+- Elementary gates for quantum computation - Adriano Barenco, Charles H. Bennett, Richard Cleve, David P. DiVincenzo, ...
+       https://journals.aps.org/pra/abstract/10.1103/PhysRevA.52.3457?cm_mc_uid=43781767191014577577895&cm_mc_sid_50200000=1460741020
 - Energy-Efficient Superconducting Computing
        https://ieeexplore.ieee.org/abstract/document/6449287
 - Energy & Information - Myron Tribus and Edward C. McIrvine
@@ -46,6 +48,8 @@ This branch contains all the papers I have read in the 2022/2023 academic year a
        https://www.researchgate.net/publication/51965796_Memory_cost_of_quantum_protocols
 - Mitiq: A software package for error mitigation on noisy quantum computers - Ryan LaRose, Andrea Mari, Sarah Kaiser, Peter J. Karalekas, Andre A. Alves, ...
        https://arxiv.org/abs/2009.04417
+- On the CNOT-cost of TOFFOLI gates - Vivek V. Shende, Igor L. Markov
+       https://dl.acm.org/doi/10.5555/2011791.2011799
 - Position paper: Green Networking Metrics - draft-cx-green-metrics
        https://github.com/intarchboard/e-impact-workshop-public/blob/main/papers/Clemm-Dong-Mirsky-Ciavaglia-Tantsura-Odini_Green-Networking-Metrics.pdf
 - Programmable Heisenberg interactions between Floquet qubits - Long B. Nguyen, Yosep Kim, Akel Hashim, Noah Goss, Brian Marinelli, ...
