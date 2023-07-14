@@ -80,6 +80,8 @@ The following papers are available in this repo (in order):
        https://arxiv.org/abs/2010.02575
 - Discrete simulation of quantum walks - Madita Willsch, Dennis Willsch, Kristel Michielsen, and Hans De Raedt
        https://www.frontiersin.org/articles/10.3389/fphy.2020.00145/full
+- Disentangling Hype from Practicality: On Realistically Achieving Quantum Advantage - Torsten Hoefler, Thomas Haner and Matthias Troyer
+       https://arxiv.org/pdf/2307.00523.pdf
 - Distribution of entanglement in large-scale quantum networks - S Perseguers, G J Lapeyre Jr, D Cavalcanti, M Lewenstein and A Acin
        https://iopscience.iop.org/article/10.1088/0034-4885/76/9/096001/pdf
 - Elementary gates for quantum computation - Adriano Barenco, Charles H. Bennett, Richard Cleve, David P. DiVincenzo, ...
