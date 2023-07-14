@@ -20,6 +20,8 @@ This branch contains all the papers I have read in the 2022/2023 academic year a
        https://arxiv.org/abs/1507.03287
 - Constructor Theory of Thermodynamics - Chiara Marletto
        https://arxiv.org/abs/1608.02625
+- Disentangling Hype from Practicality: On Realistically Achieving Quantum Advantage - Torsten Hoefler, Thomas Haner and Matthias Troyer
+       https://arxiv.org/pdf/2307.00523.pdf
 - Elementary gates for quantum computation - Adriano Barenco, Charles H. Bennett, Richard Cleve, David P. DiVincenzo, ...
        https://journals.aps.org/pra/abstract/10.1103/PhysRevA.52.3457?cm_mc_uid=43781767191014577577895&cm_mc_sid_50200000=1460741020
 - Energy-Efficient Superconducting Computing
