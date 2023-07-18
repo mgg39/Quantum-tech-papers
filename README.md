@@ -204,6 +204,8 @@ and Stefan Woerner
        https://arxiv.org/abs/quant-ph/9708022
 - Quantum information processing with bosonic qubits in circuit QED - Atharv Joshi, Kyungjoo Noh, and Yvonne Y Gao
        https://iopscience.iop.org/article/10.1088/2058-9565/abe989/pdf
+- Quantum readout error mitigation via deep learning - Jihye Kim, Byungdu Oh, Yonuk Chong, Euyheon Hwang, and Daniel K Park
+       https://iopscience.iop.org/article/10.1088/1367-2630/ac7b3d
 - Quantum walks a comprehensive review - Salvador E. Venegas-Andraca
        https://arxiv.org/abs/1201.4780
 - Quantum-Enhanced Data Classification with a Variational Entangled Sensor Network - Yi Xia, Wei Li, Quntao Zhuang, Zheshen Zhang
