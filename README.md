@@ -64,6 +64,8 @@ This branch contains all the papers I have read in the 2022/2023 academic year a
        https://arxiv.org/abs/2207.14336
 - Quantum principal component analysis - Seth Lloyd, Masoud Mohseni and Patrick Rebentrost
        https://www.nature.com/articles/nphys3029#Sec2
+- Quantum readout error mitigation via deep learning - Jihye Kim, Byungdu Oh, Yonuk Chong, Euyheon Hwang, and Daniel K Park
+       https://iopscience.iop.org/article/10.1088/1367-2630/ac7b3d
 - Quantum states with Einstein-Podolsky-Rosen correlations admitting a hidden-variable model - Reinhard F. Werner
        https://journals.aps.org/pra/pdf/10.1103/PhysRevA.40.4277
 - Quantum simulator enables first microscopic observation of charge carriers pairing
