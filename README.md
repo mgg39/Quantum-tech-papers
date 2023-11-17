@@ -20,7 +20,7 @@ The following papers are available in this repo (in order):
 - Giant enhancement of third-harmonic generation in graphene–metal heterostructures
        https://www.nature.com/articles/s41565-020-00808-w
 - High Quality Entangled Photon Pair Generation in Periodically Poled Thin-Film Lithium Niobate Waveguides - Jie Zhao, Chaoxuan Ma, Michael Rüsing, and Shayan Mookherjea
-       https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.163603 
+       https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.163603
 - Multi-state quantum simulations via model-space quantum imaginary time evolution - Takashi Tsuchimochi, Yoohee Ryo, Siu Chung Tsang, Seiichiro L. Ten-no
        https://arxiv.org/abs/2206.04494
 - Open Hardware in Quantum Technology - Nathan Shammah, Anurag Saha Roy, Carmen G. Almudever, Sébastien Bourdeauducq, ...
