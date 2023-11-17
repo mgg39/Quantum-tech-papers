@@ -7,18 +7,34 @@ Re-curring topics on this list are:
 - Nonlinear optoelectronic processes in graphene
 
 The following papers are available in this repo (in order):
+- Channel Waveguides in Lithium Niobate and Lithium Tantalate- Yi Lu, Benjamin Johnston, Peter Dekker, Michael J Withford, Judith M Dawes
+       https://pubmed.ncbi.nlm.nih.gov/32867367/
+- Efficient parametric frequency conversion in lithium niobate nanophotonic chips - Jia-yang Chen, Yong Meng Sua, Zhao-hui Ma, Chao Tang, Zhan Li, Yu-ping Huang
+       https://arxiv.org/abs/1903.08722
 - Electrically tunable nonlinear plasmonics in graphene nanoislands
        https://www.nature.com/articles/ncomms6725
+- Experimental Estimation of Quantum State Properties from Classical Shadows - G.I. Struchalin, Ya.A. Zagorovskii, E.V. Kovlakov, S.S.Straupe, S.P. Kulik
+       https://arxiv.org/abs/2008.05234 
+- Generation of broadband correlated photon-pairs in short thin-film lithium-niobate waveguides - Bradley S. Elkus, et. al
+       https://opg.optica.org/directpdfaccess/02ed958b-dc38-449c-b5d94c4360c660b2_424684/oe-27-26-38521.pdf?da=1&id=424684&seq=0&mobile=no 
 - Giant enhancement of third-harmonic generation in graphene–metal heterostructures
        https://www.nature.com/articles/s41565-020-00808-w
+- High Quality Entangled Photon Pair Generation in Periodically Poled Thin-Film Lithium Niobate Waveguides - Jie Zhao, Chaoxuan Ma, Michael Rüsing, and Shayan Mookherjea
+       https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.163603 
+- Multi-state quantum simulations via model-space quantum imaginary time evolution - Takashi Tsuchimochi, Yoohee Ryo, Siu Chung Tsang, Seiichiro L. Ten-no
+       https://arxiv.org/abs/2206.04494
 - Open Hardware in Quantum Technology - Nathan Shammah, Anurag Saha Roy, Carmen G. Almudever, Sébastien Bourdeauducq, ...
        https://arxiv.org/pdf/2309.17233.pdf
 - Physics-Informed Quantum Machine Learning: Solving nonlinear differential equations in latent spaces without costly grid evaluations - Annie E. Paine, Vincent E. Elfving, & Oleksandr Kyriienko1
        https://arxiv.org/pdf/2308.01827.pdf
+- Predicting Many Properties of a Quantum System from Very Few Measurements - Hsin-Yuan Huang, Richard Kueng, John Preskill
+       https://arxiv.org/abs/2002.08953
 - Quantum computing with graphene plasmons
        https://www.nature.com/articles/s41534-019-0150-2
 - Single-Photon Nonlinear Optics with Graphene Plasmons
        https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.111.247401
+- Solitons near avoided mode crossings in χ(2) nanowaveguides - William R. Rowe, Andrey V. Gorbach, Dmitry V. Skryabin
+       https://arxiv.org/abs/2108.08563
 - What can we learn from quantum convolutional neural networks? - Chukwudubem Umeano, Annie E. Paine, Vincent E. Elfving, & Oleksandr Kyriienko
        https://arxiv.org/pdf/2308.16664.pdf
 
@@ -29,4 +45,9 @@ If you would like to add any paper to this repository please feel free to create
 Linkedin : https://www.linkedin.com/in/maria-gragera-garces/
 
 Email : m.gragera.garces@gmail.com
+
+
+
+
+
 
