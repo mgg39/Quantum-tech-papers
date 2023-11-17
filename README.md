@@ -60,6 +60,8 @@ The following papers are available in this repo (in order):
        https://arxiv.org/abs/1811.10972
 - Blueprint for a Scalable Photonic Fault-Tolerant Quantum Computer - J. Eli Bourassa, Rafael N. Alexander, Michael Vasmer, Ashlesha Patil, ...
        https://arxiv.org/abs/2010.02905
+- Channel Waveguides in Lithium Niobate and Lithium Tantalate- Yi Lu, Benjamin Johnston, Peter Dekker, Michael J Withford, Judith M Dawes
+       https://pubmed.ncbi.nlm.nih.gov/32867367/
 - Classical, quantum and total correlations - L Henderson and V Vedral
        https://iopscience.iop.org/article/10.1088/0305-4470/34/35/315
 - Coherent shuttle of electron-spin states - T. Fujita, T. A. Baart, C. Reichl, W. Wegscheider, L. M. K. Vandersype
@@ -84,6 +86,8 @@ The following papers are available in this repo (in order):
        https://arxiv.org/pdf/2307.00523.pdf
 - Distribution of entanglement in large-scale quantum networks - S Perseguers, G J Lapeyre Jr, D Cavalcanti, M Lewenstein and A Acin
        https://iopscience.iop.org/article/10.1088/0034-4885/76/9/096001/pdf
+- Efficient parametric frequency conversion in lithium niobate nanophotonic chips - Jia-yang Chen, Yong Meng Sua, Zhao-hui Ma, Chao Tang, Zhan Li, Yu-ping Huang
+       https://arxiv.org/abs/1903.08722
 - Elementary gates for quantum computation - Adriano Barenco, Charles H. Bennett, Richard Cleve, David P. DiVincenzo, ...
        https://journals.aps.org/pra/abstract/10.1103/PhysRevA.52.3457?cm_mc_uid=43781767191014577577895&cm_mc_sid_50200000=1460741020
 - Energy-Efficient Superconducting Computing—Power Budgets and Requirements
@@ -98,6 +102,8 @@ The following papers are available in this repo (in order):
        https://iopscience.iop.org/article/10.1088/2058-9565/ab7eeb/pdf?casa_token=fqUuMeRiHW8AAAAA:-qCFEf4B8q71vIHgiBtzWC_CMtpzILLTB5PaGoVOSn-EugRt6crwFnEY65HH3AwY_zVOkq2gmQ
 - Experimental demonstration of memory-enhanced quantum communication - Mihir K. Bhaskar, Ralf Riedinger, Bartholomeus Machielse, David S. Levonian,...
        https://arxiv.org/abs/1909.01323
+- Experimental Estimation of Quantum State Properties from Classical Shadows - G.I. Struchalin, Ya.A. Zagorovskii, E.V. Kovlakov, S.S.Straupe, S.P. Kulik
+       https://arxiv.org/abs/2008.05234 
 - Experimental exploration of five-qubit quantum error-correcting code with superconducting qubits - Ming Gong, Xiao Yuan, Shiyu Wang, Yulin Wu, ...
        https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiH6f7Sk8n5AhW6S0EAHYpcCL0QFnoECAsQAQ&url=https%3A%2F%2Fora.ox.ac.uk%2Fobjects%2Fuuid%3A5b2e5204-7746-4569-807e-77654a77313a%2Ffiles%2Fs0v838175c&usg=AOvVaw3l2-7GFf0m6Fw14IpYljjx
 - Experimental violation of Bell inequalities for multi-dimensional systems - Hsin-Pin Lo1, Che-Ming Li2, AtsushiYabushita1, Yueh-NanChen3, Chih-Wei Luo1 & Takayoshi Kobayashi
@@ -120,6 +126,10 @@ The following papers are available in this repo (in order):
        https://arxiv.org/abs/2009.07301
 - Generalized GHZ States and Distributed Quantum - Anocha Yimsiriwattana, Samuel J. Lomonaco Jr
        https://arxiv.org/abs/quant-ph/0402148
+- Generation of broadband correlated photon-pairs in short thin-film lithium-niobate waveguides - Bradley S. Elkus, et. al
+       https://opg.optica.org/directpdfaccess/02ed958b-dc38-449c-b5d94c4360c660b2_424684/oe-27-26-38521.pdf?da=1&id=424684&seq=0&mobile=no 
+- High Quality Entangled Photon Pair Generation in Periodically Poled Thin-Film Lithium Niobate Waveguides - Jie Zhao, Chaoxuan Ma, Michael Rüsing, and Shayan Mookherjea
+       https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.163603 
 - How many qubits are needed for quantum computational supremacy? - Alexander M. Dalzell1, Aram W. Harrow, Dax Enshan Koh, and Rolando L. La Placa 
        https://quantum-journal.org/papers/q-2020-05-11-264/
 - Implementation of multidimensional quantum walks using linear optics and classical light - Sandeep K. Goyal, Filippus S. Roux, Andrew Forbes, and Thomas Konrad
@@ -140,6 +150,8 @@ The following papers are available in this repo (in order):
        https://arxiv.org/abs/2202.01925
 - Mitiq: A software package for error mitigation on noisy quantum computers - Ryan LaRose, Andrea Mari, Sarah Kaiser, Peter J. Karalekas, Andre A. Alves, ...
        https://arxiv.org/abs/2009.04417
+- Multi-state quantum simulations via model-space quantum imaginary time evolution - Takashi Tsuchimochi, Yoohee Ryo, Siu Chung Tsang, Seiichiro L. Ten-no
+       https://arxiv.org/abs/2206.04494
 - Multiple Particle Interference and Quantum Error Correction, Andrew Steane
        https://arxiv.org/abs/quant-ph/9601029
 - Multiple Particle Interference and Quantum Error Correction - Andrew Steane 
@@ -166,6 +178,8 @@ and Stefan Woerner
        https://github.com/intarchboard/e-impact-workshop-public/blob/main/papers/Clemm-Dong-Mirsky-Ciavaglia-Tantsura-Odini_Green-Networking-Metrics.pdf
 - Practical randomness and privacy amplification - Cameron Foreman, Sherilyn Wright, Alec Edgington, Mario Berta, Florian J. Curchod
        https://arxiv.org/abs/2009.06551
+- Predicting Many Properties of a Quantum System from Very Few Measurements - Hsin-Yuan Huang, Richard Kueng, John Preskill
+       https://arxiv.org/abs/2002.08953
 - Programmable Heisenberg interactions between Floquet qubits - Long B. Nguyen, Yosep Kim, Akel Hashim, Noah Goss, Brian Marinelli, ... 
        https://arxiv.org/abs/2211.10383
 - Proposal for room-temperature quantum repeaters with nitrogen-vacancy centers and optomechanics - Jia-Wei Ji, Yu-Feng Wu, Stephen C. Wein, ...
@@ -232,6 +246,8 @@ and Stefan Woerner
        https://arxiv.org/abs/2009.12000
 - Simple Proof of Security of the BB84 Quantum Key Distribution Protocol -Peter W. Shor, John Preskill
        https://arxiv.org/abs/quant-ph/0003004
+- Solitons near avoided mode crossings in χ(2) nanowaveguides - William R. Rowe, Andrey V. Gorbach, Dmitry V. Skryabin
+       https://arxiv.org/abs/2108.08563
 - Stabilizer Codes and Quantum Error Correction -Thesis by Daniel Gottesman
        https://arxiv.org/abs/quant-ph/9705052
 - Stim: a fast stabilizer circuit simulator -Craig Gidney
