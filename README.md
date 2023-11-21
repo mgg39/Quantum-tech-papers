@@ -21,6 +21,7 @@ Re-curring topics on this list are:
 - Quantum Machine Learning (QML)
 - Constructor theory
 - Physical information
+- Quantum Neural Networks (QNNs)
 
 The following papers are available in this repo (in order):
 - Quantum networking, by  Rodney Van Meter (book)
@@ -146,6 +147,8 @@ The following papers are available in this repo (in order):
        https://www.nature.com/articles/s41567-022-01539-6
 - Memory cost of quantum protocols - Alessandro Bisio, Giacomo Mauro D’Ariano, and Paolo Perinott
        https://www.researchgate.net/publication/51965796_Memory_cost_of_quantum_protocols
+- Microwave Quantum Memristors - X.-Y. Qiu, S. Kumar, F. A. Cárdenas-López, G. Alvarado Barrios, E. Solano, F.Albarrán-Arriagada
+       https://arxiv.org/abs/2311.06925
 - Mitigating the quantum hype - Olivier Ezratty
        https://arxiv.org/abs/2202.01925
 - Mitiq: A software package for error mitigation on noisy quantum computers - Ryan LaRose, Andrea Mari, Sarah Kaiser, Peter J. Karalekas, Andre A. Alves, ...
@@ -167,6 +170,8 @@ The following papers are available in this repo (in order):
        https://dl.acm.org/doi/10.1145/380752.380757
 - Optimal architectures for long distance quantum communication - Sreraman Muralidharan, Linshu Li, Jungsang Kim, Norbert Lütkenhaus, Mikhail D. Lukin & Liang Jiang
        https://www.nature.com/articles/srep20463
+- Optimizing quantum noise-induced reservoir computing for nonlinear and chaotic time series prediction - Daniel Fry, Amol Deshmukh, Samuel Yen-Chi Chen, Vladimir Rastunkov, Vanio Markov
+        https://arxiv.org/abs/2303.05488
 - Option Pricing using Quantum Computers Nikitas Stamatopoulos, Daniel J. Egger, Yue Sun, Christa Zoufal2,3, Raban Iten2,3, Ning Shen1,
 and Stefan Woerner
        https://arxiv.org/abs/1905.02666
@@ -256,6 +261,8 @@ and Stefan Woerner
        https://arxiv.org/abs/2010.09626
 - Surface codes: Towards practical large-scale quantum computation - Austin G. Fowler, Matteo Mariantoni, John M. Martinis and Andrew N. Cleland
      https://arxiv.org/abs/1208.0928   
+- Symmetry-invariant quantum machine learning force fields - Isabel Nha Minh Le, Oriel Kiss, Julian Schuhmacher, Ivano Tavernelli, Francesco Tacchino
+        https://arxiv.org/abs/2311.11362
 - Teleportation of entanglement over 143 km - Thomas Herbst, Thomas Scheidl, Matthias Fink, Johannes Handsteiner, Bernhard Wittmann, Rupert Ursin, Anton Zeilinger
        https://arxiv.org/abs/1403.0009
 - The Computational and Latency Advantage of Quantum Communication Networks - Roberto Ferrara, Riccardo Bassoli, Christian Deppe, Frank H.P. Fitzek and Holger Boche
