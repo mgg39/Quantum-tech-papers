@@ -4,7 +4,10 @@ It is not a curated list of the most recommended publications for a beginner in 
 Re-curring topics on this list are:
 - Quantum open hardware
 - QML
+- QNNs
 - Nonlinear optoelectronic processes in graphene
+- Photon pair generation
+- Open Quantum Hardware
 
 The following papers are available in this repo (in order):
 - Channel Waveguides in Lithium Niobate and Lithium Tantalate- Yi Lu, Benjamin Johnston, Peter Dekker, Michael J Withford, Judith M Dawes
