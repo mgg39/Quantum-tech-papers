@@ -24,10 +24,14 @@ The following papers are available in this repo (in order):
        https://www.nature.com/articles/s41565-020-00808-w
 - High Quality Entangled Photon Pair Generation in Periodically Poled Thin-Film Lithium Niobate Waveguides - Jie Zhao, Chaoxuan Ma, Michael Rüsing, and Shayan Mookherjea
        https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.163603
+- Microwave Quantum Memristors - X.-Y. Qiu, S. Kumar, F. A. Cárdenas-López, G. Alvarado Barrios, E. Solano, F.Albarrán-Arriagada
+       https://arxiv.org/abs/2311.06925
 - Multi-state quantum simulations via model-space quantum imaginary time evolution - Takashi Tsuchimochi, Yoohee Ryo, Siu Chung Tsang, Seiichiro L. Ten-no
        https://arxiv.org/abs/2206.04494
 - Open Hardware in Quantum Technology - Nathan Shammah, Anurag Saha Roy, Carmen G. Almudever, Sébastien Bourdeauducq, ...
        https://arxiv.org/pdf/2309.17233.pdf
+- Optimizing quantum noise-induced reservoir computing for nonlinear and chaotic time series prediction - Daniel Fry, Amol Deshmukh, Samuel Yen-Chi Chen, Vladimir Rastunkov, Vanio Markov
+       https://arxiv.org/abs/2303.05488
 - Physics-Informed Quantum Machine Learning: Solving nonlinear differential equations in latent spaces without costly grid evaluations - Annie E. Paine, Vincent E. Elfving, & Oleksandr Kyriienko1
        https://arxiv.org/pdf/2308.01827.pdf
 - Predicting Many Properties of a Quantum System from Very Few Measurements - Hsin-Yuan Huang, Richard Kueng, John Preskill
@@ -38,6 +42,8 @@ The following papers are available in this repo (in order):
        https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.111.247401
 - Solitons near avoided mode crossings in χ(2) nanowaveguides - William R. Rowe, Andrey V. Gorbach, Dmitry V. Skryabin
        https://arxiv.org/abs/2108.08563
+- Symmetry-invariant quantum machine learning force fields - Isabel Nha Minh Le, Oriel Kiss, Julian Schuhmacher, Ivano Tavernelli, Francesco Tacchino
+        https://arxiv.org/abs/2311.11362
 - What can we learn from quantum convolutional neural networks? - Chukwudubem Umeano, Annie E. Paine, Vincent E. Elfving, & Oleksandr Kyriienko
        https://arxiv.org/pdf/2308.16664.pdf
 
