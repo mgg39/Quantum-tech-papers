@@ -23,7 +23,7 @@ Re-curring topics on this list are:
 - Physical information
 - Quantum Neural Networks (QNNs)
 
-The following papers are available in this repo (in order):
+The following papers/articles/books are available in this repo (in order):
 - Quantum networking, by  Rodney Van Meter (book)
 - Schrödinger's Web: Race to Build the Quantum Internet, by Jonathan Dowling (book)
 - 2D materials for quantum information science
