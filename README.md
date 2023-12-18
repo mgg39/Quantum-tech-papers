@@ -87,6 +87,8 @@ The following papers/articles/books are available in this repo (in order):
        https://arxiv.org/pdf/2307.00523.pdf
 - Distribution of entanglement in large-scale quantum networks - S Perseguers, G J Lapeyre Jr, D Cavalcanti, M Lewenstein and A Acin
        https://iopscience.iop.org/article/10.1088/0034-4885/76/9/096001/pdf
+- Does provable absence of barren plateaus imply classical simulability? Or, why we need to rethink variational quantum computing - M. Cerezo et. al.
+       https://arxiv.org/pdf/2312.09121.pdf
 - Efficient parametric frequency conversion in lithium niobate nanophotonic chips - Jia-yang Chen, Yong Meng Sua, Zhao-hui Ma, Chao Tang, Zhan Li, Yu-ping Huang
        https://arxiv.org/abs/1903.08722
 - Elementary gates for quantum computation - Adriano Barenco, Charles H. Bennett, Richard Cleve, David P. DiVincenzo, ...
