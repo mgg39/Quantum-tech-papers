@@ -12,6 +12,8 @@ Re-curring topics on this list are:
 The following papers are available in this repo (in order):
 - Channel Waveguides in Lithium Niobate and Lithium Tantalate- Yi Lu, Benjamin Johnston, Peter Dekker, Michael J Withford, Judith M Dawes
        https://pubmed.ncbi.nlm.nih.gov/32867367/
+- Does provable absence of barren plateaus imply classical simulability? Or, why we need to rethink variational quantum computing - M. Cerezo et. al.
+       https://arxiv.org/pdf/2312.09121.pdf
 - Efficient parametric frequency conversion in lithium niobate nanophotonic chips - Jia-yang Chen, Yong Meng Sua, Zhao-hui Ma, Chao Tang, Zhan Li, Yu-ping Huang
        https://arxiv.org/abs/1903.08722
 - Electrically tunable nonlinear plasmonics in graphene nanoislands
