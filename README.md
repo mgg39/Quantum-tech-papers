@@ -296,6 +296,98 @@ and Stefan Woerner
 - lambeq: An Efficient High-Level Python Library for Quantum NLP
        https://arxiv.org/abs/2110.04236
 
+## End of 2023 dump 
+### I will try to alphabetize this after the 2024 exam season
+Quantum mechanics with real numbers: entanglement, superselection rules and gauges - Vlatko Vedral
+https://arxiv.org/pdf/2308.05473.pdf
+
+Interference in Quantum Field Theory: Detecting Ghosts with Phases - Chiara Marletto, Vlatko Vedral
+https://onlinelibrary.wiley.com/doi/full/10.1002/andp.202200530
+
+Observable Thermalization: Theory, Numerical and Analytical Evidence
+Lodovico Scarpa, Fabio Anza,Vlatko Vedral
+https://arxiv.org/pdf/2309.15173.pdf
+
+Comparing coherent and incoherent models for quantum homogenization
+Anna Beever, Maria Violaris, Chiara Marletto, and Vlatko Vedral
+https://arxiv.org/pdf/2309.15741.pdf
+
+Conservation Laws Reveal the Quantumness of Gravity - Tianfeng Feng, Chiara Marletto, Vlatko Vedral
+https://arxiv.org/abs/2311.08971
+
+Locality in the Schr ̈odinger Picture of Quantum Mechanics - Vlatko Vedral
+https://arxiv.org/pdf/2312.04701.pdf
+
+Entanglement in Many-Body Systems - Luigi Amico, Rosario Fazio, Vlatko Vedral
+https://arxiv.org/pdf/quant-ph/0703044.pdf
+
+The Everything-Is-a-Quantum-Wave Interpretation of Quantum Physics - Vlatko Vedral
+https://www.mdpi.com/2624-960X/5/2/31
+
+Error Correction of Quantum Algorithms: Arbitrarily Accurate Recovery Of Noisy Quantum Signal Processing - Andrew K. Tan, Yuan Liu, Minh C. Tran, Isaac L. Chuang
+https://arxiv.org/pdf/2301.08542.pdf
+
+Practical Benchmarking of Randomized Measurement Methods for Quantum Chemistry Hamiltonians - Arkopal Dutt, et.al 
+https://arxiv.org/pdf/2312.07497.pdf
+
+Single-shot Quantum Signal Processing Interferometry - Jasmine Sinanan-Singh, Gabriel L. Mintzer, Isaac L. Chuang, and Yuan Liu
+https://arxiv.org/pdf/2311.13703.pdf
+
+Resource savings from fault-tolerant circuit design - Andrew K. Tan, Isaac L. Chuang
+https://arxiv.org/pdf/2311.02132.pdf
+
+Active learning of quantum system Hamiltonians yields query advantage - Arkopal Dutt, et.al 
+https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.5.033060
+
+Power of sequential protocols in hidden quantum channel discrimination - Sho Sugiura, et.al 
+https://arxiv.org/pdf/2304.02053.pdf
+
+Noisy dynamical systems evolve error correcting codes and modularity - Trevor McCourt, Ila R. Fiete, and Isaac L. Chuang
+https://arxiv.org/pdf/2303.14448.pdf
+
+Bootstrap Embedding on a Quantum Computer -Yuan Liu, et.al.
+https://arxiv.org/pdf/2301.01457.pdf
+
+Deep Learning with Coherent Nanophotonic Circuits - Yichen Shen
+https://arxiv.org/pdf/1610.02365.pdf
+
+Solid-state single-photon emitters - Igor Aharonovich, Dirk Englund and Milos Toth
+http://ciqm.harvard.edu/uploads/2/3/3/4/23349210/aharanovich_2016.pdf
+
+Advances in Quantum Cryptography - S. Pirandola, et.al 
+https://arxiv.org/pdf/1906.01645.pdf
+
+Tutorial: Remote entanglement protocols for stationary qubits with photonic interfaces - Hans K.C. Beukers, et.al.
+https://arxiv.org/pdf/2310.19878.pdf
+
+Large-scale optical characterization of solid-state quantum emitters - Madison Sutula, et. al.
+https://arxiv.org/pdf/2210.13643.pdf
+
+Electrical Tuning of Neutral and Charged Excitons with 1-nm Gate - Jawaher Almutlaq, et. al.
+https://arxiv.org/pdf/2310.19895.pdf
+
+Quantum Optical Neural Networks (Patent Application)
+https://patentimages.storage.googleapis.com/fa/61/94/ec20dc003a6517/US20200372334A1.pdf
+
+Quantum algorithm for linear systems of equations - Aram W. Harrow, Avinatan Hassidim, and Seth Lloyd
+https://arxiv.org/pdf/0811.3171.pdf
+
+Supervised learning with quantum enhanced feature spaces - Vojtech Havlicek, et.al 
+https://arxiv.org/pdf/1804.11326.pdf
+
+Quantum Computational Supremacy - Aram W. Harrow, Ashley Montanaro
+https://arxiv.org/pdf/1809.07442.pdf
+
+18th Conference on the Theory of Quantum Computation, Communication and Cryptography
+https://inspirehep.net/files/36042b35a0a8b68d0c63390592af9491
+
+Exponential speedups for quantum walks in random hierarchical graphs - Shankar Balasubramanian, Tongyang Li, and Aram Harrow
+https://arxiv.org/abs/2307.15062
+
+Quantum computing at the frontiers of biological sciences - Prashant S. Emani, et. al.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8254820/
+
+
 # Notes:
 If you would like to add any paper to this repository please feel free to create a pull request &/or reach out to me via linkedin or email.
 
