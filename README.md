@@ -24,10 +24,10 @@ Re-curring topics on this list are:
 - Quantum Neural Networks (QNNs)
 
 The following papers/articles/books are available in this repo (in order):
-- Quantum networking, by  Rodney Van Meter (book)
-- Schrödinger's Web: Race to Build the Quantum Internet, by Jonathan Dowling (book)
 - 2D materials for quantum information science
        https://www.nature.com/articles/s41578-019-0136-x
+- 18th Conference on the Theory of Quantum Computation, Communication and Cryptography
+       https://inspirehep.net/files/36042b35a0a8b68d0c63390592af9491
 - A Grand Unification of Quantum Algorithms - John M. Martyn, Zane M. Rossi, Andrew K. Tan, Isaac L. Chuang
        https://arxiv.org/abs/2105.02859
 - A Preprocessing Perspective for Quantum Machine Learning Classification Advantage in Finance Using NISQ Algorithms - Javier Mancilla, Christophe Pere 
@@ -42,8 +42,12 @@ The following papers/articles/books are available in this repo (in order):
        https://arxiv.org/abs/0810.2587
 - A quantum walk control plane for distributed quantum computing in quantum networks - Matheus Guedes de Andrade, Wenhan Dai, Saikat Guha, Don Towsley
        https://arxiv.org/abs/2106.09839
+- Active learning of quantum system Hamiltonians yields query advantage - Arkopal Dutt, et.al 
+       https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.5.033060
 - Advances in Silicon Quantum Photonics - Jeremy C. Adcock; Jueming Bao; Yulin Chi; Xiaojiong Chen; Davide Bacco; Qihuang
        https://ieeexplore.ieee.org/document/9205209/authors#authors
+- Advances in Quantum Cryptography - S. Pirandola, et.al 
+       https://arxiv.org/pdf/1906.01645.pdf
 - Advantages and Bottlenecks of Quantum Machine Learning for Remote Sensing - Daniela A. Zaidenberg, Alessandro Sebastianelli, Dario Spiller, Bertrand Le Saux, Silvia Liberata Ullo https://arxiv.org/abs/2101.10657 or https://ieeexplore.ieee.org/document/9553133
 - All-photonic quantum repeaters - Koji Azuma, Kiyoshi Tamaki & Hoi-Kwong Lo
        https://arxiv.org/abs/1309.7207
@@ -61,6 +65,8 @@ The following papers/articles/books are available in this repo (in order):
        https://arxiv.org/abs/1811.10972
 - Blueprint for a Scalable Photonic Fault-Tolerant Quantum Computer - J. Eli Bourassa, Rafael N. Alexander, Michael Vasmer, Ashlesha Patil, ...
        https://arxiv.org/abs/2010.02905
+- Bootstrap Embedding on a Quantum Computer -Yuan Liu, et.al.
+       https://arxiv.org/pdf/2301.01457.pdf
 - Channel Waveguides in Lithium Niobate and Lithium Tantalate- Yi Lu, Benjamin Johnston, Peter Dekker, Michael J Withford, Judith M Dawes
        https://pubmed.ncbi.nlm.nih.gov/32867367/
 - Classical, quantum and total correlations - L Henderson and V Vedral
@@ -69,6 +75,10 @@ The following papers/articles/books are available in this repo (in order):
        https://arxiv.org/abs/1701.00815
 - Commercial applications of quantum computing - Francesco Bova, Avi Goldfarb, Roger G. Melko
        https://epjquantumtechnology.springeropen.com/articles/10.1140/epjqt/s40507-021-00091-1
+- Comparing coherent and incoherent models for quantum homogenization - Anna Beever, Maria Violaris, Chiara Marletto, and Vlatko Vedral
+       https://arxiv.org/pdf/2309.15741.pdf
+- Conservation Laws Reveal the Quantumness of Gravity - Tianfeng Feng, Chiara Marletto, Vlatko Vedral
+       https://arxiv.org/abs/2311.08971
 - Constructor Theory of Information - David Deutsch, Chiara Marletto
        https://arxiv.org/abs/1405.5563
 - Constructor Theory of Life - Chiara Marletto
@@ -79,6 +89,8 @@ The following papers/articles/books are available in this repo (in order):
        https://arxiv.org/abs/1608.02625
 - Continued Fractions and Probability Estimations in Shor’s Algorithm: A Detailed and Self-Contained Treatise -Johanna Barzen and Frank Leymann
        https://arxiv.org/abs/2205.01925
+- Deep Learning with Coherent Nanophotonic Circuits - Yichen Shen
+       https://arxiv.org/pdf/1610.02365.pdf
 - Designing a Quantum Network Protocol - Wojciech Kozlowski, Axel Dahlberg, Stephanie Wehner
        https://arxiv.org/abs/2010.02575
 - Discrete simulation of quantum walks - Madita Willsch, Dennis Willsch, Kristel Michielsen, and Hans De Raedt
@@ -91,6 +103,8 @@ The following papers/articles/books are available in this repo (in order):
        https://arxiv.org/pdf/2312.09121.pdf
 - Efficient parametric frequency conversion in lithium niobate nanophotonic chips - Jia-yang Chen, Yong Meng Sua, Zhao-hui Ma, Chao Tang, Zhan Li, Yu-ping Huang
        https://arxiv.org/abs/1903.08722
+- Electrical Tuning of Neutral and Charged Excitons with 1-nm Gate - Jawaher Almutlaq, et. al.
+       https://arxiv.org/pdf/2310.19895.pdf
 - Elementary gates for quantum computation - Adriano Barenco, Charles H. Bennett, Richard Cleve, David P. DiVincenzo, ...
        https://journals.aps.org/pra/abstract/10.1103/PhysRevA.52.3457?cm_mc_uid=43781767191014577577895&cm_mc_sid_50200000=1460741020
 - Energy-Efficient Superconducting Computing—Power Budgets and Requirements
@@ -101,6 +115,10 @@ The following papers/articles/books are available in this repo (in order):
        https://ieeexplore.ieee.org/abstract/document/6449287
 - Energy & Information - Myron Tribus and Edward C. McIrvine
        https://www.jstor.org/stable/24923125?saml_data=eyJzYW1sVG9rZW4iOiIzYThiNDZlMi1iZGVhLTRlMGQtOGExOC03YzQ2ZDZkNzQyNWQiLCJpbnN0aXR1dGlvbklkcyI6WyJiN2JlMjYxZS1hOWVhLTRiZGYtOWVjNS00ZWVkN2NhNTI5NzIiXX0#metadata_info_tab_contents
+- Entanglement in Many-Body Systems - Luigi Amico, Rosario Fazio, Vlatko Vedral
+       https://arxiv.org/pdf/quant-ph/0703044.pdf
+- Error Correction of Quantum Algorithms: Arbitrarily Accurate Recovery Of Noisy Quantum Signal Processing - Andrew K. Tan, Yuan Liu, Minh C. Tran, Isaac L. Chuang
+       https://arxiv.org/pdf/2301.08542.pdf
 - Establishing the quantum supremacy frontier with a 281 Pflop/s simulation
        https://iopscience.iop.org/article/10.1088/2058-9565/ab7eeb/pdf?casa_token=fqUuMeRiHW8AAAAA:-qCFEf4B8q71vIHgiBtzWC_CMtpzILLTB5PaGoVOSn-EugRt6crwFnEY65HH3AwY_zVOkq2gmQ
 - Experimental demonstration of memory-enhanced quantum communication - Mihir K. Bhaskar, Ralf Riedinger, Bartholomeus Machielse, David S. Levonian,...
@@ -111,6 +129,8 @@ The following papers/articles/books are available in this repo (in order):
        https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiH6f7Sk8n5AhW6S0EAHYpcCL0QFnoECAsQAQ&url=https%3A%2F%2Fora.ox.ac.uk%2Fobjects%2Fuuid%3A5b2e5204-7746-4569-807e-77654a77313a%2Ffiles%2Fs0v838175c&usg=AOvVaw3l2-7GFf0m6Fw14IpYljjx
 - Experimental violation of Bell inequalities for multi-dimensional systems - Hsin-Pin Lo1, Che-Ming Li2, AtsushiYabushita1, Yueh-NanChen3, Chih-Wei Luo1 & Takayoshi Kobayashi
        https://www.nature.com/articles/srep22088
+- Exponential speedups for quantum walks in random hierarchical graphs - Shankar Balasubramanian, Tongyang Li, and Aram Harrow
+       https://arxiv.org/abs/2307.15062
 - Fault-tolerant Preparation of Stabilizer States for Quantum CSS Codes by Classical Error-Correcting Codes - Ching-Yi Lai, Yi-Cong Zheng, and Todd A. Brun
        https://arxiv.org/abs/1605.05647
 - Field-Deployable Quantum Memory for Quantum Networking - Yang Wang, Alexander N. Craddock, Rourke Sekelsky, Mael Flament, and Mehdi Namazi
@@ -141,12 +161,18 @@ The following papers/articles/books are available in this repo (in order):
        https://www.scitepress.org/Papers/2022/107862/107862.pdf
 - Implementing the quantum random walk - B. C. Travaglione, G. J. Milburn
        https://arxiv.org/abs/quant-ph/0109076
+- Interference in Quantum Field Theory: Detecting Ghosts with Phases - Chiara Marletto, Vlatko Vedral
+       https://onlinelibrary.wiley.com/doi/full/10.1002/andp.202200530
 - Is quantum computing green? An estimate for an energy-efficiency quantum advantage - Daniel Jaschke and Simone Montangero
        https://arxiv.org/pdf/2205.12092.pdf
 - lambeq: An Efficient High-Level Python Library for Quantum NLP - Dimitri Kartsaklis, Ian Fan, Richie Yeung, Anna Pearson, Robin Lorenz,...
        https://arxiv.org/abs/2110.04236
+- Large-scale optical characterization of solid-state quantum emitters - Madison Sutula, et. al.
+       https://arxiv.org/pdf/2210.13643.pdf
 - Linear growth of quantum circuit complexity, by Jonas Haferkamp, Philippe Faist , Naga B. T. Kothakonda, Jens Eisert, and Nicole Yunger Halpern.
        https://www.nature.com/articles/s41567-022-01539-6
+- Locality in the Schrodinger Picture of Quantum Mechanics - Vlatko Vedral
+       https://arxiv.org/pdf/2312.04701.pdf
 - Memory cost of quantum protocols - Alessandro Bisio, Giacomo Mauro D’Ariano, and Paolo Perinott
        https://www.researchgate.net/publication/51965796_Memory_cost_of_quantum_protocols
 - Microwave Quantum Memristors - X.-Y. Qiu, S. Kumar, F. A. Cárdenas-López, G. Alvarado Barrios, E. Solano, F.Albarrán-Arriagada
@@ -165,6 +191,10 @@ The following papers/articles/books are available in this repo (in order):
        https://arxiv.org/abs/2105.06707
 - NetSquid, a NETwork Simulator for QUantum Information using Discrete events - Tim Coopmans, Robert Knegjens, Axel Dahlberg, David Maier, Loek Nijsten, ...
        https://arxiv.org/abs/2010.12535
+- Noisy dynamical systems evolve error correcting codes and modularity - Trevor McCourt, Ila R. Fiete, and Isaac L. Chuang
+       https://arxiv.org/pdf/2303.14448.pdf
+- Observable Thermalization: Theory, Numerical and Analytical Evidence - Lodovico Scarpa, Fabio Anza,Vlatko Vedral
+       https://arxiv.org/pdf/2309.15173.pdf
 - On Circuit-based Hybrid Quantum Neural Networks for Remote Sensing Imagery Classification - Alessandro Sebastianelli, Daniela A. Zaidenberg, Dario Spiller, Bertrand Le Saux, Silvia Liberata Ullo https://arxiv.org/abs/2109.09484 or https://ieeexplore.ieee.org/document/9647979
 - On the CNOT-cost of TOFFOLI gates - Vivek V. Shende, Igor L. Markov
        https://dl.acm.org/doi/10.5555/2011791.2011799
@@ -183,6 +213,10 @@ and Stefan Woerner
        https://www.nature.com/articles/s41534-022-00522-6
 - Position paper: Green Networking Metrics - draft-cx-green-metrics
        https://github.com/intarchboard/e-impact-workshop-public/blob/main/papers/Clemm-Dong-Mirsky-Ciavaglia-Tantsura-Odini_Green-Networking-Metrics.pdf
+- Power of sequential protocols in hidden quantum channel discrimination - Sho Sugiura, et.al 
+       https://arxiv.org/pdf/2304.02053.pdf
+- Practical Benchmarking of Randomized Measurement Methods for Quantum Chemistry Hamiltonians - Arkopal Dutt, et.al 
+       https://arxiv.org/pdf/2312.07497.pdf
 - Practical randomness and privacy amplification - Cameron Foreman, Sherilyn Wright, Alec Edgington, Mario Berta, Florian J. Curchod
        https://arxiv.org/abs/2009.06551
 - Predicting Many Properties of a Quantum System from Very Few Measurements - Hsin-Yuan Huang, Richard Kueng, John Preskill
@@ -193,6 +227,12 @@ and Stefan Woerner
        https://arxiv.org/abs/2012.06687
 - Protocols for creating and distilling multipartite GHZ states with Bell pairs - Sébastian de Bone, Runsheng Ouyang, Kenneth Goodenough, David Elkouss
        https://arxiv.org/abs/2010.12259
+- Quantum algorithm for linear systems of equations - Aram W. Harrow, Avinatan Hassidim, and Seth Lloyd
+       https://arxiv.org/pdf/0811.3171.pdf
+- Quantum Computational Supremacy - Aram W. Harrow, Ashley Montanaro
+       https://arxiv.org/pdf/1809.07442.pdf
+- Quantum computing at the frontiers of biological sciences - Prashant S. Emani, et. al.
+       https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8254820/
 - Quantum Data Center: Theories and Applications - Junyu Liu, Connor T. Hann, and Liang Jiang1
        https://arxiv.org/abs/2207.14336
 - Quantum Internet Protocol Stack a Comprehensive Survey - Jessica Illiano, Marcello Caleffi, Antonio Manzalini, Angela Sara Cacciapuoti
@@ -225,6 +265,11 @@ and Stefan Woerner
        https://arxiv.org/abs/quant-ph/9708022
 - Quantum information processing with bosonic qubits in circuit QED - Atharv Joshi, Kyungjoo Noh, and Yvonne Y Gao
        https://iopscience.iop.org/article/10.1088/2058-9565/abe989/pdf
+- Quantum mechanics with real numbers: entanglement, superselection rules and gauges - Vlatko Vedral
+       https://arxiv.org/pdf/2308.05473.pdf
+- Quantum networking, by  Rodney Van Meter (book)
+- Quantum Optical Neural Networks (Patent Application)
+       https://patentimages.storage.googleapis.com/fa/61/94/ec20dc003a6517/US20200372334A1.pdf
 - Quantum readout error mitigation via deep learning - Jihye Kim, Byungdu Oh, Yonuk Chong, Euyheon Hwang, and Daniel K Park
        https://iopscience.iop.org/article/10.1088/1367-2630/ac7b3d
 - Quantum walks a comprehensive review - Salvador E. Venegas-Andraca
@@ -245,14 +290,21 @@ and Stefan Woerner
        https://www.researchgate.net/publication/352621787_Request_Scheduling_in_Quantum_Networks
 - Room temperature quantum key distribution characteristics of low‑noise InGaAs/InP single‑photon avalanche diode - Soo‑Hyun Baek, Seung‑Chul Yang1, Chan‑Yong Park
        https://link.springer.com/article/10.1007/s40042-021-00111-4
+- Resource savings from fault-tolerant circuit design - Andrew K. Tan, Isaac L. Chuang
+       https://arxiv.org/pdf/2311.02132.pdf
 - Scaling silicon-based quantum computing using CMOS technology - M. F. Gonzalez-Zalba, S. de Franceschi, E. Charbon, T. Meunier, M. Vinet, A. S. Dzurak
        https://arxiv.org/abs/2011.11753
 - Scheme for reducing decoherence in quantum computer memory, Peter W. Shor
        https://www.cs.miami.edu/home/burt/learning/Csc670.052/pR2493_1.pdf
+- Schrödinger's Web: Race to Build the Quantum Internet, by Jonathan Dowling (book)
 - SeQUeNCe a customizable discrete-event simulator of quantum networks - Xiaoliang Wu, Alexander Kolar, Joaquin Chung, Dong Jin,, Tian Zhong, ...
        https://arxiv.org/abs/2009.12000
 - Simple Proof of Security of the BB84 Quantum Key Distribution Protocol -Peter W. Shor, John Preskill
        https://arxiv.org/abs/quant-ph/0003004
+- Single-shot Quantum Signal Processing Interferometry - Jasmine Sinanan-Singh, Gabriel L. Mintzer, Isaac L. Chuang, and Yuan Liu
+       https://arxiv.org/pdf/2311.13703.pdf
+- Solid-state single-photon emitters - Igor Aharonovich, Dirk Englund and Milos Toth
+       http://ciqm.harvard.edu/uploads/2/3/3/4/23349210/aharanovich_2016.pdf
 - Solitons near avoided mode crossings in χ(2) nanowaveguides - William R. Rowe, Andrey V. Gorbach, Dmitry V. Skryabin
        https://arxiv.org/abs/2108.08563
 - Stabilizer Codes and Quantum Error Correction -Thesis by Daniel Gottesman
@@ -261,6 +313,8 @@ and Stefan Woerner
        https://arxiv.org/abs/2103.02202v3
 - Subsystem codes with high thresholds by gauge fixing and reduced qubit overhead - Oscar Higgott, Nikolas P. Breuckmann
        https://arxiv.org/abs/2010.09626
+- Supervised learning with quantum enhanced feature spaces - Vojtech Havlicek, et.al 
+       https://arxiv.org/pdf/1804.11326.pdf
 - Surface codes: Towards practical large-scale quantum computation - Austin G. Fowler, Matteo Mariantoni, John M. Martinis and Andrew N. Cleland
      https://arxiv.org/abs/1208.0928   
 - Symmetry-invariant quantum machine learning force fields - Isabel Nha Minh Le, Oriel Kiss, Julian Schuhmacher, Ivano Tavernelli, Francesco Tacchino
@@ -269,6 +323,8 @@ and Stefan Woerner
        https://arxiv.org/abs/1403.0009
 - The Computational and Latency Advantage of Quantum Communication Networks - Roberto Ferrara, Riccardo Bassoli, Christian Deppe, Frank H.P. Fitzek and Holger Boche
        https://arxiv.org/pdf/2106.03360.pdf
+- The Everything-Is-a-Quantum-Wave Interpretation of Quantum Physics - Vlatko Vedral
+       https://www.mdpi.com/2624-960X/5/2/31
 - The Physical Implementation of Quantum Computation
        https://arxiv.org/abs/quant-ph/0002077
 - The SWAP test and the Hong-Ou-Mandel effect are equivalent - Juan Carlos Garcia-Escartin, Pedro Chamorro-Posada
@@ -283,6 +339,8 @@ and Stefan Woerner
        https://arxiv.org/abs/2105.07300
 - Topological quantum memory - Eric Dennis,Alexei Kitaev,Andrew Landahl,and John Preskill
        https://arxiv.org/abs/quant-ph/0110143
+- Tutorial: Remote entanglement protocols for stationary qubits with photonic interfaces - Hans K.C. Beukers, et.al.
+       https://arxiv.org/pdf/2310.19878.pdf
 - Paving the Way towards 800 Gbps Quantum-Secured Optical Channel Deployment - Farzam Toudeh-Fallah, Marco Pistoia, Yasushi Kawakura,...
        https://arxiv.org/abs/2202.07764
 - Transitioning organizations to post-quantum cryptography - David Joseph1, Rafael Misoczki2, Marc Manzano1, Joe Tricot1, Fernando Dominguez, ...
@@ -295,98 +353,6 @@ and Stefan Woerner
        https://arxiv.org/abs/1108.1791
 - lambeq: An Efficient High-Level Python Library for Quantum NLP
        https://arxiv.org/abs/2110.04236
-
-## End of 2023 dump 
-### I will try to alphabetize this after the 2024 exam season
-Quantum mechanics with real numbers: entanglement, superselection rules and gauges - Vlatko Vedral
-https://arxiv.org/pdf/2308.05473.pdf
-
-Interference in Quantum Field Theory: Detecting Ghosts with Phases - Chiara Marletto, Vlatko Vedral
-https://onlinelibrary.wiley.com/doi/full/10.1002/andp.202200530
-
-Observable Thermalization: Theory, Numerical and Analytical Evidence
-Lodovico Scarpa, Fabio Anza,Vlatko Vedral
-https://arxiv.org/pdf/2309.15173.pdf
-
-Comparing coherent and incoherent models for quantum homogenization
-Anna Beever, Maria Violaris, Chiara Marletto, and Vlatko Vedral
-https://arxiv.org/pdf/2309.15741.pdf
-
-Conservation Laws Reveal the Quantumness of Gravity - Tianfeng Feng, Chiara Marletto, Vlatko Vedral
-https://arxiv.org/abs/2311.08971
-
-Locality in the Schr ̈odinger Picture of Quantum Mechanics - Vlatko Vedral
-https://arxiv.org/pdf/2312.04701.pdf
-
-Entanglement in Many-Body Systems - Luigi Amico, Rosario Fazio, Vlatko Vedral
-https://arxiv.org/pdf/quant-ph/0703044.pdf
-
-The Everything-Is-a-Quantum-Wave Interpretation of Quantum Physics - Vlatko Vedral
-https://www.mdpi.com/2624-960X/5/2/31
-
-Error Correction of Quantum Algorithms: Arbitrarily Accurate Recovery Of Noisy Quantum Signal Processing - Andrew K. Tan, Yuan Liu, Minh C. Tran, Isaac L. Chuang
-https://arxiv.org/pdf/2301.08542.pdf
-
-Practical Benchmarking of Randomized Measurement Methods for Quantum Chemistry Hamiltonians - Arkopal Dutt, et.al 
-https://arxiv.org/pdf/2312.07497.pdf
-
-Single-shot Quantum Signal Processing Interferometry - Jasmine Sinanan-Singh, Gabriel L. Mintzer, Isaac L. Chuang, and Yuan Liu
-https://arxiv.org/pdf/2311.13703.pdf
-
-Resource savings from fault-tolerant circuit design - Andrew K. Tan, Isaac L. Chuang
-https://arxiv.org/pdf/2311.02132.pdf
-
-Active learning of quantum system Hamiltonians yields query advantage - Arkopal Dutt, et.al 
-https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.5.033060
-
-Power of sequential protocols in hidden quantum channel discrimination - Sho Sugiura, et.al 
-https://arxiv.org/pdf/2304.02053.pdf
-
-Noisy dynamical systems evolve error correcting codes and modularity - Trevor McCourt, Ila R. Fiete, and Isaac L. Chuang
-https://arxiv.org/pdf/2303.14448.pdf
-
-Bootstrap Embedding on a Quantum Computer -Yuan Liu, et.al.
-https://arxiv.org/pdf/2301.01457.pdf
-
-Deep Learning with Coherent Nanophotonic Circuits - Yichen Shen
-https://arxiv.org/pdf/1610.02365.pdf
-
-Solid-state single-photon emitters - Igor Aharonovich, Dirk Englund and Milos Toth
-http://ciqm.harvard.edu/uploads/2/3/3/4/23349210/aharanovich_2016.pdf
-
-Advances in Quantum Cryptography - S. Pirandola, et.al 
-https://arxiv.org/pdf/1906.01645.pdf
-
-Tutorial: Remote entanglement protocols for stationary qubits with photonic interfaces - Hans K.C. Beukers, et.al.
-https://arxiv.org/pdf/2310.19878.pdf
-
-Large-scale optical characterization of solid-state quantum emitters - Madison Sutula, et. al.
-https://arxiv.org/pdf/2210.13643.pdf
-
-Electrical Tuning of Neutral and Charged Excitons with 1-nm Gate - Jawaher Almutlaq, et. al.
-https://arxiv.org/pdf/2310.19895.pdf
-
-Quantum Optical Neural Networks (Patent Application)
-https://patentimages.storage.googleapis.com/fa/61/94/ec20dc003a6517/US20200372334A1.pdf
-
-Quantum algorithm for linear systems of equations - Aram W. Harrow, Avinatan Hassidim, and Seth Lloyd
-https://arxiv.org/pdf/0811.3171.pdf
-
-Supervised learning with quantum enhanced feature spaces - Vojtech Havlicek, et.al 
-https://arxiv.org/pdf/1804.11326.pdf
-
-Quantum Computational Supremacy - Aram W. Harrow, Ashley Montanaro
-https://arxiv.org/pdf/1809.07442.pdf
-
-18th Conference on the Theory of Quantum Computation, Communication and Cryptography
-https://inspirehep.net/files/36042b35a0a8b68d0c63390592af9491
-
-Exponential speedups for quantum walks in random hierarchical graphs - Shankar Balasubramanian, Tongyang Li, and Aram Harrow
-https://arxiv.org/abs/2307.15062
-
-Quantum computing at the frontiers of biological sciences - Prashant S. Emani, et. al.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8254820/
-
 
 # Notes:
 If you would like to add any paper to this repository please feel free to create a pull request &/or reach out to me via linkedin or email.
