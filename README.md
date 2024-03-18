@@ -45,6 +45,8 @@ Re-curring topics on this list are:
        https://arxiv.org/abs/2108.08563
 - Symmetry-invariant quantum machine learning force fields - Isabel Nha Minh Le, Oriel Kiss, Julian Schuhmacher, Ivano Tavernelli, Francesco Tacchino
         https://arxiv.org/abs/2311.11362
+- The Future of Quantum Computing with Superconducting Qubits - Sergey Bravyi, Oliver Dial, Jay M. Gambetta, Dar ́ıo Gil, and Zaira Nazario1
+       https://pubs.aip.org/aip/jap/article/132/16/160902/2837574/The-future-of-quantum-computing-with?gad_source=1&gclid=CjwKCAjwzN-vBhAkEiwAYiO7oNR3geHvK84h1XCOdqayK_DY_PnHb5Rj20SbFdhIwVD9TZR7NvZWPBoC93UQAvD_BwE
 - What can we learn from quantum convolutional neural networks? - Chukwudubem Umeano, Annie E. Paine, Vincent E. Elfving, & Oleksandr Kyriienko
        https://arxiv.org/pdf/2308.16664.pdf
 
