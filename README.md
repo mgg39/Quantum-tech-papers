@@ -8,6 +8,8 @@ Re-curring topics on this list are:
 - Nonlinear optoelectronic processes in graphene
 - Photon pair generation
 - Open Quantum Hardware
+- Lithium Niobate waveguides
+- Single photon sources
 
 - Channel Waveguides in Lithium Niobate and Lithium Tantalate- Yi Lu, Benjamin Johnston, Peter Dekker, Michael J Withford, Judith M Dawes
        https://pubmed.ncbi.nlm.nih.gov/32867367/
