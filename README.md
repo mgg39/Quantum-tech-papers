@@ -11,20 +11,38 @@ Re-curring topics on this list are:
 - Lithium Niobate waveguides
 - Single photon sources
 
+- 𝑨 𝒔𝒆𝒓𝒊𝒆𝒔 𝒐𝒇 𝒇𝒂𝒔𝒕-𝒑𝒂𝒄𝒆𝒅 𝒂𝒅𝒗𝒂𝒏𝒄𝒆𝒔 𝒊𝒏 𝑸𝒖𝒂𝒏𝒕𝒖𝒎 𝑬𝒓𝒓𝒐𝒓 𝑪𝒐𝒓𝒓𝒆𝒄𝒕𝒊𝒐𝒏 - Earl Campbell
+	https://www.nature.com/articles/s42254-024-00706-3
+- 𝑨𝒔𝒔𝒆𝒔𝒔𝒊𝒏𝒈 𝒕𝒉𝒆 𝑩𝒆𝒏𝒆𝒇𝒊𝒕𝒔 𝒂𝒏𝒅 𝑹𝒊𝒔𝒌𝒔 𝒐𝒇 𝑸𝒖𝒂𝒏𝒕𝒖𝒎 𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓𝒔 - Travis L. Scholten, et.al
+	https://arxiv.org/pdf/2401.16317.pdf
 - Channel Waveguides in Lithium Niobate and Lithium Tantalate- Yi Lu, Benjamin Johnston, Peter Dekker, Michael J Withford, Judith M Dawes
        https://pubmed.ncbi.nlm.nih.gov/32867367/
+- 𝑪𝒐𝒎𝒑𝒂𝒓𝒂𝒕𝒊𝒗𝒆 𝒔𝒕𝒖𝒅𝒚 𝒐𝒇 𝒒𝒖𝒂𝒏𝒕𝒖𝒎 𝒆𝒓𝒓𝒐𝒓 𝒄𝒐𝒓𝒓𝒆𝒄𝒕𝒊𝒐𝒏 𝒔𝒕𝒓𝒂𝒕𝒆𝒈𝒊𝒆𝒔 𝒇𝒐𝒓 𝒕𝒉𝒆 𝒉𝒆𝒂𝒗𝒚-𝒉𝒆𝒙𝒂𝒈𝒐𝒏𝒂𝒍 𝒍𝒂𝒕𝒕𝒊𝒄𝒆 - César Benito, Et al.
+       https://arxiv.org/abs/2402.02185#:~:text=Comparative%20study%20of%20quantum%20error%20correction%20strategies%20for%20the%20heavy%2Dhexagonal%20lattice,-César%20Benito%2C%20Esperanza&text=Topological%20quantum%20error%20correction%20is,algorithms%20for%20real%2Dworld%20problems
 - Does provable absence of barren plateaus imply classical simulability? Or, why we need to rethink variational quantum computing - M. Cerezo et. al.
        https://arxiv.org/pdf/2312.09121.pdf
+- 𝑫𝒖𝒂𝒍 𝒇𝒓𝒂𝒎𝒆 𝒐𝒑𝒕𝒊𝒎𝒊𝒛𝒂𝒕𝒊𝒐𝒏 𝒇𝒐𝒓 𝒊𝒏𝒇𝒐𝒓𝒎𝒂𝒕𝒊𝒐𝒏𝒂𝒍𝒍𝒚 𝒄𝒐𝒎𝒑𝒍𝒆𝒕𝒆 𝒒𝒖𝒂𝒏𝒕𝒖𝒎 𝒎𝒆𝒂𝒔𝒖𝒓𝒆𝒎𝒆𝒏𝒕𝒔 - Laurin E. Fischer, Et al
+	https://arxiv.org/abs/2401.18071
+- Effect of thickness variations of lithium niobate on insulator waveguide on the frequency spectrum of spontaneous parametric down-conversion - Guang-Tai Xue(薛广太), Xiao-Hui Tian(田晓慧), Chi Zhang(张弛), Zhenda Xie(谢臻达), Ping Xu(徐平), Yan-Xiao Gong(龚彦晓)1, and Shi-Ning Zhu
+	https://iopscience.iop.org/article/10.1088/1674-1056/ac22a1/meta
 - Efficient parametric frequency conversion in lithium niobate nanophotonic chips - Jia-yang Chen, Yong Meng Sua, Zhao-hui Ma, Chao Tang, Zhan Li, Yu-ping Huang
        https://arxiv.org/abs/1903.08722
+- Efficient single-photon pair generation by spontaneous parametric down-conversion in nonlinear plasmonic metasurfaces - Boyuan Jin, Dhananjay Mishra, and Christos Argyropoulos - Bradley S. Elkus, Kamal Abdelsalam, Sasan Fathpour, Prem Kumar, and Gregory S. Kanter
+	https://arxiv.org/pdf/2111.09753.pdf
 - Electrically tunable nonlinear plasmonics in graphene nanoislands
        https://www.nature.com/articles/ncomms6725
 - Experimental Estimation of Quantum State Properties from Classical Shadows - G.I. Struchalin, Ya.A. Zagorovskii, E.V. Kovlakov, S.S.Straupe, S.P. Kulik
        https://arxiv.org/abs/2008.05234 
+- 𝑭𝒂𝒔𝒕 𝒄𝒍𝒂𝒔𝒔𝒊𝒄𝒂𝒍 𝒔𝒊𝒎𝒖𝒍𝒂𝒕𝒊𝒐𝒏 𝒐𝒇 𝑯𝒂𝒓𝒗𝒂𝒓𝒅/𝑸𝒖𝑬𝒓𝒂 𝑰𝑸𝑷 𝒄𝒊𝒓𝒄𝒖𝒊𝒕𝒔 - Dmitri Maslov, Et al.
+	https://arxiv.org/abs/2402.03211
 - Generation of broadband correlated photon-pairs in short thin-film lithium-niobate waveguides - Bradley S. Elkus, et. al
        https://opg.optica.org/directpdfaccess/02ed958b-dc38-449c-b5d94c4360c660b2_424684/oe-27-26-38521.pdf?da=1&id=424684&seq=0&mobile=no 
 - Giant enhancement of third-harmonic generation in graphene–metal heterostructures
        https://www.nature.com/articles/s41565-020-00808-w
+- Generation of broadband correlated photon-pairs in short thin-film lithium-niobate waveguides - Bradley S. Elkus, Kamal Abdelsalam, Ashutosh Rao, Vesselin Velev, Sasan Fathpour, Prem Kumar, and Gregory S. Kanter
+	https://opg.optica.org/directpdfaccess/59b79585-483e-4f1c-b903eec55f97d873_424684/oe-27-26-38521.pdf?da=1&id=424684&seq=0&mobile=no
+- High-threshold and low-overhead fault-tolerant quantum memory -Sergey Bravyi, et. Al
+	https://www.nature.com/articles/s41586-024-07107-7
 - High Quality Entangled Photon Pair Generation in Periodically Poled Thin-Film Lithium Niobate Waveguides - Jie Zhao, Chaoxuan Ma, Michael Rüsing, and Shayan Mookherjea
        https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.163603
 - Microwave Quantum Memristors - X.-Y. Qiu, S. Kumar, F. A. Cárdenas-López, G. Alvarado Barrios, E. Solano, F.Albarrán-Arriagada
@@ -41,6 +59,12 @@ Re-curring topics on this list are:
        https://arxiv.org/abs/2002.08953
 - Quantum computing with graphene plasmons
        https://www.nature.com/articles/s41534-019-0150-2
+- Quantum-correlated photon-pair generation via cascaded nonlinearity in an ultra-compact lithium-niobate nano-waveguide - Bradley S. Elkus, Kamal Abdelsalam, Sasan Fathpour, Prem Kumar, and Gregory S. Kanter
+	https://opg.optica.org/oe/fulltext.cfm?uri=oe-28-26-39963&id=444931
+- 𝑸𝒖𝒂𝒏𝒕𝒖𝒎 𝒔𝒊𝒎𝒖𝒍𝒂𝒕𝒊𝒐𝒏 𝒐𝒇 𝑭𝒆𝒓𝒎𝒊-𝑯𝒖𝒃𝒃𝒂𝒓𝒅 𝒎𝒐𝒅𝒆𝒍 𝒃𝒂𝒔𝒆𝒅 𝒐𝒏 𝒕𝒓𝒂𝒏𝒔𝒎𝒐𝒏 𝒒𝒖𝒅𝒊𝒕 𝒊𝒏𝒕𝒆𝒓𝒂𝒄𝒕𝒊𝒐𝒏 -Arian Vezvaee
+	https://arxiv.org/abs/2402.01243
+- Rejuvenating a versatile photonic material: Thin-film lithium niobate - Amirmahdi Honardoost, Kamal Abdelsalam, and Sasan Fathpour
+       https://onlinelibrary.wiley.com/doi/full/10.1002/lpor.202000088#
 - Single-Photon Nonlinear Optics with Graphene Plasmons
        https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.111.247401
 - Solitons near avoided mode crossings in χ(2) nanowaveguides - William R. Rowe, Andrey V. Gorbach, Dmitry V. Skryabin
