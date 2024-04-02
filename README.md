@@ -11,6 +11,8 @@ Re-curring topics on this list are:
 - Lithium Niobate waveguides
 - Single photon sources
 
+- 18th Conference on the Theory of Quantum Computation, Communication and Cryptography
+	https://inspirehep.net/files/36042b35a0a8b68d0c63390592af9491
 - 𝑨 𝒔𝒆𝒓𝒊𝒆𝒔 𝒐𝒇 𝒇𝒂𝒔𝒕-𝒑𝒂𝒄𝒆𝒅 𝒂𝒅𝒗𝒂𝒏𝒄𝒆𝒔 𝒊𝒏 𝑸𝒖𝒂𝒏𝒕𝒖𝒎 𝑬𝒓𝒓𝒐𝒓 𝑪𝒐𝒓𝒓𝒆𝒄𝒕𝒊𝒐𝒏 - Earl Campbell
 	https://www.nature.com/articles/s42254-024-00706-3
 - 𝑨𝒔𝒔𝒆𝒔𝒔𝒊𝒏𝒈 𝒕𝒉𝒆 𝑩𝒆𝒏𝒆𝒇𝒊𝒕𝒔 𝒂𝒏𝒅 𝑹𝒊𝒔𝒌𝒔 𝒐𝒇 𝑸𝒖𝒂𝒏𝒕𝒖𝒎 𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓𝒔 - Travis L. Scholten, et.al
@@ -31,8 +33,14 @@ Re-curring topics on this list are:
 	https://arxiv.org/pdf/2111.09753.pdf
 - Electrically tunable nonlinear plasmonics in graphene nanoislands
        https://www.nature.com/articles/ncomms6725
+- Entanglement in Many-Body Systems - Luigi Amico, Rosario Fazio, Vlatko Vedral
+	https://arxiv.org/pdf/quant-ph/0703044.pdf
+- Error Correction of Quantum Algorithms: Arbitrarily Accurate Recovery Of Noisy Quantum Signal Processing - Andrew K. Tan, Yuan Liu, Minh C. Tran, Isaac L. Chuang
+	https://arxiv.org/pdf/2301.08542.pdf
 - Experimental Estimation of Quantum State Properties from Classical Shadows - G.I. Struchalin, Ya.A. Zagorovskii, E.V. Kovlakov, S.S.Straupe, S.P. Kulik
        https://arxiv.org/abs/2008.05234 
+- Exponential speedups for quantum walks in random hierarchical graphs - Shankar Balasubramanian, Tongyang Li, and Aram Harrow
+	https://arxiv.org/abs/2307.15062
 - 𝑭𝒂𝒔𝒕 𝒄𝒍𝒂𝒔𝒔𝒊𝒄𝒂𝒍 𝒔𝒊𝒎𝒖𝒍𝒂𝒕𝒊𝒐𝒏 𝒐𝒇 𝑯𝒂𝒓𝒗𝒂𝒓𝒅/𝑸𝒖𝑬𝒓𝒂 𝑰𝑸𝑷 𝒄𝒊𝒓𝒄𝒖𝒊𝒕𝒔 - Dmitri Maslov, Et al.
 	https://arxiv.org/abs/2402.03211
 - Generation of broadband correlated photon-pairs in short thin-film lithium-niobate waveguides - Bradley S. Elkus, et. al
@@ -57,12 +65,22 @@ Re-curring topics on this list are:
        https://arxiv.org/pdf/2308.01827.pdf
 - Predicting Many Properties of a Quantum System from Very Few Measurements - Hsin-Yuan Huang, Richard Kueng, John Preskill
        https://arxiv.org/abs/2002.08953
+- Quantum algorithm for linear systems of equations - Aram W. Harrow, Avinatan Hassidim, and Seth Lloyd
+	https://arxiv.org/pdf/0811.3171.pdf
+- Quantum computing at the frontiers of biological sciences - Prashant S. Emani, et. al.
+	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8254820/
 - Quantum computing with graphene plasmons
        https://www.nature.com/articles/s41534-019-0150-2
 - Quantum-correlated photon-pair generation via cascaded nonlinearity in an ultra-compact lithium-niobate nano-waveguide - Bradley S. Elkus, Kamal Abdelsalam, Sasan Fathpour, Prem Kumar, and Gregory S. Kanter
 	https://opg.optica.org/oe/fulltext.cfm?uri=oe-28-26-39963&id=444931
+- Quantum mechanics with real numbers: entanglement, superselection rules and gauges - Vlatko Vedral
+	https://arxiv.org/pdf/2308.05473.pdf
 - 𝑸𝒖𝒂𝒏𝒕𝒖𝒎 𝒔𝒊𝒎𝒖𝒍𝒂𝒕𝒊𝒐𝒏 𝒐𝒇 𝑭𝒆𝒓𝒎𝒊-𝑯𝒖𝒃𝒃𝒂𝒓𝒅 𝒎𝒐𝒅𝒆𝒍 𝒃𝒂𝒔𝒆𝒅 𝒐𝒏 𝒕𝒓𝒂𝒏𝒔𝒎𝒐𝒏 𝒒𝒖𝒅𝒊𝒕 𝒊𝒏𝒕𝒆𝒓𝒂𝒄𝒕𝒊𝒐𝒏 -Arian Vezvaee
 	https://arxiv.org/abs/2402.01243
+- Quantum Computational Supremacy - Aram W. Harrow, Ashley Montanaro
+	https://arxiv.org/pdf/1809.07442.pdf
+- Quantum Optical Neural Networks (Patent Application)
+	https://patentimages.storage.googleapis.com/fa/61/94/ec20dc003a6517/US20200372334A1.pdf
 - Rejuvenating a versatile photonic material: Thin-film lithium niobate - Amirmahdi Honardoost, Kamal Abdelsalam, and Sasan Fathpour
        https://onlinelibrary.wiley.com/doi/full/10.1002/lpor.202000088#
 - Single-Photon Nonlinear Optics with Graphene Plasmons
@@ -77,8 +95,7 @@ Re-curring topics on this list are:
        https://arxiv.org/pdf/2308.16664.pdf
 
 ## End of year dump (will alphabetize when I have time)
-Quantum mechanics with real numbers: entanglement, superselection rules and gauges - Vlatko Vedral
-https://arxiv.org/pdf/2308.05473.pdf
+
 
 Interference in Quantum Field Theory: Detecting Ghosts with Phases - Chiara Marletto, Vlatko Vedral
 https://onlinelibrary.wiley.com/doi/full/10.1002/andp.202200530
@@ -97,14 +114,8 @@ https://arxiv.org/abs/2311.08971
 Locality in the Schr ̈odinger Picture of Quantum Mechanics - Vlatko Vedral
 https://arxiv.org/pdf/2312.04701.pdf
 
-Entanglement in Many-Body Systems - Luigi Amico, Rosario Fazio, Vlatko Vedral
-https://arxiv.org/pdf/quant-ph/0703044.pdf
-
 The Everything-Is-a-Quantum-Wave Interpretation of Quantum Physics - Vlatko Vedral
 https://www.mdpi.com/2624-960X/5/2/31
-
-Error Correction of Quantum Algorithms: Arbitrarily Accurate Recovery Of Noisy Quantum Signal Processing - Andrew K. Tan, Yuan Liu, Minh C. Tran, Isaac L. Chuang
-https://arxiv.org/pdf/2301.08542.pdf
 
 Practical Benchmarking of Randomized Measurement Methods for Quantum Chemistry Hamiltonians - Arkopal Dutt, et.al 
 https://arxiv.org/pdf/2312.07497.pdf
@@ -145,26 +156,10 @@ https://arxiv.org/pdf/2210.13643.pdf
 Electrical Tuning of Neutral and Charged Excitons with 1-nm Gate - Jawaher Almutlaq, et. al.
 https://arxiv.org/pdf/2310.19895.pdf
 
-Quantum Optical Neural Networks (Patent Application)
-https://patentimages.storage.googleapis.com/fa/61/94/ec20dc003a6517/US20200372334A1.pdf
-
-Quantum algorithm for linear systems of equations - Aram W. Harrow, Avinatan Hassidim, and Seth Lloyd
-https://arxiv.org/pdf/0811.3171.pdf
-
 Supervised learning with quantum enhanced feature spaces - Vojtech Havlicek, et.al 
 https://arxiv.org/pdf/1804.11326.pdf
 
-Quantum Computational Supremacy - Aram W. Harrow, Ashley Montanaro
-https://arxiv.org/pdf/1809.07442.pdf
 
-18th Conference on the Theory of Quantum Computation, Communication and Cryptography
-https://inspirehep.net/files/36042b35a0a8b68d0c63390592af9491
-
-Exponential speedups for quantum walks in random hierarchical graphs - Shankar Balasubramanian, Tongyang Li, and Aram Harrow
-https://arxiv.org/abs/2307.15062
-
-Quantum computing at the frontiers of biological sciences - Prashant S. Emani, et. al.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8254820/
 
 # Notes:
 If you would like to add any paper to this repository please feel free to create a pull request &/or reach out to me via linkedin or email.
