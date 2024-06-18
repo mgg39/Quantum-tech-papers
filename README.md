@@ -1,7 +1,9 @@
 # Quantum-tech-papers
-This repo contains some of the papers and publications, I have read over the past few months, that pertain to quantum technology development.
-It is not a curated list of the most recommended publications for a beginner in the quantum networking field, but rather a journal (of sorts) that depics my journey through publications.
-Re-curring topics on this list are:
+This repository contains a list of some of the papers and publications, I have read through my journey through quantum. 
+I began working on this project through my undergraduate years and currently continue mantaining it in grad school.
+The objective of this project is not to curate a list of the most recommended publications for a beginner in quantum tech, but rather to build a journal (of sorts) that depics my journey through quantum publications. The full list of reads can be found here, but other branches include year by year breakdowns. The topics presented in this compilation often reflect my work and surges in interest through my time in this industry.
+
+Re-curring topics on this list include:
 - Quantum protocol design
 - Quantum algorithms
 - The Quantum internet
@@ -23,7 +25,10 @@ Re-curring topics on this list are:
 - Physical information
 - Quantum Neural Networks (QNNs)
 
-The following papers/articles/books are available in this repo (in order):
+I welcome contributions in the Recommended reads branch, and would love to build a strong list of recommendations for beginners through it.
+
+Originally this repo contained the physical versions of the papers mentioned, but due to space, these had to be removed. They can still be found in the year by year breakdowns, but the main branch now only contains the full list in alphabetical order of papers and publications. These are as follows:
+
 - 2D materials for quantum information science
        https://www.nature.com/articles/s41578-019-0136-x
 - 18th Conference on the Theory of Quantum Computation, Communication and Cryptography
