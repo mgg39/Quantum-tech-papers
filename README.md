@@ -336,6 +336,9 @@ and Stefan Woerner
        https://arxiv.org/abs/1303.6814
 - The Toric Code, Paul Herringer
        https://www.physics.rutgers.edu/grad/602/Lectures/JC_Presentations/0419/Intro_Toric_Code.pdf
+        https://arxiv.org/abs/2311.11362
+- The Future of Quantum Computing with Superconducting Qubits - Sergey Bravyi, Oliver Dial, Jay M. Gambetta, Dar ́ıo Gil, and Zaira Nazario1
+       https://pubs.aip.org/aip/jap/article/132/16/160902/2837574/The-future-of-quantum-computing-with?gad_source=1&gclid=CjwKCAjwzN-
 - The information-theoretic foundation of thermodynamic work extraction - Chiara Marletto
        https://arxiv.org/abs/2009.04588
 - The role of quantum information in thermodynamics ~ a topical review - John Goold, Marcus Huber, Arnau Riera, L´ıdia del Rio, and Paul Skrzypczyk
