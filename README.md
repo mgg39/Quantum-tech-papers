@@ -15,12 +15,24 @@ Re-curring topics on this list are:
 	https://inspirehep.net/files/36042b35a0a8b68d0c63390592af9491
 - 𝑨 𝒔𝒆𝒓𝒊𝒆𝒔 𝒐𝒇 𝒇𝒂𝒔𝒕-𝒑𝒂𝒄𝒆𝒅 𝒂𝒅𝒗𝒂𝒏𝒄𝒆𝒔 𝒊𝒏 𝑸𝒖𝒂𝒏𝒕𝒖𝒎 𝑬𝒓𝒓𝒐𝒓 𝑪𝒐𝒓𝒓𝒆𝒄𝒕𝒊𝒐𝒏 - Earl Campbell
 	https://www.nature.com/articles/s42254-024-00706-3
+- Active learning of quantum system Hamiltonians yields query advantage - Arkopal Dutt, et.al 
+	https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.5.033060
+- Advances in Quantum Cryptography - S. Pirandola, et.al 
+	https://arxiv.org/pdf/1906.01645.pdf
 - 𝑨𝒔𝒔𝒆𝒔𝒔𝒊𝒏𝒈 𝒕𝒉𝒆 𝑩𝒆𝒏𝒆𝒇𝒊𝒕𝒔 𝒂𝒏𝒅 𝑹𝒊𝒔𝒌𝒔 𝒐𝒇 𝑸𝒖𝒂𝒏𝒕𝒖𝒎 𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓𝒔 - Travis L. Scholten, et.al
 	https://arxiv.org/pdf/2401.16317.pdf
+- Bootstrap Embedding on a Quantum Computer -Yuan Liu, et.al.
+	https://arxiv.org/pdf/2301.01457.pdf
 - Channel Waveguides in Lithium Niobate and Lithium Tantalate- Yi Lu, Benjamin Johnston, Peter Dekker, Michael J Withford, Judith M Dawes
        https://pubmed.ncbi.nlm.nih.gov/32867367/
 - 𝑪𝒐𝒎𝒑𝒂𝒓𝒂𝒕𝒊𝒗𝒆 𝒔𝒕𝒖𝒅𝒚 𝒐𝒇 𝒒𝒖𝒂𝒏𝒕𝒖𝒎 𝒆𝒓𝒓𝒐𝒓 𝒄𝒐𝒓𝒓𝒆𝒄𝒕𝒊𝒐𝒏 𝒔𝒕𝒓𝒂𝒕𝒆𝒈𝒊𝒆𝒔 𝒇𝒐𝒓 𝒕𝒉𝒆 𝒉𝒆𝒂𝒗𝒚-𝒉𝒆𝒙𝒂𝒈𝒐𝒏𝒂𝒍 𝒍𝒂𝒕𝒕𝒊𝒄𝒆 - César Benito, Et al.
        https://arxiv.org/abs/2402.02185#:~:text=Comparative%20study%20of%20quantum%20error%20correction%20strategies%20for%20the%20heavy%2Dhexagonal%20lattice,-César%20Benito%2C%20Esperanza&text=Topological%20quantum%20error%20correction%20is,algorithms%20for%20real%2Dworld%20problems
+- Comparing coherent and incoherent models for quantum homogenization - Anna Beever, Maria Violaris, Chiara Marletto, and Vlatko Vedral
+	https://arxiv.org/pdf/2309.15741.pdf
+- Conservation Laws Reveal the Quantumness of Gravity - Tianfeng Feng, Chiara Marletto, Vlatko Vedral
+	https://arxiv.org/abs/2311.08971
+- Deep Learning with Coherent Nanophotonic Circuits - Yichen Shen
+	https://arxiv.org/pdf/1610.02365.pdf
 - Does provable absence of barren plateaus imply classical simulability? Or, why we need to rethink variational quantum computing - M. Cerezo et. al.
        https://arxiv.org/pdf/2312.09121.pdf
 - 𝑫𝒖𝒂𝒍 𝒇𝒓𝒂𝒎𝒆 𝒐𝒑𝒕𝒊𝒎𝒊𝒛𝒂𝒕𝒊𝒐𝒏 𝒇𝒐𝒓 𝒊𝒏𝒇𝒐𝒓𝒎𝒂𝒕𝒊𝒐𝒏𝒂𝒍𝒍𝒚 𝒄𝒐𝒎𝒑𝒍𝒆𝒕𝒆 𝒒𝒖𝒂𝒏𝒕𝒖𝒎 𝒎𝒆𝒂𝒔𝒖𝒓𝒆𝒎𝒆𝒏𝒕𝒔 - Laurin E. Fischer, Et al
@@ -33,6 +45,8 @@ Re-curring topics on this list are:
 	https://arxiv.org/pdf/2111.09753.pdf
 - Electrically tunable nonlinear plasmonics in graphene nanoislands
        https://www.nature.com/articles/ncomms6725
+- Electrical Tuning of Neutral and Charged Excitons with 1-nm Gate - Jawaher Almutlaq, et. al.
+	https://arxiv.org/pdf/2310.19895.pdf
 - Entanglement in Many-Body Systems - Luigi Amico, Rosario Fazio, Vlatko Vedral
 	https://arxiv.org/pdf/quant-ph/0703044.pdf
 - Error Correction of Quantum Algorithms: Arbitrarily Accurate Recovery Of Noisy Quantum Signal Processing - Andrew K. Tan, Yuan Liu, Minh C. Tran, Isaac L. Chuang
@@ -53,16 +67,31 @@ Re-curring topics on this list are:
 	https://www.nature.com/articles/s41586-024-07107-7
 - High Quality Entangled Photon Pair Generation in Periodically Poled Thin-Film Lithium Niobate Waveguides - Jie Zhao, Chaoxuan Ma, Michael Rüsing, and Shayan Mookherjea
        https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.163603
+- Interference in Quantum Field Theory: Detecting Ghosts with Phases - Chiara Marletto, Vlatko Vedral
+	https://onlinelibrary.wiley.com/doi/full/10.1002/andp.202200530
+- Large-scale optical characterization of solid-state quantum emitters - Madison Sutula, et. al.
+	https://arxiv.org/pdf/2210.13643.pdf
+- Locality in the Schrodinger Picture of Quantum Mechanics - Vlatko Vedral
+	https://arxiv.org/pdf/2312.04701.pdf
 - Microwave Quantum Memristors - X.-Y. Qiu, S. Kumar, F. A. Cárdenas-López, G. Alvarado Barrios, E. Solano, F.Albarrán-Arriagada
        https://arxiv.org/abs/2311.06925
 - Multi-state quantum simulations via model-space quantum imaginary time evolution - Takashi Tsuchimochi, Yoohee Ryo, Siu Chung Tsang, Seiichiro L. Ten-no
        https://arxiv.org/abs/2206.04494
+- Noisy dynamical systems evolve error correcting codes and modularity - Trevor McCourt, Ila R. Fiete, and Isaac L. Chuang
+	https://arxiv.org/pdf/2303.14448.pdf
+- Observable Thermalization: Theory, Numerical and Analytical Evidence
+Lodovico Scarpa, Fabio Anza,Vlatko Vedral
+	https://arxiv.org/pdf/2309.15173.pdf
 - Open Hardware in Quantum Technology - Nathan Shammah, Anurag Saha Roy, Carmen G. Almudever, Sébastien Bourdeauducq, ...
        https://arxiv.org/pdf/2309.17233.pdf
 - Optimizing quantum noise-induced reservoir computing for nonlinear and chaotic time series prediction - Daniel Fry, Amol Deshmukh, Samuel Yen-Chi Chen, Vladimir Rastunkov, Vanio Markov
        https://arxiv.org/abs/2303.05488
 - Physics-Informed Quantum Machine Learning: Solving nonlinear differential equations in latent spaces without costly grid evaluations - Annie E. Paine, Vincent E. Elfving, & Oleksandr Kyriienko1
        https://arxiv.org/pdf/2308.01827.pdf
+- Power of sequential protocols in hidden quantum channel discrimination - Sho Sugiura, et.al 
+	https://arxiv.org/pdf/2304.02053.pdf
+- Practical Benchmarking of Randomized Measurement Methods for Quantum Chemistry Hamiltonians - Arkopal Dutt, et.al 
+	https://arxiv.org/pdf/2312.07497.pdf
 - Predicting Many Properties of a Quantum System from Very Few Measurements - Hsin-Yuan Huang, Richard Kueng, John Preskill
        https://arxiv.org/abs/2002.08953
 - Quantum algorithm for linear systems of equations - Aram W. Harrow, Avinatan Hassidim, and Seth Lloyd
@@ -83,83 +112,28 @@ Re-curring topics on this list are:
 	https://patentimages.storage.googleapis.com/fa/61/94/ec20dc003a6517/US20200372334A1.pdf
 - Rejuvenating a versatile photonic material: Thin-film lithium niobate - Amirmahdi Honardoost, Kamal Abdelsalam, and Sasan Fathpour
        https://onlinelibrary.wiley.com/doi/full/10.1002/lpor.202000088#
+- Resource savings from fault-tolerant circuit design - Andrew K. Tan, Isaac L. Chuang
+	https://arxiv.org/pdf/2311.02132.pdf
 - Single-Photon Nonlinear Optics with Graphene Plasmons
        https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.111.247401
+- Single-shot Quantum Signal Processing Interferometry - Jasmine Sinanan-Singh, Gabriel L. Mintzer, Isaac L. Chuang, and Yuan Liu
+	https://arxiv.org/pdf/2311.13703.pdf
+- Solid-state single-photon emitters - Igor Aharonovich, Dirk Englund and Milos Toth
+	http://ciqm.harvard.edu/uploads/2/3/3/4/23349210/aharanovich_2016.pdf
 - Solitons near avoided mode crossings in χ(2) nanowaveguides - William R. Rowe, Andrey V. Gorbach, Dmitry V. Skryabin
        https://arxiv.org/abs/2108.08563
+- Supervised learning with quantum enhanced feature spaces - Vojtech Havlicek, et.al 
+https://arxiv.org/pdf/1804.11326.pdf
 - Symmetry-invariant quantum machine learning force fields - Isabel Nha Minh Le, Oriel Kiss, Julian Schuhmacher, Ivano Tavernelli, Francesco Tacchino
         https://arxiv.org/abs/2311.11362
+- The Everything-Is-a-Quantum-Wave Interpretation of Quantum Physics - Vlatko Vedral
+	https://www.mdpi.com/2624-960X/5/2/31
 - The Future of Quantum Computing with Superconducting Qubits - Sergey Bravyi, Oliver Dial, Jay M. Gambetta, Dar ́ıo Gil, and Zaira Nazario1
        https://pubs.aip.org/aip/jap/article/132/16/160902/2837574/The-future-of-quantum-computing-with?gad_source=1&gclid=CjwKCAjwzN-vBhAkEiwAYiO7oNR3geHvK84h1XCOdqayK_DY_PnHb5Rj20SbFdhIwVD9TZR7NvZWPBoC93UQAvD_BwE
+- Tutorial: Remote entanglement protocols for stationary qubits with photonic interfaces - Hans K.C. Beukers, et.al.
+	https://arxiv.org/pdf/2310.19878.pdf
 - What can we learn from quantum convolutional neural networks? - Chukwudubem Umeano, Annie E. Paine, Vincent E. Elfving, & Oleksandr Kyriienko
        https://arxiv.org/pdf/2308.16664.pdf
-
-## End of year dump (will alphabetize when I have time)
-
-
-Interference in Quantum Field Theory: Detecting Ghosts with Phases - Chiara Marletto, Vlatko Vedral
-https://onlinelibrary.wiley.com/doi/full/10.1002/andp.202200530
-
-Observable Thermalization: Theory, Numerical and Analytical Evidence
-Lodovico Scarpa, Fabio Anza,Vlatko Vedral
-https://arxiv.org/pdf/2309.15173.pdf
-
-Comparing coherent and incoherent models for quantum homogenization
-Anna Beever, Maria Violaris, Chiara Marletto, and Vlatko Vedral
-https://arxiv.org/pdf/2309.15741.pdf
-
-Conservation Laws Reveal the Quantumness of Gravity - Tianfeng Feng, Chiara Marletto, Vlatko Vedral
-https://arxiv.org/abs/2311.08971
-
-Locality in the Schr ̈odinger Picture of Quantum Mechanics - Vlatko Vedral
-https://arxiv.org/pdf/2312.04701.pdf
-
-The Everything-Is-a-Quantum-Wave Interpretation of Quantum Physics - Vlatko Vedral
-https://www.mdpi.com/2624-960X/5/2/31
-
-Practical Benchmarking of Randomized Measurement Methods for Quantum Chemistry Hamiltonians - Arkopal Dutt, et.al 
-https://arxiv.org/pdf/2312.07497.pdf
-
-Single-shot Quantum Signal Processing Interferometry - Jasmine Sinanan-Singh, Gabriel L. Mintzer, Isaac L. Chuang, and Yuan Liu
-https://arxiv.org/pdf/2311.13703.pdf
-
-Resource savings from fault-tolerant circuit design - Andrew K. Tan, Isaac L. Chuang
-https://arxiv.org/pdf/2311.02132.pdf
-
-Active learning of quantum system Hamiltonians yields query advantage - Arkopal Dutt, et.al 
-https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.5.033060
-
-Power of sequential protocols in hidden quantum channel discrimination - Sho Sugiura, et.al 
-https://arxiv.org/pdf/2304.02053.pdf
-
-Noisy dynamical systems evolve error correcting codes and modularity - Trevor McCourt, Ila R. Fiete, and Isaac L. Chuang
-https://arxiv.org/pdf/2303.14448.pdf
-
-Bootstrap Embedding on a Quantum Computer -Yuan Liu, et.al.
-https://arxiv.org/pdf/2301.01457.pdf
-
-Deep Learning with Coherent Nanophotonic Circuits - Yichen Shen
-https://arxiv.org/pdf/1610.02365.pdf
-
-Solid-state single-photon emitters - Igor Aharonovich, Dirk Englund and Milos Toth
-http://ciqm.harvard.edu/uploads/2/3/3/4/23349210/aharanovich_2016.pdf
-
-Advances in Quantum Cryptography - S. Pirandola, et.al 
-https://arxiv.org/pdf/1906.01645.pdf
-
-Tutorial: Remote entanglement protocols for stationary qubits with photonic interfaces - Hans K.C. Beukers, et.al.
-https://arxiv.org/pdf/2310.19878.pdf
-
-Large-scale optical characterization of solid-state quantum emitters - Madison Sutula, et. al.
-https://arxiv.org/pdf/2210.13643.pdf
-
-Electrical Tuning of Neutral and Charged Excitons with 1-nm Gate - Jawaher Almutlaq, et. al.
-https://arxiv.org/pdf/2310.19895.pdf
-
-Supervised learning with quantum enhanced feature spaces - Vojtech Havlicek, et.al 
-https://arxiv.org/pdf/1804.11326.pdf
-
-
 
 # Notes:
 If you would like to add any paper to this repository please feel free to create a pull request &/or reach out to me via linkedin or email.
