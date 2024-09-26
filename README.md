@@ -11,6 +11,7 @@ Re-curring topics on this list are:
 - Lithium Niobate waveguides
 - Single photon sources
 
+ Papers;
 - 18th Conference on the Theory of Quantum Computation, Communication and Cryptography
 	https://inspirehep.net/files/36042b35a0a8b68d0c63390592af9491
 - 𝑨 𝒔𝒆𝒓𝒊𝒆𝒔 𝒐𝒇 𝒇𝒂𝒔𝒕-𝒑𝒂𝒄𝒆𝒅 𝒂𝒅𝒗𝒂𝒏𝒄𝒆𝒔 𝒊𝒏 𝑸𝒖𝒂𝒏𝒕𝒖𝒎 𝑬𝒓𝒓𝒐𝒓 𝑪𝒐𝒓𝒓𝒆𝒄𝒕𝒊𝒐𝒏 - Earl Campbell
