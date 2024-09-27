@@ -56,6 +56,8 @@ Originally this repo contained the physical versions of the papers mentioned, bu
 - Advantages and Bottlenecks of Quantum Machine Learning for Remote Sensing - Daniela A. Zaidenberg, Alessandro Sebastianelli, Dario Spiller, Bertrand Le Saux, Silvia Liberata Ullo https://arxiv.org/abs/2101.10657 or https://ieeexplore.ieee.org/document/9553133
 - All-photonic quantum repeaters - Koji Azuma, Kiyoshi Tamaki & Hoi-Kwong Lo
        https://arxiv.org/abs/1309.7207
+- An Algebraic Language for Distributed Quantum Computing - Mingsheng Ying, Yuan Feng
+       https://ieeexplore.ieee.org/document/4745631
 - An Architecture for Meeting Quality-of-Service Requirements in Multi-User Quantum Networks - Matthew Skrzypczyk, Stephanie Wehner
        https://arxiv.org/abs/2111.13124
 - An energy efficient multipliers using reversible gates
@@ -297,6 +299,8 @@ and Stefan Woerner
        https://link.springer.com/article/10.1007/s40042-021-00111-4
 - Resource savings from fault-tolerant circuit design - Andrew K. Tan, Isaac L. Chuang
        https://arxiv.org/pdf/2311.02132.pdf
+- Review of Distributed Quantum Computing. From single QPU to High Performance Quantum Computing - David Barral, et. al.
+       https://arxiv.org/abs/2404.01265
 - Scaling silicon-based quantum computing using CMOS technology - M. F. Gonzalez-Zalba, S. de Franceschi, E. Charbon, T. Meunier, M. Vinet, A. S. Dzurak
        https://arxiv.org/abs/2011.11753
 - Scheme for reducing decoherence in quantum computer memory, Peter W. Shor
@@ -316,6 +320,8 @@ and Stefan Woerner
        https://arxiv.org/abs/quant-ph/9705052
 - Stim: a fast stabilizer circuit simulator -Craig Gidney
        https://arxiv.org/abs/2103.02202v3
+- Substituting Quantum Entanglement for Communication - Richard Cleve and Harry Buhrman
+       https://arxiv.org/pdf/quant-ph/9704026
 - Subsystem codes with high thresholds by gauge fixing and reduced qubit overhead - Oscar Higgott, Nikolas P. Breuckmann
        https://arxiv.org/abs/2010.09626
 - Supervised learning with quantum enhanced feature spaces - Vojtech Havlicek, et.al 
