@@ -297,6 +297,8 @@ and Stefan Woerner
        https://www.researchgate.net/publication/352621787_Request_Scheduling_in_Quantum_Networks
 - Room temperature quantum key distribution characteristics of low‑noise InGaAs/InP single‑photon avalanche diode - Soo‑Hyun Baek, Seung‑Chul Yang1, Chan‑Yong Park
        https://link.springer.com/article/10.1007/s40042-021-00111-4
+- Rearrangement of single atoms in a 2000-site optical tweezers array at cryogenic temperatures
+       https://arxiv.org/pdf/2405.19503
 - Resource savings from fault-tolerant circuit design - Andrew K. Tan, Isaac L. Chuang
        https://arxiv.org/pdf/2311.02132.pdf
 - Review of Distributed Quantum Computing. From single QPU to High Performance Quantum Computing - David Barral, et. al.
