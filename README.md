@@ -370,6 +370,388 @@ and Stefan Woerner
 - lambeq: An Efficient High-Level Python Library for Quantum NLP
        https://arxiv.org/abs/2110.04236
 
+
+## Categorized Quantum Papers
+
+### Quantum Protocol Design
+- A Preprocessing Perspective for Quantum Machine Learning Classification Advantage in Finance Using NISQ Algorithms
+       https://www.mdpi.com/1099-4300/24/11/1656
+- An Algebraic Language for Distributed Quantum Computing
+       https://ieeexplore.ieee.org/document/4745631
+- Designing a Quantum Network Protocol
+       https://arxiv.org/abs/2010.02575
+- Practical randomness and privacy amplification
+       https://arxiv.org/abs/2009.06551
+- Protocols for creating and distilling multipartite GHZ states with Bell pairs
+       https://arxiv.org/abs/2010.12259
+- Simple Proof of Security of the BB84 Quantum Key Distribution Protocol
+       https://arxiv.org/abs/quant-ph/0003004
+
+### Quantum Algorithms
+- A Grand Unification of Quantum Algorithms
+       https://arxiv.org/abs/2105.02859
+- Bootstrap Embedding on a Quantum Computer
+       https://arxiv.org/pdf/2301.01457.pdf
+- Continued Fractions and Probability Estimations in Shor's Algorithm: A Detailed and Self-Contained Treatise
+       https://arxiv.org/abs/2205.01925
+- Deep Learning with Coherent Nanophotonic Circuits
+       https://arxiv.org/pdf/1610.02365.pdf
+- Error Correction of Quantum Algorithms: Arbitrarily Accurate Recovery Of Noisy Quantum Signal Processing
+       https://arxiv.org/pdf/2301.08542.pdf
+- Exponential speedups for quantum walks in random hierarchical graphs
+       https://arxiv.org/abs/2307.15062
+- How many qubits are needed for quantum computational supremacy?
+       https://quantum-journal.org/papers/q-2020-05-11-264/
+- Linear growth of quantum circuit complexity
+       https://www.nature.com/articles/s41567-022-01539-6
+- One-Dimensional Quantum Walks
+       https://dl.acm.org/doi/10.1145/380752.380757
+- Phase sensitivity at the Heisenberg limit in an SU(1,1) interferometer via parity detection
+       https://arxiv.org/abs/1603.09019
+- Power of sequential protocols in hidden quantum channel discrimination
+       https://arxiv.org/pdf/2304.02053.pdf
+- Quantum algorithm for linear systems of equations
+       https://arxiv.org/pdf/0811.3171.pdf
+- Quantum principal component analysis
+       https://www.nature.com/articles/nphys3029#Sec2
+- Quantum Support Vector Machine for Big Data Classification
+       https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.113.130503
+- Quantum walks a comprehensive review
+       https://arxiv.org/abs/1201.4780
+
+### The Quantum Internet
+- Quantum Internet Protocol Stack a Comprehensive Survey
+       https://arxiv.org/abs/2202.10894
+- Quantum networking (book by Rodney Van Meter)
+- Quantum Switch for the Quantum Internet: Noiseless Communications through Noisy Channels
+       https://arxiv.org/abs/1907.07432
+- Rate limits in quantum networks with lossy repeaters
+       https://arxiv.org/pdf/2110.10168.pdf
+- Review of Distributed Quantum Computing. From single QPU to High Performance Quantum Computing
+       https://arxiv.org/abs/2404.01265
+- Schrödinger's Web: Race to Build the Quantum Internet (book by Jonathan Dowling)
+- SeQUeNCe a customizable discrete-event simulator of quantum networks
+       https://arxiv.org/abs/2009.12000
+- The Computational and Latency Advantage of Quantum Communication Networks
+       https://arxiv.org/pdf/2106.03360.pdf
+
+### Silicon Based Technologies
+- Advances in Silicon Quantum Photonics
+       https://ieeexplore.ieee.org/document/9205209/authors#authors
+- Channel Waveguides in Lithium Niobate and Lithium Tantalate
+       https://pubmed.ncbi.nlm.nih.gov/32867367/
+- Electrical Tuning of Neutral and Charged Excitons with 1-nm Gate
+       https://arxiv.org/pdf/2310.19895.pdf
+- Generation of broadband correlated photon-pairs in short thin-film lithium-niobate waveguides
+       https://opg.optica.org/directpdfaccess/02ed958b-dc38-449c-b5d94c4360c660b2_424684/oe-27-26-38521.pdf?da=1&id=424684&seq=0&mobile=no
+- High Quality Entangled Photon Pair Generation in Periodically Poled Thin-Film Lithium Niobate Waveguides
+       https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.163603
+- Scaling silicon-based quantum computing using CMOS technology
+       https://arxiv.org/abs/2011.11753
+- Solitons near avoided mode crossings in χ(2) nanowaveguides
+       https://arxiv.org/abs/2108.08563
+
+### Ion Traps
+- Assembly and coherent control of a register of nuclear spin qubits
+       https://arxiv.org/abs/2108.04790
+- Field-linked resonances of polar molecules
+       https://www.nature.com/articles/s41586-022-05651-8
+- Large-scale optical characterization of solid-state quantum emitters
+       https://arxiv.org/pdf/2210.13643.pdf
+- Programmable Heisenberg interactions between Floquet qubits
+       https://arxiv.org/abs/2211.10383
+- Quantum simulator enables first microscopic observation of charge carriers pairing
+       https://www.mpq.mpg.de/6803661/01-magnetic-pairing
+- Rearrangement of single atoms in a 2000-site optical tweezers array at cryogenic temperatures
+       https://arxiv.org/pdf/2405.19503
+
+### The Hong-Ou-Mandel Effect
+- Anti-Hong-Ou-Mandel effect with entangled photons
+       https://arxiv.org/abs/2105.05444
+- The SWAP test and the Hong-Ou-Mandel effect are equivalent
+       https://arxiv.org/abs/1303.6814
+- Two-photon interference the Hong-Ou-Mandel effect
+       https://arxiv.org/abs/2006.09335
+
+### Quantum Circuits
+- A generalization of the stabilizer formalism for simulating arbitrary quantum circuits
+       https://www.scottaaronson.com/showcase2/report/ted-yoder.pdf
+- Automated distribution of quantum circuits via hypergraph partitioning
+       https://arxiv.org/abs/1811.10972
+- Elementary gates for quantum computation
+       https://journals.aps.org/pra/abstract/10.1103/PhysRevA.52.3457
+- On the CNOT-cost of TOFFOLI gates
+       https://dl.acm.org/doi/10.5555/2011791.2011799
+- Stim: a fast stabilizer circuit simulator
+       https://arxiv.org/abs/2103.02202v3
+
+### Programmable Quantum Gates
+- An energy efficient multipliers using reversible gates
+       https://www.researchgate.net/publication/347857423_An_energy_efficient_multipliers_using_reversible_gates
+- Energy-Efficient Superconducting Computing—Power Budgets and Requirements
+       https://ieeexplore.ieee.org/abstract/document/6449287
+- Gate Set Tomography
+       https://arxiv.org/abs/2009.07301
+- Single-shot Quantum Signal Processing Interferometry
+       https://arxiv.org/pdf/2311.13703.pdf
+
+### Quantum Error Correction
+- A Tutorial on Quantum Error Correction
+       https://www2.physics.ox.ac.uk/sites/default/files/ErrorCorrectionSteane06.pdf
+- Error Correcting Codes in Quantum Theory
+       https://users.physics.ox.ac.uk/~Steane/pubs/Steane_PRL95.pdf
+- Experimental exploration of five-qubit quantum error-correcting code with superconducting qubits
+       https://ora.ox.ac.uk/objects/uuid:5b2e5204-7746-4569-807e-77654a77313a/files/s0v838175c
+- Fault-tolerant Preparation of Stabilizer States for Quantum CSS Codes by Classical Error-Correcting Codes
+       https://arxiv.org/abs/1605.05647
+- Multiple Particle Interference and Quantum Error Correction
+       https://arxiv.org/abs/quant-ph/9601029
+- Real-time quantum error correction beyond break-even
+       https://arxiv.org/abs/2211.09116
+- Realization of Real-Time Fault-Tolerant Quantum Error Correction
+       https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.041058
+- Resource savings from fault-tolerant circuit design
+       https://arxiv.org/pdf/2311.02132.pdf
+- Scheme for reducing decoherence in quantum computer memory
+       https://www.cs.miami.edu/home/burt/learning/Csc670.052/pR2493_1.pdf
+- Stabilizer Codes and Quantum Error Correction
+       https://arxiv.org/abs/quant-ph/9705052
+- Surface codes: Towards practical large-scale quantum computation
+       https://arxiv.org/abs/1208.0928
+- The Toric Code
+       https://www.physics.rutgers.edu/grad/602/Lectures/JC_Presentations/0419/Intro_Toric_Code.pdf
+
+### Quantum Error Mitigation
+- Mitiq: A software package for error mitigation on noisy quantum computers
+       https://arxiv.org/abs/2009.04417
+- Noisy dynamical systems evolve error correcting codes and modularity
+       https://arxiv.org/pdf/2303.14448.pdf
+- Quantum readout error mitigation via deep learning
+       https://iopscience.iop.org/article/10.1088/1367-2630/ac7b3d
+
+### Electron-spin States
+- Coherent shuttle of electron-spin states
+       https://arxiv.org/abs/1701.00815
+
+### Commercial and Philosophical Views
+- Commercial applications of quantum computing
+       https://epjquantumtechnology.springeropen.com/articles/10.1140/epjqt/s40507-021-00091-1
+- Interference in Quantum Field Theory: Detecting Ghosts with Phases
+       https://onlinelibrary.wiley.com/doi/full/10.1002/andp.202200530
+- Locality in the Schrodinger Picture of Quantum Mechanics
+       https://arxiv.org/pdf/2312.04701.pdf
+- Observable Thermalization: Theory, Numerical and Analytical Evidence
+       https://arxiv.org/pdf/2309.15173.pdf
+- Quantum mechanics with real numbers: entanglement, superselection rules and gauges
+       https://arxiv.org/pdf/2308.05473.pdf
+- Quantum Particles and Classical Particles
+       https://link.springer.com/article/10.1007/BF00735376
+- The Everything-Is-a-Quantum-Wave Interpretation of Quantum Physics
+       https://www.mdpi.com/2624-960X/5/2/31
+- Why Philosophers Should Care About Computational Complexity
+       https://arxiv.org/abs/1108.1791
+
+### Quantum Repeater Architectures
+- All-photonic quantum repeaters
+       https://arxiv.org/abs/1309.7207
+- Multiplexed quantum repeaters based on dual-species trapped-ion systems
+       https://arxiv.org/abs/2105.06707
+- Optimal architectures for long distance quantum communication
+       https://www.nature.com/articles/srep20463
+- Proposal for room-temperature quantum repeaters with nitrogen-vacancy centers and optomechanics
+       https://arxiv.org/abs/2012.06687
+
+### Quantum Memories
+- Field-Deployable Quantum Memory for Quantum Networking
+       https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.18.044058
+- Memory cost of quantum protocols
+       https://www.researchgate.net/publication/51965796_Memory_cost_of_quantum_protocols
+- Universal and operational benchmarking of quantum memories
+       https://bartoszregula.me/pdf/s41534-021-00444-9.pdf
+
+### Experimental Simulating Tools
+- Discrete simulation of quantum walks
+       https://www.frontiersin.org/articles/10.3389/fphy.2020.00145/full
+- Implementation of multidimensional quantum walks using linear optics and classical light
+       https://journals.aps.org/pra/abstract/10.1103/PhysRevA.92.040302
+- Implementing the quantum random walk
+       https://arxiv.org/abs/quant-ph/0109076
+- NetSquid, a NETwork Simulator for QUantum Information using Discrete events
+       https://arxiv.org/abs/2010.12535
+- Predicting Many Properties of a Quantum System from Very Few Measurements
+       https://arxiv.org/abs/2002.08953
+- The_Virtual_Quantum_Optics_Laboratory
+       https://arxiv.org/abs/2105.07300
+
+### Quantum Markets and Hype
+- Disentangling Hype from Practicality: On Realistically Achieving Quantum Advantage
+       https://arxiv.org/pdf/2307.00523.pdf
+- Is quantum computing green? An estimate for an energy-efficiency quantum advantage
+       https://arxiv.org/pdf/2205.12092.pdf
+- Mitigating the quantum hype
+       https://arxiv.org/abs/2202.01925
+
+### Quantum Machine Learning (QML)
+- Advantages and Bottlenecks of Quantum Machine Learning for Remote Sensing
+       https://arxiv.org/abs/2101.10657
+- On Circuit-based Hybrid Quantum Neural Networks for Remote Sensing Imagery Classification
+       https://arxiv.org/abs/2109.09484
+- Option Pricing using Quantum Computers
+       https://arxiv.org/abs/1905.02666
+- Quantum advantage in learning from experiments
+       https://arxiv.org/abs/2112.00778
+- Supervised learning with quantum enhanced feature spaces
+       https://arxiv.org/pdf/1804.11326.pdf
+- Symmetry-invariant quantum machine learning force fields
+       https://arxiv.org/abs/2311.11362
+
+### Constructor Theory
+- Constructor Theory of Information
+       https://arxiv.org/abs/1405.5563
+- Constructor Theory of Life
+       https://arxiv.org/abs/1407.0681
+- Constructor Theory of Probability
+       https://arxiv.org/abs/1507.03287
+- Constructor Theory of Thermodynamics
+       https://arxiv.org/abs/1608.02625
+
+### Physical Information
+- Energy & Information
+       https://www.jstor.org/stable/24923125
+- Fundamental Principle of Information-to-Energy Conversion
+       https://arxiv.org/abs/1401.6052
+- The information-theoretic foundation of thermodynamic work extraction
+       https://arxiv.org/abs/2009.04588
+- The role of quantum information in thermodynamics
+       https://arxiv.org/abs/1505.07835
+
+### Quantum Neural Networks (QNNs)
+- Quantum Long Short-Term Memory
+       https://arxiv.org/abs/2009.01783
+- Quantum Optical Neural Networks (Patent Application)
+       https://patentimages.storage.googleapis.com/fa/61/94/ec20dc003a6517/US20200372334A1.pdf
+
+### Quantum Computing Fundamentals
+- Computing with Quantum Cats: From Colossus to Qubits (book)
+- Quantum Computing
+       https://arxiv.org/abs/quant-ph/9708022
+- The Physical Implementation of Quantum Computation
+       https://arxiv.org/abs/quant-ph/0002077
+- Quantum computing at the frontiers of biological sciences
+       https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8254820/
+- The Future of Quantum Computing with Superconducting Qubits
+       https://pubs.aip.org/aip/jap/article/132/16/160902/2837574/
+
+### Quantum Information Theory
+- Classical, quantum and total correlations
+       https://iopscience.iop.org/article/10.1088/0305-4470/34/35/315
+- Five open problems in theory of quantum information
+       https://arxiv.org/abs/2002.03233
+- Quantum states with Einstein-Podolsky-Rosen correlations admitting a hidden-variable model
+       https://journals.aps.org/pra/pdf/10.1103/PhysRevA.40.4277
+
+### Quantum Hardware & Implementation
+- 2D materials for quantum information science
+       https://www.nature.com/articles/s41578-019-0136-x
+- A Review of Quantum Computer Energy Efficiency
+       https://ieeexplore.ieee.org/abstract/document/8767125
+- Quantum Data Center: Theories and Applications
+       https://arxiv.org/abs/2207.14336
+- Quantum information processing with bosonic qubits in circuit QED
+       https://iopscience.iop.org/article/10.1088/2058-9565/abe989/pdf
+- Room temperature quantum key distribution characteristics of low‑noise InGaAs/InP single‑photon avalanche diode
+       https://link.springer.com/article/10.1007/s40042-021-00111-4
+- Solid-state single-photon emitters
+       http://ciqm.harvard.edu/uploads/2/3/3/4/23349210/aharanovich_2016.pdf
+
+### Quantum Supremacy & Computational Advantage
+- Quantum Computational Supremacy
+       https://arxiv.org/pdf/1809.07442.pdf
+- Quantum supremacy using a programmable superconducting processor
+       https://www.nature.com/articles/s41586-019-1666-5
+- Quantum computational advantage using photons
+       https://www.science.org/doi/10.1126/science.abe8770
+- Quantum computational advantage with a programmable photonic processor
+       https://www.nature.com/articles/s41586-022-04725-x
+- Establishing the quantum supremacy frontier with a 281 Pflop/s simulation
+       https://iopscience.iop.org/article/10.1088/2058-9565/ab7eeb/pdf
+
+### Quantum Communication & Cryptography
+- Advances in Quantum Cryptography
+       https://arxiv.org/pdf/1906.01645.pdf
+- Quantum communications and cryptography
+       https://people.bu.edu/alexserg/Impression_Book.pdf
+- Implementing Post-quantum Cryptography for Developers
+       https://www.scitepress.org/Papers/2022/107862/107862.pdf
+- Paving the Way towards 800 Gbps Quantum-Secured Optical Channel Deployment
+       https://arxiv.org/abs/2202.07764
+- Transitioning organizations to post-quantum cryptography
+       https://www.nature.com/articles/s41586-022-04623-2
+
+### Quantum Entanglement & Teleportation
+- Distribution of entanglement in large-scale quantum networks
+       https://iopscience.iop.org/article/10.1088/0034-4885/76/9/096001/pdf
+- Entanglement in Many-Body Systems
+       https://arxiv.org/pdf/quant-ph/0703044.pdf
+- Generalized GHZ States and Distributed Quantum Computing
+       https://arxiv.org/abs/quant-ph/0402148
+- Substituting Quantum Entanglement for Communication
+       https://arxiv.org/pdf/quant-ph/9704026
+- Teleportation of entanglement over 143 km
+       https://arxiv.org/abs/1403.0009
+
+### Quantum Photonics
+- A photonic cluster state machine gun
+       https://arxiv.org/abs/0810.2587
+- Blueprint for a Scalable Photonic Fault-Tolerant Quantum Computer
+       https://arxiv.org/abs/2010.02905
+- Efficient parametric frequency conversion in lithium niobate nanophotonic chips
+       https://arxiv.org/abs/1903.08722
+- Experimental demonstration of memory-enhanced quantum communication
+       https://arxiv.org/abs/1909.01323
+- Fusion-based quantum computation
+       https://arxiv.org/abs/2101.09310
+- Photonic resource state generation from a minimal number of quantum emitters
+       https://www.nature.com/articles/s41534-022-00522-6
+- Quantum computing with photons - introduction to the circuit model, the one way quantum computer, and the fundamental principles of photonic experiments
+       https://iopscience.iop.org/article/10.1088/0953-4075/48/8/083001
+
+### Natural Language Processing & Quantum Computing
+- Foundations for Near-Term Quantum Natural Language Processing
+       https://arxiv.org/abs/2012.03755
+- lambeq: An Efficient High-Level Python Library for Quantum NLP
+       https://arxiv.org/abs/2110.04236
+
+### Measurement & State Estimation
+- Active learning of quantum system Hamiltonians yields query advantage
+       https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.5.033060
+- Experimental Estimation of Quantum State Properties from Classical Shadows
+       https://arxiv.org/abs/2008.05234
+- Experimental violation of Bell inequalities for multi-dimensional systems
+       https://www.nature.com/articles/srep22088
+- Practical Benchmarking of Randomized Measurement Methods for Quantum Chemistry Hamiltonians
+       https://arxiv.org/pdf/2312.07497.pdf
+
+### Quantum Enhanced Sensing & Detection
+- Quantum-Enhanced Data Classification with a Variational Entangled Sensor Network
+       https://arxiv.org/abs/2006.11962
+
+### Quantum Computing Applications
+- Multi-state quantum simulations via model-space quantum imaginary time evolution
+       https://arxiv.org/abs/2206.04494
+- Optimizing quantum noise-induced reservoir computing for nonlinear and chaotic time series prediction
+       https://arxiv.org/abs/2303.05488
+
+### Energy & Sustainability in Quantum Computing
+- Green Networking Metrics
+       https://github.com/intarchboard/e-impact-workshop-public/blob/main/papers/Clemm-Dong-Mirsky-Ciavaglia-Tantsura-Odini_Green-Networking-Metrics.pdf
+- Reducing Green House Gas Emissions With Congestion Control
+       https://github.com/intarchboard/e-impact-workshop-public/blob/main/papers/Welzel-Alay-Teymoori-Islam_Reducing-Green-House-Gas-Emissions-With-Congestion-Control-v2.pdf
+
+### Novel Quantum Devices
+- Microwave Quantum Memristors
+       https://arxiv.org/abs/2311.06925
+
 # Notes:
 If you would like to add any paper to this repository please feel free to create a pull request &/or reach out to me via linkedin or email.
 
