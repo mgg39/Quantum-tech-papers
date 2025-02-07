@@ -25,7 +25,9 @@ Re-curring topics on this list include:
 - Physical information
 - Quantum Neural Networks (QNNs)
 
-I welcome contributions in the Recommended reads branch, and would love to build a strong list of recommendations for beginners through it.
+I no longer update this list due to time constraints (simply dropping my current Zotero library wouldn’t be useful - diminishing returns and all). However, I hope this repository remains helpful for students beginning their journey into quantum, as it reflects my first three years in the field (up to the first few months of my PhD) through papers.
+
+I still welcome contributions in the Recommended Reads branch and would love to curate a strong list of student-recommended readings for future learners.
 
 Originally this repo contained the physical versions of the papers mentioned, but due to space, these had to be removed. They can still be found in the year by year breakdowns, but the main branch now only contains the full list in alphabetical order of papers and publications. These are as follows:
 
