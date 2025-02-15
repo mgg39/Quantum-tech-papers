@@ -22,9 +22,6 @@ from src.config_loader import load_config, load_texts
 from app.pages.graph_visualization import render_graph_page
 
 
-import streamlit as st
-
-
 def render_paper(row, texts) -> None:
     """
     Renders a research paper's details in a Streamlit container.
