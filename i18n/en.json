@@ -1,0 +1,27 @@
+{
+    "app": {
+      "title": "Quantum Tech Papers Dashboard",
+      "description": "Browse the collection of quantum technology papers. Search semantically or filter by category.",
+      "end_of_list": "End of list"
+    },
+    "filters": {
+      "all": "All",
+      "select_label": "Filter by Category",
+      "showing_category": "Papers in Category: '{category}'",
+      "displaying_n_papers": "Displaying {count} papers",
+      "select_authors": "Filter by Authors"
+    },
+    "search": {
+      "input_placeholder": "Search by keywords (semantic search):",
+      "results_title": "Results for: '{query}' (Semantic Search)"
+    },
+    "paper": {
+      "view_paper": "View Paper",
+      "category": "Category",
+      "authors": "Authors",
+      "journal": "Journal",
+      "keywords": "Keywords",
+      "show_abstract": "Show Abstract"
+    }
+  }
+  

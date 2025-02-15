@@ -1,0 +1,6 @@
+pandas
+sentence-transformers
+scikit-learn
+gensim
+spacy
+streamlit

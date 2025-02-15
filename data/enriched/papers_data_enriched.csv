@@ -1,0 +1,1474 @@
+Title,Web,Category,Fetched_Title,Abstract,Authors,Journal,Keywords
+"A Grand Unification of Quantum Algorithms - John M. Martyn, Zane M. Rossi, Andrew K. Tan, Isaac L. Chuang",https://arxiv.org/abs/2105.02859,,A Grand Unification of Quantum Algorithms,"Quantum algorithms offer significant speedups over their classical
+counterparts for a variety of problems. The strongest arguments for this
+advantage are borne by algorithms for quantum search, quantum phase estimation,
+and Hamiltonian simulation, which appear as subroutines for large families of
+composite quantum algorithms. A number of these quantum algorithms were
+recently tied together by a novel technique known as the quantum singular value
+transformation (QSVT), which enables one to perform a polynomial transformation
+of the singular values of a linear operator embedded in a unitary matrix. In
+the seminal GSLW'19 paper on QSVT [Gily\'en, Su, Low, and Wiebe, ACM STOC
+2019], many algorithms are encompassed, including amplitude amplification,
+methods for the quantum linear systems problem, and quantum simulation. Here,
+we provide a pedagogical tutorial through these developments, first
+illustrating how quantum signal processing may be generalized to the quantum
+eigenvalue transform, from which QSVT naturally emerges. Paralleling GSLW'19,
+we then employ QSVT to construct intuitive quantum algorithms for search, phase
+estimation, and Hamiltonian simulation, and also showcase algorithms for the
+eigenvalue threshold problem and matrix inversion. This overview illustrates
+how QSVT is a single framework comprising the three major quantum algorithms,
+thus suggesting a grand unification of quantum algorithms.","John M. Martyn, Zane M. Rossi, Andrew K. Tan, Isaac L. Chuang",arXiv,quant-ph
+A photonic cluster state machine gun,https://arxiv.org/abs/0810.2587,Quantum Photonics,A photonic cluster state machine gun,"We present a method to convert certain single photon sources into devices
+capable of emitting large strings of photonic cluster state in a controlled and
+pulsed ""on demand"" manner. Such sources would greatly reduce the resources
+required to achieve linear optical quantum computation. Standard spin errors,
+such as dephasing, are shown to affect only 1 or 2 of the emitted photons at a
+time. This allows for the use of standard fault tolerance techniques, and shows
+that the photonic machine gun can be fired for arbitrarily long times. Using
+realistic parameters for current quantum dot sources, we conclude high
+entangled-photon emission rates are achievable, with Pauli-error rates per
+photon of less than 0.2%. For quantum dot sources the method has the added
+advantage of alleviating the problematic issues of obtaining identical photons
+from independent, non-identical quantum dots, and of exciton dephasing.","Netanel H. Lindner, Terry Rudolph",arXiv,"quant-ph, cond-mat.mes-hall"
+"A quantum walk control plane for distributed quantum computing in quantum networks - Matheus Guedes de Andrade, Wenhan Dai, Saikat Guha, Don Towsley",https://arxiv.org/abs/2106.09839,,"A quantum walk control plane for distributed quantum computing in
+  quantum networks","Quantum networks are complex systems formed by the interaction among quantum
+processors through quantum channels. Analogous to classical computer networks,
+quantum networks allow for the distribution of quantum computation among
+quantum computers. In this work, we describe a quantum walk protocol to perform
+distributed quantum computing in a quantum network. The protocol uses a quantum
+walk as a quantum control signal to perform distributed quantum operations. We
+consider a generalization of the discrete-time coined quantum walk model that
+accounts for the interaction between a quantum walker system in the network
+graph with quantum registers inside the network nodes. The protocol logically
+captures distributed quantum computing, abstracting hardware implementation and
+the transmission of quantum information through channels. Control signal
+transmission is mapped to the propagation of the walker system across the
+network, while interactions between the control layer and the quantum registers
+are embedded into the application of coin operators. We demonstrate how to use
+the quantum walker system to perform a distributed CNOT operation, which shows
+the universality of the protocol for distributed quantum computing.
+Furthermore, we apply the protocol to the task of entanglement distribution in
+a quantum network.","Matheus Guedes de Andrade, Wenhan Dai, Saikat Guha, Don Towsley",arXiv,quant-ph
+"Active learning of quantum system Hamiltonians yields query advantage - Arkopal Dutt, et.al",https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.5.033060,,Active learning of quantum system Hamiltonians yields query advantage,Unknown,"Arkopal Dutt, Edwin Pednault, Chai Wah Wu, Sarah Sheldon, John Smolin, Lev Bishop, Isaac L. Chuang",Physical Review Research,
+"Advances in Quantum Cryptography - S. Pirandola, et.al",https://arxiv.org/pdf/1906.01645.pdf,,Advances in Quantum Cryptography,"Quantum cryptography is arguably the fastest growing area in quantum
+information science. Novel theoretical protocols are designed on a regular
+basis, security proofs are constantly improving, and experiments are gradually
+moving from proof-of-principle lab demonstrations to in-field implementations
+and technological prototypes. In this review, we provide both a general
+introduction and a state of the art description of the recent advances in the
+field, both theoretically and experimentally. We start by reviewing protocols
+of quantum key distribution based on discrete variable systems. Next we
+consider aspects of device independence, satellite challenges, and high rate
+protocols based on continuous variable systems. We will then discuss the
+ultimate limits of point-to-point private communications and how quantum
+repeaters and networks may overcome these restrictions. Finally, we will
+discuss some aspects of quantum cryptography beyond standard quantum key
+distribution, including quantum data locking and quantum digital signatures.","S. Pirandola, U. L. Andersen, L. Banchi, M. Berta, D. Bunandar, R. Colbeck, D. Englund, T. Gehring, C. Lupo, C. Ottaviani, J. Pereira, M. Razavi, J. S. Shaari, M. Tomamichel, V. C. Usenko, G. Vallone, P. Villoresi, P. Wallden",arXiv,"quant-ph, math-ph, math.MP, physics.app-ph, physics.comp-ph, physics.optics"
+Advantages and Bottlenecks of Quantum Machine Learning for Remote Sensing,https://arxiv.org/abs/2101.10657,Quantum Machine Learning (QML),"Advantages and Bottlenecks of Quantum Machine Learning for Remote
+  Sensing","This concept paper aims to provide a brief outline of quantum computers,
+explore existing methods of quantum image classification techniques, so
+focusing on remote sensing applications, and discuss the bottlenecks of
+performing these algorithms on currently available open source platforms.
+Initial results demonstrate feasibility. Next steps include expanding the size
+of the quantum hidden layer and increasing the variety of output image options.","Daniela A. Zaidenberg, Alessandro Sebastianelli, Dario Spiller, Bertrand Le Saux, Silvia Liberata Ullo",arXiv,"quant-ph, cs.AI, cs.LG"
+"All-photonic quantum repeaters - Koji Azuma, Kiyoshi Tamaki & Hoi-Kwong Lo",https://arxiv.org/abs/1309.7207,,All photonic quantum repeaters,"Quantum communication holds promise for unconditionally secure transmission
+of secret messages and faithful transfer of unknown quantum states. Photons
+appear to be the medium of choice for quantum communication. Owing to photon
+losses, robust quantum communication over long lossy channels requires quantum
+repeaters. It is widely believed that a necessary and highly demanding
+requirement for quantum repeaters is the existence of matter quantum memories
+at the repeater nodes. Here we show that such a requirement is, in fact,
+unnecessary by introducing the concept of all photonic quantum repeaters based
+on flying qubits. As an example of the realization of this concept, we present
+a protocol based on photonic cluster state machine guns and a loss-tolerant
+measurement equipped with local high-speed active feedforwards. We show that,
+with such an all photonic quantum repeater, the communication efficiency still
+scales polynomially with the channel distance. Our result paves a new route
+toward quantum repeaters with efficient single-photon sources rather than
+matter quantum memories.","Koji Azuma, Kiyoshi Tamaki, Hoi-Kwong Lo",arXiv,quant-ph
+"An Architecture for Meeting Quality-of-Service Requirements in Multi-User Quantum Networks - Matthew Skrzypczyk, Stephanie Wehner",https://arxiv.org/abs/2111.13124,,"An Architecture for Meeting Quality-of-Service Requirements in
+  Multi-User Quantum Networks","Quantum communication can enhance internet technology by enabling novel
+applications that are provably impossible classically. The successful execution
+of such applications relies on the generation of quantum entanglement between
+different users of the network which meets stringent performance requirements.
+Alongside traditional metrics such as throughput and jitter, one must ensure
+the generated entanglement is of sufficiently high quality. Meeting such
+performance requirements demands a careful orchestration of many devices in the
+network, giving rise to a fundamentally new scheduling problem. Furthermore,
+technological limitations of near-term quantum devices impose significant
+constraints on scheduling methods hoping to meet performance requirements. In
+this work, we propose the first end-to-end design of a centralized quantum
+network with multiple users that orchestrates the delivery of entanglement
+which meets quality-of-service (QoS) requirements of applications. We achieve
+this by using a centrally constructed schedule that manages usage of devices
+and ensures the coordinated execution of different quantum operations
+throughout the network. We use periodic task scheduling and
+resource-constrained project scheduling techniques, including a novel
+heuristic, to construct the schedules. Our simulations of four small networks
+using hardware-validated network parameters, and of a real-world fiber topology
+using futuristic parameters, illustrate trade-offs between traditional and
+quantum performance metrics.","Matthew Skrzypczyk, Stephanie Wehner",arXiv,"quant-ph, cs.NI"
+Anti-Hong-Ou-Mandel effect with entangled photons,https://arxiv.org/abs/2105.05444,The Hong-Ou-Mandel Effect,Anti-Hong-Ou-Mandel effect with entangled photons,"In the classical Hong-Ou-Mandel (HOM) effect pairs of photons with bosonic
+(fermionic) spatial wavefunction coalesce (anti-coalesce) when mixed on a
+lossless beamsplitter. Here we report that the presence of dissipation in the
+beamsplitter allows the observation of the anti-HOM effect, where bosons
+anti-coalesce and fermions show coalescent-like behavior. We provide an
+experimental demonstration of the anti-HOM effect for both bosonic and
+fermionic two-photon entangled states. Beyond its fundamental significance, the
+anti-HOM effect offers applications in quantum information and metrology where
+states of entangled photons are dynamically converted.","Anton N. Vetlugin, Ruixiang Guo, Cesare Soci, Nikolay I. Zheludev",arXiv,quant-ph
+Assembly and coherent control of a register of nuclear spin qubits,https://arxiv.org/abs/2108.04790,,Assembly and coherent control of a register of nuclear spin qubits,"We introduce an optical tweezer platform for assembling and individually
+manipulating a two-dimensional register of nuclear spin qubits. Each nuclear
+spin qubit is encoded in the ground $^{1}S_{0}$ manifold of $^{87}$Sr and is
+individually manipulated by site-selective addressing beams. We observe that
+spin relaxation is negligible after 5 seconds, indicating that $T_1\gg5$ s.
+Furthermore, utilizing simultaneous manipulation of subsets of qubits, we
+demonstrate significant phase coherence over the entire register, estimating
+$T_2^\star = \left(21\pm7\right)$ s and measuring
+$T_2^\text{echo}=\left(42\pm6\right)$ s.","Katrina Barnes, Peter Battaglino, Benjamin J. Bloom, Kayleigh Cassella, Robin Coxe, Nicole Crisosto, Jonathan P. King, Stanimir S. Kondov, Krish Kotru, Stuart C. Larsen, Joseph Lauigan, Brian J. Lester, Mickey McDonald, Eli Megidish, Sandeep Narayanaswami, Ciro Nishiguchi, Remy Notermans, Lucas S. Peng, Albert Ryou, Tsung-Yao Wu, Michael Yarwood",arXiv,"quant-ph, physics.atom-ph"
+Automated distribution of quantum circuits via hypergraph partitioning,https://arxiv.org/abs/1811.10972,Quantum Circuits,Automated distribution of quantum circuits via hypergraph partitioning,"Quantum algorithms are usually described as monolithic circuits, becoming
+large at modest input size. Near-term quantum architectures can only manage a
+small number of qubits. We develop an automated method to distribute quantum
+circuits over multiple agents, minimising quantum communication between them.
+We reduce the problem to hypergraph partitioning and then solve it with
+state-of-the-art optimisers. This makes our approach useful in practice, unlike
+previous methods. Our implementation is evaluated on five quantum circuits of
+practical relevance.","Pablo Andrés-Martínez, Chris Heunen",arXiv,quant-ph
+Blueprint for a Scalable Photonic Fault-Tolerant Quantum Computer,https://arxiv.org/abs/2010.02905,Quantum Photonics,Blueprint for a Scalable Photonic Fault-Tolerant Quantum Computer,"Photonics is the platform of choice to build a modular, easy-to-network
+quantum computer operating at room temperature. However, no concrete
+architecture has been presented so far that exploits both the advantages of
+qubits encoded into states of light and the modern tools for their generation.
+Here we propose such a design for a scalable and fault-tolerant photonic
+quantum computer informed by the latest developments in theory and technology.
+Central to our architecture is the generation and manipulation of
+three-dimensional hybrid resource states comprising both bosonic qubits and
+squeezed vacuum states. The proposal enables exploiting state-of-the-art
+procedures for the non-deterministic generation of bosonic qubits combined with
+the strengths of continuous-variable quantum computation, namely the
+implementation of Clifford gates using easy-to-generate squeezed states.
+Moreover, the architecture is based on two-dimensional integrated photonic
+chips used to produce a qubit cluster state in one temporal and two spatial
+dimensions. By reducing the experimental challenges as compared to existing
+architectures and by enabling room-temperature quantum computation, our design
+opens the door to scalable fabrication and operation, which may allow photonics
+to leap-frog other platforms on the path to a quantum computer with millions of
+qubits.","J. Eli Bourassa, Rafael N. Alexander, Michael Vasmer, Ashlesha Patil, Ilan Tzitrin, Takaya Matsuura, Daiqin Su, Ben Q. Baragiola, Saikat Guha, Guillaume Dauphinais, Krishna K. Sabapathy, Nicolas C. Menicucci, Ish Dhand",arXiv,quant-ph
+Bootstrap Embedding on a Quantum Computer,https://arxiv.org/pdf/2301.01457.pdf,Quantum Algorithms,Bootstrap Embedding on a Quantum Computer,"We extend molecular bootstrap embedding to make it appropriate for
+implementation on a quantum computer. This enables solution of the electronic
+structure problem of a large molecule as an optimization problem for a
+composite Lagrangian governing fragments of the total system, in such a way
+that fragment solutions can harness the capabilities of quantum computers. By
+employing state-of-art quantum subroutines including the quantum SWAP test and
+quantum amplitude amplification, we show how a quadratic speedup can be
+obtained over the classical algorithm, in principle. Utilization of quantum
+computation also allows the algorithm to match -- at little additional
+computational cost -- full density matrices at fragment boundaries, instead of
+being limited to 1-RDMs. Current quantum computers are small, but quantum
+bootstrap embedding provides a potentially generalizable strategy for
+harnessing such small machines through quantum fragment matching.","Yuan Liu, Oinam R. Meitei, Zachary E. Chin, Arkopal Dutt, Max Tao, Isaac L. Chuang, Troy Van Voorhis",arXiv,"quant-ph, physics.chem-ph"
+"Classical, quantum and total correlations",https://iopscience.iop.org/article/10.1088/0305-4470/34/35/315,Quantum Information Theory,"Classical, quantum and total correlations",Unknown,"L Henderson, V Vedral",Journal of Physics A: Mathematical and General,
+"Coherent shuttle of electron-spin states - T. Fujita, T. A. Baart, C. Reichl, W. Wegscheider, L. M. K. Vandersype",https://arxiv.org/abs/1701.00815,,Coherent shuttle of electron-spin states,"We demonstrate a coherent spin shuttle through a GaAs/AlGaAs
+quadruple-quantum-dot array. Starting with two electrons in a spin-singlet
+state in the first dot, we shuttle one electron over to either the second,
+third or fourth dot. We observe that the separated spin-singlet evolves
+periodically into the $m=0$ spin-triplet and back before it dephases due to
+nuclear spin noise. We attribute the time evolution to differences in the local
+Zeeman splitting between the respective dots. With the help of numerical
+simulations, we analyse and discuss the visibility of the singlet-triplet
+oscillations and connect it to the requirements for coherent spin shuttling in
+terms of the inter-dot tunnel coupling strength and rise time of the pulses.
+The distribution of entangled spin pairs through tunnel coupled structures may
+be of great utility for connecting distant qubit registers on a chip.","T. Fujita, T. A. Baart, C. Reichl, W. Wegscheider, L. M. K. Vandersypen",arXiv,"cond-mat.mes-hall, quant-ph"
+"Commercial applications of quantum computing - Francesco Bova, Avi Goldfarb, Roger G. Melko",https://epjquantumtechnology.springeropen.com/articles/10.1140/epjqt/s40507-021-00091-1,,Commercial applications of quantum computing,"AbstractDespite the scientific and engineering challenges facing the development of quantum computers, considerable progress is being made toward applying the technology to commercial applications. In this article, we discuss the solutions that some companies are already building using quantum hardware. Framing these as examples of combinatorics problems, we illustrate their application in four industry verticals: cybersecurity, materials and pharmaceuticals, banking and finance, and advanced manufacturing. While quantum computers are not yet available at the scale needed to solve all of these combinatorics problems, we identify three types of near-term opportunities resulting from advances in quantum computing: quantum-safe encryption, material and drug discovery, and quantum-inspired algorithms.","Francesco Bova, Avi Goldfarb, Roger G. Melko",EPJ Quantum Technology,
+"Comparing coherent and incoherent models for quantum homogenization - Anna Beever, Maria Violaris, Chiara Marletto, and Vlatko Vedral",https://arxiv.org/pdf/2309.15741.pdf,,Comparing coherent and incoherent models for quantum homogenization,"Here we investigate the role of quantum interference in the quantum
+homogenizer, whose convergence properties model a thermalization process. In
+the original quantum homogenizer protocol, a system qubit converges to the
+state of identical reservoir qubits through partial-swap interactions, that
+allow interference between reservoir qubits. We design an alternative,
+incoherent quantum homogenizer, where each system-reservoir interaction is
+moderated by a control qubit using a controlled-swap interaction. We show that
+our incoherent homogenizer satisfies the essential conditions for
+homogenization, being able to transform a qubit from any state to any other
+state to arbitrary accuracy, with negligible impact on the reservoir qubits'
+states. Our results show that the convergence properties of homogenization
+machines that are important for modelling thermalization are not dependent on
+coherence between qubits in the homogenization protocol. We then derive bounds
+on the resources required to re-use the homogenizers for performing state
+transformations. This demonstrates that both homogenizers are universal for any
+number of homogenizations, for an increased resource cost.","Anna Beever, Maria Violaris, Chiara Marletto, Vlatko Vedral",arXiv,quant-ph
+"Conservation Laws Reveal the Quantumness of Gravity - Tianfeng Feng, Chiara Marletto, Vlatko Vedral",https://arxiv.org/abs/2311.08971,,Conservation Laws and the Quantization of Gravity,"Adopting general frameworks for quantum-classical dynamics, we analyze the
+interaction between quantum matter and a classical gravitational field. We
+point out that, assuming conservation of momentum or energy, and assuming that
+the dynamics obeys Hamiltonian formalism or a particular decomposition property
+set out in the paper, the classical gravitational field cannot change the
+momentum or energy of the quantum system, whereas the quantum gravitational
+field can do so. Drawing upon the fundamental relationship between conservation
+laws and the quantum properties of objects, our analysis offers new
+perspectives for the study of quantum gravity and provides a novel
+interpretation of existing experimental observations, such as free fall.","Tianfeng Feng, Chiara Marletto, Vlatko Vedral",arXiv,"quant-ph, gr-qc"
+"Constructor Theory of Information - David Deutsch, Chiara Marletto",https://arxiv.org/abs/1405.5563,,Constructor Theory of Information,"We present a theory of information expressed solely in terms of which
+transformations of physical systems are possible and which are impossible -
+i.e. in constructor-theoretic terms. Although it includes conjectured laws of
+physics that are directly about information, independently of the details of
+particular physical instantiations, it does not regard information as an a
+priori mathematical or logical concept, but as something whose nature and
+properties are determined by the laws of physics alone. It does not suffer from
+the circularity at the foundations of existing information theory (namely that
+information and distinguishability are each defined in terms of the other). It
+explains the relationship between classical and quantum information, and
+reveals the single, constructor-theoretic property underlying the most
+distinctive phenomena associated with the latter, including the lack of
+in-principle distinguishability of some states, the impossibility of cloning,
+the existence of pairs of variables that cannot simultaneously have sharp
+values, the fact that measurement processes can be both deterministic and
+unpredictable, the irreducible perturbation caused by measurement, and
+entanglement (locally inaccessible information).","David Deutsch, Chiara Marletto",arXiv,quant-ph
+Constructor Theory of Life - Chiara Marletto,https://arxiv.org/abs/1407.0681,,Constructor Theory of Life,"Neo-Darwinian evolutionary theory explains how the appearance of purposive
+design in the sophisticated adaptations of living organisms can have come about
+without their intentionally being designed. The explanation relies crucially on
+the possibility of certain physical processes: mainly, gene replication and
+natural selection. In this paper I show that for those processes to be possible
+without the design of biological adaptations being encoded in the laws of
+physics, those laws must have certain other properties. The theory of what
+these properties are is not part of evolution theory proper, and has not been
+developed, yet without it the neo-Darwinian theory does not fully achieve its
+purpose of explaining the appearance of design. To this end I apply Constructor
+Theory's new mode of explanation to provide an exact formulation of the
+appearance of design, of no-design laws, and of the logic of self-reproduction
+and natural selection, within fundamental physics. I conclude that
+self-reproduction, replication and natural selection are possible under
+no-design laws, the only non-trivial condition being that they allow digital
+information to be physically instantiated. This has an exact characterisation
+in the constructor theory of information. I also show that under no-design laws
+an accurate replicator requires the existence of a ""vehicle"" constituting,
+together with the replicator, a self-reproducer.",Chiara Marletto,arXiv,"physics.bio-ph, quant-ph"
+Constructor Theory of Probability,https://arxiv.org/abs/1507.03287,Constructor Theory,Constructor Theory of Probability,"Unitary quantum theory, having no Born Rule, is non-probabilistic. Hence the
+notorious problem of reconciling it with the unpredictability and appearance of
+stochasticity in quantum measurements. Generalising and improving upon the
+so-called 'decision-theoretic approach' (Deutsch, 1999; Wallace, 2003, 2007,
+2012), I shall recast that problem in the recently proposed constructor theory
+of information - where quantum theory is represented as one of a class of
+superinformation theories, which are local, non-probabilistic theories
+conforming to certain constructor-theoretic conditions. I prove that the
+unpredictability of measurement outcomes (to which I give an exact meaning via
+constructor theory), necessarily arises in superinformation theories. Then I
+explain how the appearance of stochasticity in (finitely many) repeated
+measurements can arise under superinformation theories. And I establish
+sufficient conditions for a superinformation theory to inform decisions (made
+under it) as if it were probabilistic, via a Deutsch-Wallace-type argument -
+thus defining a class of decision-supporting superinformation theories. This
+broadens the domain of applicability of that argument to cover
+constructor-theory compliant theories. In addition, in this version some of the
+argument's assumptions, previously construed as merely decision-theoretic,
+follow from physical properties expressed by constructor-theoretic principles.",Chiara Marletto,arXiv,quant-ph
+Constructor Theory of Thermodynamics - Chiara Marletto,https://arxiv.org/abs/1608.02625,,Constructor Theory of Thermodynamics,"All current formulations of thermodynamics invoke some form of
+coarse-graining or ensembles as the supposed link between their own laws and
+the microscopic laws of motion. They deal only with ensemble-averages,
+expectation values, macroscopic limits, infinite heat baths, etc., not with the
+details of physical variables of individual microscopic systems. They are
+consistent with the laws of motion for finite systems only in certain
+approximations, which improve with increasing scale, given various assumptions
+about initial conditions which are neither specified precisely nor even thought
+to hold exactly in nature. Here I propose a new formulation of the zeroth,
+first and second laws, improving upon the axiomatic approach to thermodynamics
+(Carath\'eodory, 1909; Lieb & Yngvason, 1999), via the principles of the
+recently proposed constructor theory. Specifically, I provide a
+non-approximative, scale-independent formulation of 'adiabatic accessibility';
+this in turn provides a non-approximative, scale-independent distinction
+between work and heat and reveals an unexpected connection between information
+theory and the first law of thermodynamics (not just the second). It also
+achieves the long-sought unification of the axiomatic approach with Kelvin's.",Chiara Marletto,arXiv,physics.class-ph
+Continued Fractions and Probability Estimations in Shor’s Algorithm: A Detailed and Self-Contained Treatise -Johanna Barzen and Frank Leymann,https://arxiv.org/abs/2205.01925,,"Continued Fractions and Probability Estimations in the Shor Algorithm --
+  A Detailed and Self-Contained Treatise","The algorithm of Shor for prime factorization is a hybrid algorithm
+consisting of a quantum part and a classical part. The main focus of the
+classical part is a continued fraction analysis. The presentation of this is
+often short, pointing to text books on number theory. In this contribution, we
+present the relevant results and proofs from the theory of continued fractions
+in detail (even in more detail than in text books) filling the gap to allow a
+complete comprehension of the algorithm of Shor. Similarly, we provide a
+detailed computation of the estimation of the probability that convergents will
+provide the period required for determining a prime factor.","Johanna Barzen, Frank Leymann",arXiv,"math.HO, math.NT, quant-ph"
+"Quantum Data Center: Theories and Applications - Junyu Liu, Connor T. Hann, and Liang Jiang1",https://arxiv.org/abs/2207.14336,,Data centers with quantum random access memory and quantum networks,"In this paper, we propose the Quantum Data Center (QDC), an architecture
+combining Quantum Random Access Memory (QRAM) and quantum networks. We give a
+precise definition of QDC, and discuss its possible realizations and
+extensions. We discuss applications of QDC in quantum computation, quantum
+communication, and quantum sensing, with a primary focus on QDC for $T$-gate
+resources, QDC for multi-party private quantum communication, and QDC for
+distributed sensing through data compression. We show that QDC will provide
+efficient, private, and fast services as a future version of data centers.","Junyu Liu, Connor T. Hann, Liang Jiang",arXiv,"quant-ph, cs.DC, cs.LG"
+Deep Learning with Coherent Nanophotonic Circuits - Yichen Shen,https://arxiv.org/pdf/1610.02365.pdf,,Deep Learning with Coherent Nanophotonic Circuits,"Artificial Neural Networks are computational network models inspired by
+signal processing in the brain. These models have dramatically improved the
+performance of many learning tasks, including speech and object recognition.
+However, today's computing hardware is inefficient at implementing neural
+networks, in large part because much of it was designed for von Neumann
+computing schemes. Significant effort has been made to develop electronic
+architectures tuned to implement artificial neural networks that improve upon
+both computational speed and energy efficiency. Here, we propose a new
+architecture for a fully-optical neural network that, using unique advantages
+of optics, promises a computational speed enhancement of at least two orders of
+magnitude over the state-of-the-art and three orders of magnitude in power
+efficiency for conventional learning tasks. We experimentally demonstrate
+essential parts of our architecture using a programmable nanophotonic
+processor.","Yichen Shen, Nicholas C. Harris, Scott Skirlo, Mihika Prabhu, Tom Baehr-Jones, Michael Hochberg, Xin Sun, Shijie Zhao, Hugo Larochelle, Dirk Englund, Marin Soljacic",arXiv,"physics.optics, physics.comp-ph"
+Designing a Quantum Network Protocol,https://arxiv.org/abs/2010.02575,Quantum Protocol Design,Designing a Quantum Network Protocol,"The second quantum revolution brings with it the promise of a quantum
+internet. As the first quantum network hardware prototypes near completion new
+challenges emerge. A functional network is more than just the physical
+hardware, yet work on scalable quantum network systems is in its infancy. In
+this paper we present a quantum network protocol designed to enable end-to-end
+quantum communication in the face of the new fundamental and technical
+challenges brought by quantum mechanics. We develop a quantum data plane
+protocol that enables end-to-end quantum communication and can serve as a
+building block for more complex services. One of the key challenges in
+near-term quantum technology is decoherence -- the gradual decay of quantum
+information -- which imposes extremely stringent limits on storage times. Our
+protocol is designed to be efficient in the face of short quantum memory
+lifetimes. We demonstrate this using a simulator for quantum networks and show
+that the protocol is able to deliver its service even in the face of
+significant losses due to decoherence. Finally, we conclude by showing that the
+protocol remains functional on the extremely resource limited hardware that is
+being developed today underlining the timeliness of this work.","Wojciech Kozlowski, Axel Dahlberg, Stephanie Wehner",arXiv,"cs.NI, quant-ph"
+Disentangling Hype from Practicality: On Realistically Achieving Quantum Advantage,https://arxiv.org/pdf/2307.00523.pdf,Quantum Markets and Hype,"Disentangling Hype from Practicality: On Realistically Achieving Quantum
+  Advantage","Quantum computers offer a new paradigm of computing with the potential to
+vastly outperform any imagineable classical computer. This has caused a gold
+rush towards new quantum algorithms and hardware. In light of the growing
+expectations and hype surrounding quantum computing we ask the question which
+are the promising applications to realize quantum advantage. We argue that
+small data problems and quantum algorithms with super-quadratic speedups are
+essential to make quantum computers useful in practice. With these guidelines
+one can separate promising applications for quantum computing from those where
+classical solutions should be pursued. While most of the proposed quantum
+algorithms and applications do not achieve the necessary speedups to be
+considered practical, we already see a huge potential in material science and
+chemistry. We expect further applications to be developed based on our
+guidelines.","Torsten Hoefler, Thomas Haener, Matthias Troyer",arXiv,"quant-ph, cs.DS, cs.PF, physics.pop-ph"
+"Does provable absence of barren plateaus imply classical simulability? Or, why we need to rethink variational quantum computing - M. Cerezo et. al.",https://arxiv.org/pdf/2312.09121.pdf,,"Does provable absence of barren plateaus imply classical simulability?
+  Or, why we need to rethink variational quantum computing","A large amount of effort has recently been put into understanding the barren
+plateau phenomenon. In this perspective article, we face the increasingly loud
+elephant in the room and ask a question that has been hinted at by many but not
+explicitly addressed: Can the structure that allows one to avoid barren
+plateaus also be leveraged to efficiently simulate the loss classically? We
+present strong evidence that commonly used models with provable absence of
+barren plateaus are also classically simulable, provided that one can collect
+some classical data from quantum devices during an initial data acquisition
+phase. This follows from the observation that barren plateaus result from a
+curse of dimensionality, and that current approaches for solving them end up
+encoding the problem into some small, classically simulable, subspaces. Thus,
+while stressing quantum computers can be essential for collecting data, our
+analysis sheds serious doubt on the non-classicality of the information
+processing capabilities of parametrized quantum circuits for barren
+plateau-free landscapes. We end by discussing caveats in our arguments, the
+role of smart initializations and the possibility of provably superpolynomial,
+or simply practical, advantages from running parametrized quantum circuits.","M. Cerezo, Martin Larocca, Diego García-Martín, N. L. Diaz, Paolo Braccia, Enrico Fontana, Manuel S. Rudolph, Pablo Bermejo, Aroosa Ijaz, Supanut Thanasilp, Eric R. Anschuetz, Zoë Holmes",arXiv,"quant-ph, cs.LG, stat.ML"
+Efficient parametric frequency conversion in lithium niobate nanophotonic chips,https://arxiv.org/abs/1903.08722,Quantum Photonics,"Efficient parametric frequency conversions in lithium niobate
+  nanophotonic chips","Chip-integrated nonlinear photonics holds the key for advanced optical
+information processing with superior performance and novel functionalities.
+Here, we present an optimally mode-matched, periodically poled lithium niobate
+nanowaveguide for efficient parametric frequency conversions on chip. Using a
+4-mm nanowaveguide with subwavelength mode confinement, we demonstrate second
+harmonic generation with efficiency over $2200\%~W^{-1}cm^{-2}$, and broadband
+difference frequency generation with similar efficiency over a 4.5-THz spectral
+span. These allow us to generate correlated photon pairs over multiple
+frequency channels via spontaneous parametric down conversion, all in their
+fundamental spatial modes, with a coincidence to accidental ratio as high as
+600. The high efficiency and dense integrability of the present chip devices
+may pave a viable route to scalable nonlinear applications in both classical
+and quantum domains.","Jia-yang Chen, Yong Meng Sua, Zhao-hui Ma, Chao Tang, Zhan Li, Yu-ping Huang",arXiv,"quant-ph, physics.optics"
+Electrical Tuning of Neutral and Charged Excitons with 1-nm Gate,https://arxiv.org/pdf/2310.19895.pdf,Silicon Based Technologies,Electrical Tuning of Neutral and Charged Excitons with 1-nm Gate,"Electrical control of individual spins and photons in solids is key for
+quantum technologies, but scaling down to small, static systems remains
+challenging. Here, we demonstrate nanoscale electrical tuning of neutral and
+charged excitons in monolayer WSe2 using 1-nm carbon nanotube gates.
+Electrostatic simulations reveal a confinement radius below 15 nm, reaching the
+exciton Bohr radius limit for few-layer dielectric spacing. In situ
+photoluminescence spectroscopy shows gate-controlled conversion between neutral
+excitons, negatively charged trions, and biexcitons at 4 K. Important for
+quantum information processing applications, our measurements indicate gating
+of a local 2D electron gas in the WSe2 layer, coupled to photons via trion
+transitions with binding energies exceeding 20 meV. The ability to
+deterministically tune and address quantum emitters using nanoscale gates
+provides a pathway towards large-scale quantum optoelectronic circuits and
+spin-photon interfaces for quantum networking.","Jawaher Almutlaq, Jiangtao Wang, Linsen Li, Chao Li, Tong Dang, Vladimir Bulović, Jing Kong, Dirk Englund",arXiv,"cond-mat.mes-hall, physics.optics"
+Elementary gates for quantum computation,https://journals.aps.org/pra/abstract/10.1103/PhysRevA.52.3457,Quantum Circuits,Elementary gates for quantum computation,Unknown,"Adriano Barenco, Charles H. Bennett, Richard Cleve, David P. DiVincenzo, Norman Margolus, Peter Shor, Tycho Sleator, John A. Smolin, Harald Weinfurter",Physical Review A,
+"Elementary gates for quantum computation - Adriano Barenco, Charles H. Bennett, Richard Cleve, David P. DiVincenzo, ...",https://journals.aps.org/pra/abstract/10.1103/PhysRevA.52.3457?cm_mc_uid=43781767191014577577895&cm_mc_sid_50200000=1460741020,,Elementary gates for quantum computation,Unknown,"Adriano Barenco, Charles H. Bennett, Richard Cleve, David P. DiVincenzo, Norman Margolus, Peter Shor, Tycho Sleator, John A. Smolin, Harald Weinfurter",Physical Review A,
+"Error Correction of Quantum Algorithms: Arbitrarily Accurate Recovery Of Noisy Quantum Signal Processing - Andrew K. Tan, Yuan Liu, Minh C. Tran, Isaac L. Chuang",https://arxiv.org/pdf/2301.08542.pdf,,"Error Correction of Quantum Algorithms: Arbitrarily Accurate Recovery Of
+  Noisy Quantum Signal Processing","The intrinsic probabilistic nature of quantum systems makes error correction
+or mitigation indispensable for quantum computation. While current
+error-correcting strategies focus on correcting errors in quantum states or
+quantum gates, these fine-grained error-correction methods can incur
+significant overhead for quantum algorithms of increasing complexity. We
+present a first step in achieving error correction at the level of quantum
+algorithms by combining a unified perspective on modern quantum algorithms via
+quantum signal processing (QSP). An error model of under- or over-rotation of
+the signal processing operator parameterized by $\epsilon < 1$ is introduced.
+It is shown that while Pauli $Z$-errors are not recoverable without additional
+resources, Pauli $X$ and $Y$ errors can be arbitrarily suppressed by coherently
+appending a noisy `recovery QSP.' Furthermore, it is found that a recovery QSP
+of length $O(2^k c^{k^2} d)$ is sufficient to correct any length-$d$ QSP with
+$c$ unique phases to $k^{th}$-order in error $\epsilon$. Allowing an additional
+assumption, a lower bound of $\Omega(cd)$ is shown, which is tight for $k = 1$,
+on the length of the recovery sequence. Our algorithmic-level error correction
+method is applied to Grover's fixed-point search algorithm as a demonstration.","Andrew K. Tan, Yuan Liu, Minh C. Tran, Isaac L. Chuang",arXiv,quant-ph
+Experimental Estimation of Quantum State Properties from Classical Shadows,https://arxiv.org/abs/2008.05234,Measurement & State Estimation,"Experimental Estimation of Quantum State Properties from Classical
+  Shadows","Full quantum tomography of high-dimensional quantum systems is experimentally
+infeasible due to the exponential scaling of the number of required
+measurements on the number of qubits in the system. However, several ideas were
+proposed recently for predicting the limited number of features for these
+states, or estimating the expectation values of operators, without the need for
+full state reconstruction. These ideas go under the general name of shadow
+tomography. Here we provide an experimental demonstration of property
+estimation based on classical shadows proposed in [H.-Y. Huang, R. Kueng, J.
+Preskill. Nat. Phys. https://doi.org/10.1038/s41567-020-0932-7 (2020)] and
+study its performance in the quantum optical experiment with high-dimensional
+spatial states of photons. We show on experimental data how this procedure
+outperforms conventional state reconstruction in fidelity estimation from a
+limited number of measurements.","G. I. Struchalin, Ya. A. Zagorovskii, E. V. Kovlakov, S. S. Straupe, S. P. Kulik",arXiv,quant-ph
+Experimental demonstration of memory-enhanced quantum communication,https://arxiv.org/abs/1909.01323,Quantum Photonics,Experimental demonstration of memory-enhanced quantum communication,"The ability to communicate quantum information over long distances is of
+central importance in quantum science and engineering. For example, it enables
+secure quantum key distribution (QKD) relying on fundamental principles that
+prohibit the ""cloning"" of unknown quantum states. While QKD is being
+successfully deployed, its range is currently limited by photon losses and
+cannot be extended using straightforward measure-and-repeat strategies without
+compromising its unconditional security. Alternatively, quantum repeaters,
+which utilize intermediate quantum memory nodes and error correction
+techniques, can extend the range of quantum channels. However, their
+implementation remains an outstanding challenge, requiring a combination of
+efficient and high-fidelity quantum memories, gate operations, and
+measurements. Here we report the experimental realization of memory-enhanced
+quantum communication. We use a single solid-state spin memory integrated in a
+nanophotonic diamond resonator to implement asynchronous Bell-state
+measurements. This enables a four-fold increase in the secret key rate of
+measurement device independent (MDI)-QKD over the loss-equivalent
+direct-transmission method while operating megahertz clock rates. Our results
+represent a significant step towards practical quantum repeaters and
+large-scale quantum networks.","Mihir K. Bhaskar, Ralf Riedinger, Bartholomeus Machielse, David S. Levonian, Christian T. Nguyen, Erik N. Knall, Hongkun Park, Dirk Englund, Marko Lončar, Denis D. Sukachev, Mikhail D. Lukin",arXiv,quant-ph
+"Exponential speedups for quantum walks in random hierarchical graphs - Shankar Balasubramanian, Tongyang Li, and Aram Harrow",https://arxiv.org/abs/2307.15062,,Exponential speedups for quantum walks in random hierarchical graphs,"There are few known exponential speedups for quantum algorithms and these
+tend to fall into even fewer families. One speedup that has mostly resisted
+generalization is the use of quantum walks to traverse the welded-tree graph,
+due to Childs, Cleve, Deotto, Farhi, Gutmann, and Spielman. We show how to
+generalize this to a large class of hierarchical graphs in which the vertices
+are grouped into ""supervertices"" which are arranged according to a
+$d$-dimensional lattice. Supervertices can have different sizes, and edges
+between supervertices correspond to random connections between their
+constituent vertices.
+  The hitting times of quantum walks on these graphs are related to the
+localization properties of zero modes in certain disordered tight binding
+Hamiltonians. The speedups range from superpolynomial to exponential, depending
+on the underlying dimension and the random graph model. We also provide
+concrete realizations of these hierarchical graphs, and introduce a general
+method for constructing graphs with efficient quantum traversal times using
+graph sparsification.","Shankar Balasubramanian, Tongyang Li, Aram Harrow",arXiv,"quant-ph, cond-mat.dis-nn, cond-mat.stat-mech, cond-mat.str-el"
+Fault-tolerant Preparation of Stabilizer States for Quantum CSS Codes by Classical Error-Correcting Codes,https://arxiv.org/abs/1605.05647,Quantum Error Correction,"Fault-tolerant Preparation of Stabilizer States for Quantum CSS Codes by
+  Classical Error-Correcting Codes","Stabilizer states are extensively studied in quantum information theory for
+their structures based on the Pauli group. Calderbank-Shor-Steane (CSS)
+stabilizer states are of particular importance in their application to
+fault-tolerant quantum computation (FTQC). However, how to fault-tolerantly
+prepare arbitrary CSS stabilizer states for general CSS stabilizer codes is
+still unknown, and their preparation can be highly costly in computational
+resources. In this paper, we show how to prepare a large class of CSS
+stabilizer states useful for FTQC. We propose distillation protocols using
+syndrome encoding by classical codes or quantum CSS codes. Along the same
+lines, we show that classical coding techniques can reduce the ancilla
+consumption in Steane syndrome extraction by using additional transversal
+controlled-NOT gates and classical computing power. In the scenario of a fixed
+ancilla consumption rate, we can increase the frequency of quantum error
+correction and effectively lower the error rate.","Ching-Yi Lai, Yi-Cong Zheng, Todd A. Brun",arXiv,quant-ph
+Field-Deployable Quantum Memory for Quantum Networking,https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.18.044058,Quantum Memories,Field-Deployable Quantum Memory for Quantum Networking,Unknown,"Yang Wang, Alexander N. Craddock, Rourke Sekelsky, Mael Flament, Mehdi Namazi",Physical Review Applied,
+Five open problems in theory of quantum information,https://arxiv.org/abs/2002.03233,Quantum Information Theory,Five open problems in quantum information,"We identify five selected open problems in the theory of quantum information,
+which are rather simple to formulate, were well-studied in the literature, but
+are technically not easy. As these problems enjoy diverse mathematical
+connections, they offer a huge breakthrough potential. The first four concern
+existence of certain objects relevant for quantum information, namely a family
+of symmetric informationally complete generalized measurements in an infinite
+sequence of dimensions, mutually unbiased bases in dimension six, absolutely
+maximally entangled states for four subsystems with six levels each and bound
+entangled states with negative partial transpose. The fifth problem requires
+checking whether a certain state of a two-ququart system is 2-copy distillable.
+An award for solving each of them is announced.","Paweł Horodecki, Łukasz Rudnicki, Karol Życzkowski",arXiv,quant-ph
+Foundations for Near-Term Quantum Natural Language Processing,https://arxiv.org/abs/2012.03755,Natural Language Processing & Quantum Computing,Foundations for Near-Term Quantum Natural Language Processing,"We provide conceptual and mathematical foundations for near-term quantum
+natural language processing (QNLP), and do so in quantum computer scientist
+friendly terms. We opted for an expository presentation style, and provide
+references for supporting empirical evidence and formal statements concerning
+mathematical generality.
+  We recall how the quantum model for natural language that we employ
+canonically combines linguistic meanings with rich linguistic structure, most
+notably grammar. In particular, the fact that it takes a quantum-like model to
+combine meaning and structure, establishes QNLP as quantum-native, on par with
+simulation of quantum systems. Moreover, the now leading Noisy
+Intermediate-Scale Quantum (NISQ) paradigm for encoding classical data on
+quantum hardware, variational quantum circuits, makes NISQ exceptionally
+QNLP-friendly: linguistic structure can be encoded as a free lunch, in contrast
+to the apparently exponentially expensive classical encoding of grammar.
+  Quantum speed-up for QNLP tasks has already been established in previous work
+with Will Zeng. Here we provide a broader range of tasks which all enjoy the
+same advantage.
+  Diagrammatic reasoning is at the heart of QNLP. Firstly, the quantum model
+interprets language as quantum processes via the diagrammatic formalism of
+categorical quantum mechanics. Secondly, these diagrams are via ZX-calculus
+translated into quantum circuits. Parameterisations of meanings then become the
+circuit variables to be learned.
+  Our encoding of linguistic structure within quantum circuits also embodies a
+novel approach for establishing word-meanings that goes beyond the current
+standards in mainstream AI, by placing linguistic structure at the heart of
+Wittgenstein's meaning-is-context.","Bob Coecke, Giovanni de Felice, Konstantinos Meichanetzidis, Alexis Toumi",arXiv,"quant-ph, cs.CL"
+Fundamental Principle of Information-to-Energy Conversion - Antonio Alfonso-Faus,https://arxiv.org/abs/1401.6052,,Fundamental Principle of Information-to-Energy Conversion,"The equivalence of 1 bit of information to entropy was given by Landauer in
+1961 as kln2, k the Boltzmann constant. Erasing information implies heat
+dissipation and the energy of 1 bit would then be (the Landauers limit) kT ln
+2, T being the ambient temperature. From a quantum-cosmological point of view
+the minimum quantum of energy in the universe corresponds today to a
+temperature of 10^(-29) degrees K, probably forming a cosmic background of a
+Bose condensate [1]. Then, the bit with minimum energy today in the Universe is
+a quantum of energy 10^(-45)ergs, with an equivalent mass of 10^(-66)g. Low
+temperature implies low energy per bit and, of course, this is the way for
+faster and less energy dissipating computing devices. Our conjecture is this:
+the possibility of a future access to the CBBC (a coupling/channeling?) would
+mean a huge jump in the performance of these devices.",Antonio Alfonso-Faus,arXiv,physics.gen-ph
+Fusion-based quantum computation,https://arxiv.org/abs/2101.09310,Quantum Photonics,Fusion-based quantum computation,"We introduce fusion-based quantum computing (FBQC) - a model of universal
+quantum computation in which entangling measurements, called fusions, are
+performed on the qubits of small constant-sized entangled resource states. We
+introduce a stabilizer formalism for analyzing fault tolerance and computation
+in these schemes. This framework naturally captures the error structure that
+arises in certain physical systems for quantum computing, such as photonics.
+FBQC can offer significant architectural simplifications, enabling hardware
+made up of many identical modules, requiring an extremely low depth of
+operations on each physical qubit and reducing classical processing
+requirements. We present two pedagogical examples of fault-tolerant schemes
+constructed in this framework and numerically evaluate their threshold under a
+hardware agnostic fusion error model including both erasure and Pauli error. We
+also study an error model of linear optical quantum computing with
+probabilistic fusion and photon loss. In FBQC the non-determinism of fusion is
+directly dealt with by the quantum error correction protocol, along with other
+errors. We find that tailoring the fault-tolerance framework to the physical
+system allows the scheme to have a higher threshold than schemes reported in
+literature. We present a ballistic scheme which can tolerate a 10.4%
+probability of suffering photon loss in each fusion.","Sara Bartolucci, Patrick Birchall, Hector Bombin, Hugo Cable, Chris Dawson, Mercedes Gimeno-Segovia, Eric Johnston, Konrad Kieling, Naomi Nickerson, Mihir Pant, Fernando Pastawski, Terry Rudolph, Chris Sparrow",arXiv,quant-ph
+Gate Set Tomography,https://arxiv.org/abs/2009.07301,Programmable Quantum Gates,Gate Set Tomography,"Gate set tomography (GST) is a protocol for detailed, predictive
+characterization of logic operations (gates) on quantum computing processors.
+Early versions of GST emerged around 2012-13, and since then it has been
+refined, demonstrated, and used in a large number of experiments. This paper
+presents the foundations of GST in comprehensive detail. The most important
+feature of GST, compared to older state and process tomography protocols, is
+that it is calibration-free. GST does not rely on pre-calibrated state
+preparations and measurements. Instead, it characterizes all the operations in
+a gate set simultaneously and self-consistently, relative to each other. Long
+sequence GST can estimate gates with very high precision and efficiency,
+achieving Heisenberg scaling in regimes of practical interest. In this paper,
+we cover GST's intellectual history, the techniques and experiments used to
+achieve its intended purpose, data analysis, gauge freedom and fixing, error
+bars, and the interpretation of gauge-fixed estimates of gate sets. Our focus
+is fundamental mathematical aspects of GST, rather than implementation details,
+but we touch on some of the foundational algorithmic tricks used in the pyGSTi
+implementation.","Erik Nielsen, John King Gamble, Kenneth Rudinger, Travis Scholten, Kevin Young, Robin Blume-Kohout",arXiv,quant-ph
+"High Quality Entangled Photon Pair Generation in Periodically Poled Thin-Film Lithium Niobate Waveguides - Jie Zhao, Chaoxuan Ma, Michael Rüsing, and Shayan Mookherjea",https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.163603,,High Quality Entangled Photon Pair Generation in Periodically Poled Thin-Film Lithium Niobate Waveguides,Unknown,"Jie Zhao, Chaoxuan Ma, Michael Rüsing, Shayan Mookherjea",Physical Review Letters,
+Implementation of multidimensional quantum walks using linear optics and classical light,https://journals.aps.org/pra/abstract/10.1103/PhysRevA.92.040302,Experimental Simulating Tools,Implementation of multidimensional quantum walks using linear optics and classical light,Unknown,"Sandeep K. Goyal, Filippus S. Roux, Andrew Forbes, Thomas Konrad",Physical Review A,
+"Interference in Quantum Field Theory: Detecting Ghosts with Phases - Chiara Marletto, Vlatko Vedral",https://onlinelibrary.wiley.com/doi/full/10.1002/andp.202200530,,Interference in Quantum Field Theory: Detecting Ghosts with Phases,"AbstractThis study discusses the implications of the principle of locality for interference in quantum field theory. As an example, it considers the interaction of two charges via a mediating quantum field and the resulting interference pattern in the Lorenz gauge. Using the Heisenberg picture, it is proposed that detecting relative phases or entanglement between two charges in an interference experiment is equivalent to accessing empirically the gauge degrees of freedom associated with the so‐called ghost (scalar) modes of the field in the Lorenz gauge. These results imply that ghost modes are measurable and hence physically relevant, contrary to what is usually thought. They also raise interesting questions about the relation between the principle of locality and the principle of gauge‐invariance. This analysis also applies to linearized quantum gravity in the harmonic gauge, and hence has implications for the recently proposed entanglement‐based witnesses of non‐classicality in gravity.","Chiara Marletto, Vlatko Vedral",Annalen der Physik,
+Is quantum computing green? An estimate for an energy-efficiency quantum advantage,https://arxiv.org/pdf/2205.12092.pdf,Quantum Markets and Hype,"Is quantum computing green? An estimate for an energy-efficiency quantum
+  advantage","The quantum advantage threshold determines when a quantum processing unit
+(QPU) is more efficient with respect to classical computing hardware in terms
+of algorithmic complexity. The ""green"" quantum advantage threshold $-$ based on
+a comparison of energetic efficiency between the two $-$ is going to play a
+fundamental role in the comparison between quantum and classical hardware.
+Indeed, its characterization would enable better decisions on energy-saving
+strategies, e.g. for distributing the workload in hybrid quantum-classical
+algorithms. Here, we show that the green quantum advantage threshold crucially
+depends on (i) the quality of the experimental quantum gates and (ii) the
+entanglement generated in the QPU. Indeed, for NISQ hardware and algorithms
+requiring a moderate amount of entanglement, a classical tensor network
+emulation can be more energy-efficient at equal final state fidelity than
+quantum computation. We compute the green quantum advantage threshold for a few
+paradigmatic examples in terms of algorithms and hardware platforms, and
+identify algorithms with a power-law decay of singular values of bipartitions
+$-$ with power-law exponent $\alpha \lesssim 1$ $-$ as the green quantum
+advantage threshold in the near future.","Daniel Jaschke, Simone Montangero",arXiv,quant-ph
+"Large-scale optical characterization of solid-state quantum emitters - Madison Sutula, et. al.",https://arxiv.org/pdf/2210.13643.pdf,,Large-scale optical characterization of solid-state quantum emitters,"Solid-state quantum emitters have emerged as a leading quantum memory for
+quantum networking applications. However, standard optical characterization
+techniques are neither efficient nor repeatable at scale. In this work, we
+introduce and demonstrate spectroscopic techniques that enable large-scale,
+automated characterization of color centers. We first demonstrate the ability
+to track color centers by registering them to a fabricated machine-readable
+global coordinate system, enabling systematic comparison of the same color
+center sites over many experiments. We then implement resonant
+photoluminescence excitation in a widefield cryogenic microscope to parallelize
+resonant spectroscopy, achieving two orders of magnitude speed-up over confocal
+microscopy. Finally, we demonstrate automated chip-scale characterization of
+color centers and devices at room temperature, imaging thousands of microscope
+fields of view. These tools will enable accelerated identification of useful
+quantum emitters at chip-scale, enabling advances in scaling up color center
+platforms for quantum information applications, materials science, and device
+design and characterization.","Madison Sutula, Ian Christen, Eric Bersin, Michael P. Walsh, Kevin C. Chen, Justin Mallek, Alexander Melville, Michael Titze, Edward S. Bielejec, Scott Hamilton, Danielle Braje, P. Benjamin Dixon, Dirk R. Englund",arXiv,"quant-ph, cond-mat.mtrl-sci, physics.optics"
+Locality in the Schrodinger Picture of Quantum Mechanics - Vlatko Vedral,https://arxiv.org/pdf/2312.04701.pdf,,Locality in the Schroedinger Picture of Quantum Mechanics,"We explain how the so-called Einstein locality is to be understood in the
+Schr\""odinger picture of quantum mechanics. This notion is perfectly compatible
+with the Bell non-locality exhibited by entangled states. Contrary to some
+beliefs that quantum mechanics is incomplete, it is, in fact, its
+overcompleteness as exemplified by different pictures of quantum physics, that
+points to the same underlying reality.",Vlatko Vedral,arXiv,quant-ph
+Microwave Quantum Memristors,https://arxiv.org/abs/2311.06925,Novel Quantum Devices,Microwave Quantum Memcapacitor Effect,"Developing the field of neuromorphic quantum computing necessitates designing
+scalable quantum memory devices. Here, we propose a superconducting quantum
+memory device in the microwave regime, termed as a microwave quantum
+memcapacitor. It comprises two linked resonators, the primary one is coupled to
+a Superconducting Quantum Interference Device, which allows for the modulation
+of the resonator properties through external magnetic flux. The auxiliary
+resonator, operated through weak measurements, provides feedback to the primary
+resonator, ensuring stable memory behaviour. This device operates with a
+classical input in one cavity while reading the response in the other, serving
+as a fundamental building block toward arrays of microwave quantum
+memcapacitors. We observe that a bipartite setup can retain its memory
+behaviour and gains entanglement and quantum correlations. Our findings pave
+the way for the experimental implementation of memcapacitive superconducting
+quantum devices and memory device arrays for neuromorphic quantum computing.","X. -Y. Qiu, S. Kumar, F. A. Cárdenas-López, G. Alvarado Barrios, E. Solano, F. Albarrán-Arriagada",arXiv,"quant-ph, cond-mat.supr-con"
+Mitigating the quantum hype - Olivier Ezratty,https://arxiv.org/abs/2202.01925,,Mitigating the quantum hype,"We are in the midst of quantum hype with some excessive claims of quantum
+computing potential, many vendors' and even some research organizations'
+exaggerations, and a funding frenzy for very low technology readiness level
+startups. Governments are contributing to this hype with their large quantum
+initiatives and their technology sovereignty aspirations. Technology hypes are
+not bad per se since they create emulation, drive innovations and also
+contribute to attracting new talents. It works as scientists and vendors
+deliver progress and innovation on a continuous basis after a so-called peak of
+expectations. It fails with exaggerated overpromises and underdeliveries that
+last too long. It could cut short research and innovation funding, creating
+some sort of quantum winter. After looking at the shape and form of technology
+and science hypes and driving some lessons from past hypes, we investigate the
+current quantum hype and its specifics. We find that, although there is some
+significant uncertainty on the potential to create real scalable quantum
+computers, the scientific and vendor fields are relatively sane and solid
+compared to other technology hypes. The vendors hype has some profound and
+disruptive impact on the organization of fundamental research. Also, quantum
+technologies comprise other fields like quantum telecommunications and quantum
+sensing with a higher technology readiness level, which are less prone to hype.
+We then make some proposals to mitigate the potential negative effects of the
+current quantum hype including recommendations on scientific communication to
+strengthen the trust in quantum science, vendor behavior improvements,
+benchmarking methodologies, public education and putting in place a responsible
+research and innovation approach.",Olivier Ezratty,arXiv,"physics.soc-ph, physics.hist-ph, quant-ph"
+"Mitiq: A software package for error mitigation on noisy quantum computers - Ryan LaRose, Andrea Mari, Sarah Kaiser, Peter J. Karalekas, Andre A. Alves, ...",https://arxiv.org/abs/2009.04417,,"Mitiq: A software package for error mitigation on noisy quantum
+  computers","We introduce Mitiq, a Python package for error mitigation on noisy quantum
+computers. Error mitigation techniques can reduce the impact of noise on
+near-term quantum computers with minimal overhead in quantum resources by
+relying on a mixture of quantum sampling and classical post-processing
+techniques. Mitiq is an extensible toolkit of different error mitigation
+methods, including zero-noise extrapolation, probabilistic error cancellation,
+and Clifford data regression. The library is designed to be compatible with
+generic backends and interfaces with different quantum software frameworks. We
+describe Mitiq using code snippets to demonstrate usage and discuss features
+and contribution guidelines. We present several examples demonstrating error
+mitigation on IBM and Rigetti superconducting quantum processors as well as on
+noisy simulators.","Ryan LaRose, Andrea Mari, Sarah Kaiser, Peter J. Karalekas, Andre A. Alves, Piotr Czarnik, Mohamed El Mandouh, Max H. Gordon, Yousef Hindy, Aaron Robertson, Purva Thakre, Misty Wahl, Danny Samuel, Rahul Mistri, Maxime Tremblay, Nick Gardner, Nathaniel T. Stemen, Nathan Shammah, William J. Zeng",arXiv,"quant-ph, cs.ET"
+"Multi-state quantum simulations via model-space quantum imaginary time evolution - Takashi Tsuchimochi, Yoohee Ryo, Siu Chung Tsang, Seiichiro L. Ten-no",https://arxiv.org/abs/2206.04494,,"Multi-state quantum simulations via model-space quantum imaginary time
+  evolution","We introduce the framework of model space into quantum imaginary time
+evolution (QITE) to enable stable estimation of ground and excited states using
+a quantum computer. Model-space QITE (MSQITE) propagates a model space to the
+exact one by retaining its orthogonality, and hence is able to describe
+multiple states simultaneously. The quantum Lanczos (QLanczos) algorithm is
+extended to MSQITE to accelerate the convergence. The present scheme is found
+to outperform both the standard QLanczos and the recently proposed
+folded-spectrum QITE in simulating excited states. Moreover, we demonstrate
+that spin contamination can be effectively removed by shifting the imaginary
+time propagator, and thus excited states with a particular spin quantum number
+are efficiently captured without falling into the different spin states that
+have lower energies. We also investigate how different levels of the unitary
+approximation employed in MSQITE can affect the results. The effectiveness of
+the algorithm over QITE is demonstrated by noise simulations for the H4 model
+system.","Takashi Tsuchimochi, Yoohee Ryo, Siu Chung Tsang, Seiichiro L. Ten-no",arXiv,"quant-ph, cond-mat.str-el, physics.chem-ph"
+"Multiplexed quantum repeaters based on dual-species trapped-ion systems - Prajit Dhara, Norbert M. Linke, Edo Waks, Saikat Guha, Kaushik P. Seshadreesan",https://arxiv.org/abs/2105.06707,,Multiplexed quantum repeaters based on dual-species trapped-ion systems,"Trapped ions form an advanced technology platform for quantum information
+processing with long qubit coherence times, high-fidelity quantum logic gates,
+optically active qubits, and a potential to scale up in size while preserving a
+high level of connectivity between qubits. These traits make them attractive
+not only for quantum computing but also for quantum networking. Dedicated,
+special-purpose trapped-ion processors in conjunction with suitable
+interconnecting hardware can be used to form quantum repeaters that enable
+high-rate quantum communications between distant trapped-ion quantum computers
+in a network. In this regard, hybrid traps with two distinct species of ions,
+where one ion species can generate ion-photon entanglement that is useful for
+optically interfacing with the network and the other has long memory lifetimes,
+useful for qubit storage, have been proposed for entanglement distribution. We
+consider an architecture for a repeater based on such dual-species trapped-ion
+systems. We propose and analyze a protocol based on spatial and temporal mode
+multiplexing for entanglement distribution across a line network of such
+repeaters. Our protocol offers enhanced rates compared to rates previously
+reported for such repeaters. We determine the ion resources required at the
+repeaters to attain the enhanced rates, and the best rates attainable when
+constraints are placed on the number of repeaters and the number of ions per
+repeater. Our results bolster the case for near-term trapped-ion systems as
+quantum repeaters for long-distance quantum communications.","Prajit Dhara, Norbert M. Linke, Edo Waks, Saikat Guha, Kaushik P. Seshadreesan",arXiv,quant-ph
+"NetSquid, a NETwork Simulator for QUantum Information using Discrete events - Tim Coopmans, Robert Knegjens, Axel Dahlberg, David Maier, Loek Nijsten, ...",https://arxiv.org/abs/2010.12535,,"NetSquid, a NETwork Simulator for QUantum Information using Discrete
+  events","In order to bring quantum networks into the real world, we would like to
+determine the requirements of quantum network protocols including the
+underlying quantum hardware. Because detailed architecture proposals are
+generally too complex for mathematical analysis, it is natural to employ
+numerical simulation. Here we introduce NetSquid, the NETwork Simulator for
+QUantum Information using Discrete events, a discrete-event based platform for
+simulating all aspects of quantum networks and modular quantum computing
+systems, ranging from the physical layer and its control plane up to the
+application level. We study several use cases to showcase NetSquid's power,
+including detailed physical layer simulations of repeater chains based on
+nitrogen vacancy centres in diamond as well as atomic ensembles. We also study
+the control plane of a quantum switch beyond its analytically known regime, and
+showcase NetSquid's ability to investigate large networks by simulating
+entanglement distribution over a chain of up to one thousand nodes.","Tim Coopmans, Robert Knegjens, Axel Dahlberg, David Maier, Loek Nijsten, Julio de Oliveira Filho, Martijn Papendrecht, Julian Rabbie, Filip Rozpędek, Matthew Skrzypczyk, Leon Wubben, Walter de Jong, Damian Podareanu, Ariana Torres-Knoop, David Elkouss, Stephanie Wehner",arXiv,quant-ph
+Noisy dynamical systems evolve error correcting codes and modularity,https://arxiv.org/pdf/2303.14448.pdf,Quantum Error Mitigation,Noisy dynamical systems evolve error correcting codes and modularity,"Noise is a ubiquitous feature of the physical world. As a result, the first
+prerequisite of life is fault tolerance: maintaining integrity of state despite
+external bombardment. Recent experimental advances have revealed that
+biological systems achieve fault tolerance by implementing mathematically
+intricate error-correcting codes and by organizing in a modular fashion that
+physically separates functionally distinct subsystems. These elaborate
+structures represent a vanishing volume in the massive genetic configuration
+space. How is it possible that the primitive process of evolution, by which all
+biological systems evolved, achieved such unusual results? In this work,
+through experiments in Boolean networks, we show that the simultaneous presence
+of error correction and modularity in biological systems is no coincidence.
+Rather, it is a typical co-occurrence in noisy dynamic systems undergoing
+evolution. From this, we deduce the principle of error correction enhanced
+evolvability: systems possessing error-correcting codes are more effectively
+improved by evolution than those without.","Trevor McCourt, Ila R. Fiete, Isaac L. Chuang",arXiv,"q-bio.PE, nlin.AO, q-bio.NC"
+"Observable Thermalization: Theory, Numerical and Analytical Evidence",https://arxiv.org/pdf/2309.15173.pdf,Commercial and Philosophical Views,Observable Statistical Mechanics,"Understanding equilibration and thermalization in isolated many-body quantum
+systems is a central challenge in quantum physics. The traditional approach
+focuses on the study of the full state of the quantum system which, at
+equilibrium, is best described by the Diagonal Ensemble. Here, we present
+Observable Statistical Mechanics, a novel paradigm that shifts attention from
+the full quantum state to the statistics of measurement outcomes. This approach
+is grounded in the Maximum Observable Entropy Principle, positing that
+equilibrium measurement statistics tend to maximize observable entropy under
+conserved average energy. By focusing on accessible measurements, the theory
+accurately predicts equilibrium probability distributions without needing
+detailed microscopic information like the energy eigenstates. Extensive
+numerical experiments on 7 spin-1/2 Hamiltonians demonstrate the broad
+applicability and robustness of this framework.","Lodovico Scarpa, Abdulla Alhajri, Vlatko Vedral, Fabio Anza",arXiv,"quant-ph, cond-mat.stat-mech"
+On Circuit-based Hybrid Quantum Neural Networks for Remote Sensing Imagery Classification,https://arxiv.org/abs/2109.09484,Quantum Machine Learning (QML),"On Circuit-based Hybrid Quantum Neural Networks for Remote Sensing
+  Imagery Classification","This article aims to investigate how circuit-based hybrid Quantum
+Convolutional Neural Networks (QCNNs) can be successfully employed as image
+classifiers in the context of remote sensing. The hybrid QCNNs enrich the
+classical architecture of CNNs by introducing a quantum layer within a standard
+neural network. The novel QCNN proposed in this work is applied to the Land Use
+and Land Cover (LULC) classification, chosen as an Earth Observation (EO) use
+case, and tested on the EuroSAT dataset used as reference benchmark. The
+results of the multiclass classification prove the effectiveness of the
+presented approach, by demonstrating that the QCNN performances are higher than
+the classical counterparts. Moreover, investigation of various quantum circuits
+shows that the ones exploiting quantum entanglement achieve the best
+classification scores. This study underlines the potentialities of applying
+quantum computing to an EO case study and provides the theoretical and
+experimental background for futures investigations.","Alessandro Sebastianelli, Daniela A. Zaidenberg, Dario Spiller, Bertrand Le Saux, Silvia Liberata Ullo",arXiv,"eess.IV, cs.CV, cs.ET, quant-ph"
+"One-Dimensional Quantum Walks - Andris Ambainis, Eric Bach, Ashwin Nayak, Ashvin Vishwanath, John Watrous",https://dl.acm.org/doi/10.1145/380752.380757,,One-dimensional quantum walks,Unknown,"Andris Ambainis, Eric Bach, Ashwin Nayak, Ashvin Vishwanath, John Watrous",Proceedings of the thirty-third annual ACM symposium on Theory of computing,
+"Optimizing quantum noise-induced reservoir computing for nonlinear and chaotic time series prediction - Daniel Fry, Amol Deshmukh, Samuel Yen-Chi Chen, Vladimir Rastunkov, Vanio Markov",https://arxiv.org/abs/2303.05488,,"Optimizing quantum noise-induced reservoir computing for nonlinear and
+  chaotic time series prediction","Quantum reservoir computing is strongly emerging for sequential and time
+series data prediction in quantum machine learning. We make advancements to the
+quantum noise-induced reservoir, in which reservoir noise is used as a resource
+to generate expressive, nonlinear signals that are efficiently learned with a
+single linear output layer. We address the need for quantum reservoir tuning
+with a novel and generally applicable approach to quantum circuit
+parameterization, in which tunable noise models are programmed to the quantum
+reservoir circuit to be fully controlled for effective optimization. Our
+systematic approach also involves reductions in quantum reservoir circuits in
+the number of qubits and entanglement scheme complexity. We show that with only
+a single noise model and small memory capacities, excellent simulation results
+were obtained on nonlinear benchmarks that include the Mackey-Glass system for
+100 steps ahead in the challenging chaotic regime.","Daniel Fry, Amol Deshmukh, Samuel Yen-Chi Chen, Vladimir Rastunkov, Vanio Markov",arXiv,quant-ph
+Option Pricing using Quantum Computers,https://arxiv.org/abs/1905.02666,Quantum Machine Learning (QML),Option Pricing using Quantum Computers,"We present a methodology to price options and portfolios of options on a
+gate-based quantum computer using amplitude estimation, an algorithm which
+provides a quadratic speedup compared to classical Monte Carlo methods. The
+options that we cover include vanilla options, multi-asset options and
+path-dependent options such as barrier options. We put an emphasis on the
+implementation of the quantum circuits required to build the input states and
+operators needed by amplitude estimation to price the different option types.
+Additionally, we show simulation results to highlight how the circuits that we
+implement price the different option contracts. Finally, we examine the
+performance of option pricing circuits on quantum hardware using the IBM Q
+Tokyo quantum device. We employ a simple, yet effective, error mitigation
+scheme that allows us to significantly reduce the errors arising from noisy
+two-qubit gates.","Nikitas Stamatopoulos, Daniel J. Egger, Yue Sun, Christa Zoufal, Raban Iten, Ning Shen, Stefan Woerner",arXiv,quant-ph
+Paving the Way towards 800 Gbps Quantum-Secured Optical Channel Deployment,https://arxiv.org/abs/2202.07764,Quantum Communication & Cryptography,"Paving the Way towards 800 Gbps Quantum-Secured Optical Channel
+  Deployment in Mission-Critical Environments","This article describes experimental research studies conducted towards
+understanding the implementation aspects of high-capacity quantum-secured
+optical channels in mission-critical metro-scale operational environments using
+Quantum Key Distribution (QKD) technology. To the best of our knowledge, this
+is the first time that an 800 Gbps quantum-secured optical channel -- along
+with several other Dense Wavelength Division Multiplexed (DWDM) channels on the
+C-band and multiplexed with the QKD channel on the O-band -- was established at
+distances up to 100 km, with secret key-rates relevant for practical industry
+use cases. In addition, during the course of these trials, transporting a
+blockchain application over this established channel was utilized as a
+demonstration of securing a financial transaction in transit over a
+quantum-secured optical channel. The findings of this research pave the way
+towards the deployment of QKD-secured optical channels in high-capacity,
+metro-scale, mission-critical operational environments, such as Inter-Data
+Center Interconnects.","Marco Pistoia, Omar Amer, Monik R. Behera, Joseph A. Dolphin, James F. Dynes, Benny John, Paul A. Haigh, Yasushi Kawakura, David H. Kramer, Jeffrey Lyon, Navid Moazzami, Tulasi D. Movva, Antigoni Polychroniadou, Suresh Shetty, Greg Sysak, Farzam Toudeh-Fallah, Sudhir Upadhyay, Robert I. Woodward, Andrew J. Shields",arXiv,"quant-ph, cs.CR, cs.NI, physics.optics"
+"Phase sensitivity at the Heisenberg limit in an SU(1,1) interferometer via parity detection - Dong Li, Bryan T. Gard, Yang Gao3, Chun-Hua Yuan1, Weiping Zhang1, Hwang Lee, Jonathan P. Dowling",https://arxiv.org/abs/1603.09019,,"Phase sensitivity at the Heisenberg limit in an SU(1,1) interferometer
+  via parity detection","We theoretically investigate the phase sensitivity with parity detection on
+an SU(1,1) interferometer with a coherent state combined with a squeezed vacuum
+state. This interferometer is formed with two parametric amplifiers for beam
+splitting and recombination instead of beam splitters. We show that the
+sensitivity of estimation phase approaches Heisenberg limit and give the
+corresponding optimal condition. Moreover, we derive the quantum Cram\'er-Rao
+bound of the SU(1,1) interferometer.","Dong Li, Bryan T. Gard, Yang Gao, Chun-Hua Yuan, Weiping Zhang, Hwang Lee, Jonathan P. Dowling",arXiv,quant-ph
+"Power of sequential protocols in hidden quantum channel discrimination - Sho Sugiura, et.al",https://arxiv.org/pdf/2304.02053.pdf,,Power of sequential protocols in hidden quantum channel discrimination,"In many natural and engineered systems, unknown quantum channels act on a
+subsystem that cannot be directly controlled and measured, but is instead
+learned through a controllable subsystem that weakly interacts with it. We
+study quantum channel discrimination (QCD) under these restrictions, which we
+call hidden system QCD (HQCD). We find that sequential protocols achieve
+perfect discrimination and saturate the Heisenberg limit. In contrast, depth-1
+parallel and multi-shot protocols cannot solve HQCD. This suggests that
+sequential protocols are superior in experimentally realistic situations.","Sho Sugiura, Arkopal Dutt, William J. Munro, Sina Zeytinoğlu, Isaac L. Chuang",arXiv,quant-ph
+Practical Benchmarking of Randomized Measurement Methods for Quantum Chemistry Hamiltonians,https://arxiv.org/pdf/2312.07497.pdf,Measurement & State Estimation,"Practical Benchmarking of Randomized Measurement Methods for Quantum
+  Chemistry Hamiltonians","Many hybrid quantum-classical algorithms for the application of ground state
+energy estimation in quantum chemistry involve estimating the expectation value
+of a molecular Hamiltonian with respect to a quantum state through measurements
+on a quantum device. To guide the selection of measurement methods designed for
+this observable estimation problem, we propose a benchmark called CSHOREBench
+(Common States and Hamiltonians for ObseRvable Estimation Benchmark) that
+assesses the performance of these methods against a set of common molecular
+Hamiltonians and common states encountered during the runtime of hybrid
+quantum-classical algorithms. In CSHOREBench, we account for resource
+utilization of a quantum computer through measurements of a prepared state, and
+a classical computer through computational runtime spent in proposing
+measurements and classical post-processing of acquired measurement outcomes. We
+apply CSHOREBench considering a variety of measurement methods on Hamiltonians
+of size up to 16 qubits. Our discussion is aided by using the framework of
+decision diagrams which provides an efficient data structure for various
+randomized methods and illustrate how to derandomize distributions on decision
+diagrams. In numerical simulations, we find that the methods of decision
+diagrams and derandomization are the most preferable. In experiments on IBM
+quantum devices against small molecules, we observe that decision diagrams
+reduces the number of measurements made by classical shadows by more than 80%,
+that made by locally biased classical shadows by around 57%, and consistently
+require fewer quantum measurements along with lower classical computational
+runtime than derandomization. Furthermore, CSHOREBench is empirically efficient
+to run when considering states of random quantum ansatz with fixed depth.","Arkopal Dutt, William Kirby, Rudy Raymond, Charles Hadfield, Sarah Sheldon, Isaac L. Chuang, Antonio Mezzacapo",arXiv,quant-ph
+Practical randomness and privacy amplification,https://arxiv.org/abs/2009.06551,Quantum Protocol Design,"Practical randomness amplification and privatisation with
+  implementations on quantum computers","We present an end-to-end and practical randomness amplification and
+privatisation protocol based on Bell tests. This allows the building of
+device-independent random number generators which output (near-)perfectly
+unbiased and private numbers, even if using an uncharacterised quantum device
+potentially built by an adversary. Our generation rates are linear in the
+repetition rate of the quantum device and the classical randomness
+post-processing has quasi-linear complexity - making it efficient on a standard
+personal laptop. The statistical analysis is also tailored for real-world
+quantum devices.
+  Our protocol is then showcased on several different quantum computers.
+Although not purposely built for the task, we show that quantum computers can
+run faithful Bell tests by adding minimal assumptions. In this
+semi-device-independent manner, our protocol generates (near-)perfectly
+unbiased and private random numbers on today's quantum computers.","Cameron Foreman, Sherilyn Wright, Alec Edgington, Mario Berta, Florian J. Curchod",arXiv,quant-ph
+Predicting Many Properties of a Quantum System from Very Few Measurements,https://arxiv.org/abs/2002.08953,Experimental Simulating Tools,"Predicting Many Properties of a Quantum System from Very Few
+  Measurements","Predicting properties of complex, large-scale quantum systems is essential
+for developing quantum technologies. We present an efficient method for
+constructing an approximate classical description of a quantum state using very
+few measurements of the state. This description, called a classical shadow, can
+be used to predict many different properties: order $\log M$ measurements
+suffice to accurately predict $M$ different functions of the state with high
+success probability. The number of measurements is independent of the system
+size, and saturates information-theoretic lower bounds. Moreover, target
+properties to predict can be selected after the measurements are completed. We
+support our theoretical findings with extensive numerical experiments. We apply
+classical shadows to predict quantum fidelities, entanglement entropies,
+two-point correlation functions, expectation values of local observables, and
+the energy variance of many-body local Hamiltonians. The numerical results
+highlight the advantages of classical shadows relative to previously known
+methods.","Hsin-Yuan Huang, Richard Kueng, John Preskill",arXiv,"quant-ph, cs.IT, cs.LG, math.IT"
+"Programmable Heisenberg interactions between Floquet qubits - Long B. Nguyen, Yosep Kim, Akel Hashim, Noah Goss, Brian Marinelli, ...",https://arxiv.org/abs/2211.10383,,Programmable Heisenberg interactions between Floquet qubits,"The fundamental trade-off between robustness and tunability is a central
+challenge in the pursuit of quantum simulation and fault-tolerant quantum
+computation. In particular, many emerging quantum architectures are designed to
+achieve high coherence at the expense of having fixed spectra and consequently
+limited types of controllable interactions. Here, by adiabatically transforming
+fixed-frequency superconducting circuits into modifiable Floquet qubits, we
+demonstrate an XXZ Heisenberg interaction with fully adjustable anisotropy.
+This interaction model is on one hand the basis for many-body quantum
+simulation of spin systems, and on the other hand the primitive for an
+expressive quantum gate set. To illustrate the robustness and versatility of
+our Floquet protocol, we tailor the Heisenberg Hamiltonian and implement
+two-qubit iSWAP, CZ, and SWAP gates with estimated fidelities of 99.32(3)%,
+99.72(2)%, and 98.93(5)%, respectively. In addition, we implement a Heisenberg
+interaction between higher energy levels and employ it to construct a
+three-qubit CCZ gate with a fidelity of 96.18(5)%. Importantly, the protocol is
+applicable to various fixed-frequency high-coherence platforms, thereby
+unlocking a suite of essential interactions for high-performance quantum
+information processing. From a broader perspective, our work provides
+compelling avenues for future exploration of quantum electrodynamics and
+optimal control using the Floquet framework.","Long B. Nguyen, Yosep Kim, Akel Hashim, Noah Goss, Brian Marinelli, Bibek Bhandari, Debmalya Das, Ravi K. Naik, John Mark Kreikebaum, Andrew N. Jordan, David I. Santiago, Irfan Siddiqi",arXiv,"quant-ph, cond-mat.supr-con, physics.app-ph"
+Proposal for room-temperature quantum repeaters with nitrogen-vacancy centers and optomechanics,https://arxiv.org/abs/2012.06687,Quantum Repeater Architectures,"Proposal for room-temperature quantum repeaters with nitrogen-vacancy
+  centers and optomechanics","We propose a quantum repeater architecture that can operate under ambient
+conditions. Our proposal builds on recent progress towards non-cryogenic
+spin-photon interfaces based on nitrogen-vacancy centers, which have excellent
+spin coherence times even at room temperature, and optomechanics, which allows
+to avoid phonon-related decoherence and also allows the emitted photons to be
+in the telecom band. We apply the photon number decomposition method to
+quantify the fidelity and the efficiency of entanglement established between
+two remote electron spins. We describe how the entanglement can be stored in
+nuclear spins and extended to long distances via quasi-deterministic
+entanglement swapping operations involving the electron and nuclear spins. We
+furthermore propose schemes to achieve high-fidelity readout of the spin states
+at room temperature using the spin-optomechanics interface. Our work shows that
+long-distance quantum networks made of solid-state components that operate at
+room temperature are within reach of current technological capabilities.","Jia-Wei Ji, Yu-Feng Wu, Stephen C. Wein, Faezeh Kimiaee Asadi, Roohollah Ghobadi, Christoph Simon",arXiv,quant-ph
+Protocols for creating and distilling multipartite GHZ states with Bell pairs,https://arxiv.org/abs/2010.12259,Quantum Protocol Design,"Protocols for creating and distilling multipartite GHZ states with Bell
+  pairs","The distribution of high-quality Greenberger-Horne-Zeilinger (GHZ) states is
+at the heart of many quantum communication tasks, ranging from extending the
+baseline of telescopes to secret sharing. They also play an important role in
+error-correction architectures for distributed quantum computation, where Bell
+pairs can be leveraged to create an entangled network of quantum computers. We
+investigate the creation and distillation of GHZ states out of non-perfect Bell
+pairs over quantum networks. In particular, we introduce a heuristic dynamic
+programming algorithm to optimize over a large class of protocols that create
+and purify GHZ states. All protocols considered use a common framework based on
+measurements of non-local stabilizer operators of the target state (i.e., the
+GHZ state), where each non-local measurement consumes another (non-perfect)
+entangled state as a resource. The new protocols outperform previous proposals
+for scenarios without decoherence and local gate noise. Furthermore, the
+algorithms can be applied for finding protocols for any number of parties and
+any number of entangled pairs involved.","Sébastian de Bone, Runsheng Ouyang, Kenneth Goodenough, David Elkouss",arXiv,quant-ph
+Quantum Computational Supremacy,https://arxiv.org/pdf/1809.07442.pdf,Quantum Supremacy & Computational Advantage,Quantum Computational Supremacy,"The field of quantum algorithms aims to find ways to speed up the solution of
+computational problems by using a quantum computer. A key milestone in this
+field will be when a universal quantum computer performs a computational task
+that is beyond the capability of any classical computer, an event known as
+quantum supremacy. This would be easier to achieve experimentally than
+full-scale quantum computing, but involves new theoretical challenges. Here we
+present the leading proposals to achieve quantum supremacy, and discuss how we
+can reliably compare the power of a classical computer to the power of a
+quantum computer.","Aram W Harrow, Ashley Montanaro",arXiv,quant-ph
+"Quantum Internet Protocol Stack a Comprehensive Survey - Jessica Illiano, Marcello Caleffi, Antonio Manzalini, Angela Sara Cacciapuoti",https://arxiv.org/abs/2202.10894,,Quantum Internet Protocol Stack: a Comprehensive Survey,"Classical Internet evolved exceptionally during the last five decades, from a
+network comprising a few static nodes in the early days to a leviathan
+interconnecting billions of devices. This has been possible by the separation
+of concern principle, for which the network functionalities are organized as a
+stack of layers, each providing some communication functionalities through
+specific network protocols. In this survey, we aim at highlighting the
+impossibility of adapting the classical Internet protocol stack to the Quantum
+Internet, due to the marvels of quantum mechanics. Indeed, the design of the
+Quantum Internet requires a major paradigm shift of the whole protocol stack
+for harnessing the peculiarities of quantum entanglement and quantum
+information. In this context, we first overview the relevant literature about
+Quantum Internet protocol stack. Then, stemming from this, we sheds the light
+on the open problems and required efforts toward the design of an effective and
+complete Quantum Internet protocol stack. To the best of authors' knowledge, a
+survey of this type is the first of its own. What emerges from this analysis is
+that the Quantum Internet, though still in its infancy, is a disruptive
+technology whose design requires an inter-disciplinary effort at the border
+between quantum physics, computer and telecommunications engineering.","Jessica Illiano, Marcello Caleffi, Antonio Manzalini, Angela Sara Cacciapuoti",arXiv,"cs.NI, quant-ph"
+"Quantum Long Short-Term Memory - Samuel Yen-Chi Chen, Shinjae Yoo, Yao-Lung L. Fang",https://arxiv.org/abs/2009.01783,,Quantum Long Short-Term Memory,"Long short-term memory (LSTM) is a kind of recurrent neural networks (RNN)
+for sequence and temporal dependency data modeling and its effectiveness has
+been extensively established. In this work, we propose a hybrid
+quantum-classical model of LSTM, which we dub QLSTM. We demonstrate that the
+proposed model successfully learns several kinds of temporal data. In
+particular, we show that for certain testing cases, this quantum version of
+LSTM converges faster, or equivalently, reaches a better accuracy, than its
+classical counterpart. Due to the variational nature of our approach, the
+requirements on qubit counts and circuit depth are eased, and our work thus
+paves the way toward implementing machine learning algorithms for sequence
+modeling on noisy intermediate-scale quantum (NISQ) devices.","Samuel Yen-Chi Chen, Shinjae Yoo, Yao-Lung L. Fang",arXiv,"quant-ph, cs.LG"
+Quantum Support Vector Machine for Big Data Classification,https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.113.130503,,Quantum Support Vector Machine for Big Data Classification,Unknown,"Patrick Rebentrost, Masoud Mohseni, Seth Lloyd",Physical Review Letters,
+Quantum Switch for the Quantum Internet: Noiseless Communications through Noisy Channels,https://arxiv.org/abs/1907.07432,The Quantum Internet,"Quantum Switch for the Quantum Internet: Noiseless Communications
+  through Noisy Channels","Counter-intuitively, quantum mechanics enables quantum particles to propagate
+simultaneously among multiple space-time trajectories. Hence, a quantum
+information carrier can travel through different communication channels in a
+quantum superposition of different orders, so that the relative time-order of
+the communication channels becomes indefinite. This is realized by utilizing a
+quantum device known as quantum switch. In this paper, we investigate, from a
+communication-engineering perspective, the use of the quantum switch within the
+quantum teleportation process, one of the key functionalities of the Quantum
+Internet. Specifically, a theoretical analysis is conducted to quantify the
+performance gain that can be achieved by employing a quantum switch for the
+entanglement distribution process within the quantum teleportation with respect
+to the case of absence of quantum switch. This analysis reveals that, by
+utilizing the quantum switch, the quantum teleportation is heralded as a
+noiseless communication process with a probability that, remarkably and
+counter-intuitively, increases with the noise levels affecting the
+communication channels considered in the indefinite-order time combination.","Marcello Caleffi, Angela Sara Cacciapuoti",arXiv,"quant-ph, cs.NI"
+Quantum advantage in learning from experiments,https://arxiv.org/abs/2112.00778,Quantum Machine Learning (QML),Quantum advantage in learning from experiments,"Quantum technology has the potential to revolutionize how we acquire and
+process experimental data to learn about the physical world. An experimental
+setup that transduces data from a physical system to a stable quantum memory,
+and processes that data using a quantum computer, could have significant
+advantages over conventional experiments in which the physical system is
+measured and the outcomes are processed using a classical computer. We prove
+that, in various tasks, quantum machines can learn from exponentially fewer
+experiments than those required in conventional experiments. The exponential
+advantage holds in predicting properties of physical systems, performing
+quantum principal component analysis on noisy states, and learning approximate
+models of physical dynamics. In some tasks, the quantum processing needed to
+achieve the exponential advantage can be modest; for example, one can
+simultaneously learn about many noncommuting observables by processing only two
+copies of the system. Conducting experiments with up to 40 superconducting
+qubits and 1300 quantum gates, we demonstrate that a substantial quantum
+advantage can be realized using today's relatively noisy quantum processors.
+Our results highlight how quantum technology can enable powerful new strategies
+to learn about nature.","Hsin-Yuan Huang, Michael Broughton, Jordan Cotler, Sitan Chen, Jerry Li, Masoud Mohseni, Hartmut Neven, Ryan Babbush, Richard Kueng, John Preskill, Jarrod R. McClean",arXiv,"quant-ph, cs.IT, cs.LG, math.IT"
+Quantum algorithm for linear systems of equations,https://arxiv.org/pdf/0811.3171.pdf,Quantum Algorithms,Quantum algorithm for solving linear systems of equations,"Solving linear systems of equations is a common problem that arises both on
+its own and as a subroutine in more complex problems: given a matrix A and a
+vector b, find a vector x such that Ax=b. We consider the case where one
+doesn't need to know the solution x itself, but rather an approximation of the
+expectation value of some operator associated with x, e.g., x'Mx for some
+matrix M. In this case, when A is sparse, N by N and has condition number
+kappa, classical algorithms can find x and estimate x'Mx in O(N sqrt(kappa))
+time. Here, we exhibit a quantum algorithm for this task that runs in poly(log
+N, kappa) time, an exponential improvement over the best classical algorithm.","Aram W. Harrow, Avinatan Hassidim, Seth Lloyd",arXiv,quant-ph
+"Quantum computational advantage using photons - Han-Sen Zhong, Hui Wang, Yu-Hao Deng, Ming-Cheng Chen, Li-Chao Peng, Yi-Han Luo, Jian Qin, ...",https://www.science.org/doi/10.1126/science.abe8770,,Quantum computational advantage using photons,"A light approach to quantum advantage
+          
+            Quantum computational advantage or supremacy is a long-anticipated milestone toward practical quantum computers. Recent work claimed to have reached this point, but subsequent work managed to speed up the classical simulation and pointed toward a sample size–dependent loophole. Quantum computational advantage, rather than being a one-shot experimental proof, will be the result of a long-term competition between quantum devices and classical simulation. Zhong
+            et al.
+            sent 50 indistinguishable single-mode squeezed states into a 100-mode ultralow-loss interferometer and sampled the output using 100 high-efficiency single-photon detectors. By obtaining up to 76-photon coincidence, yielding a state space dimension of about 10
+            30
+            , they measured a sampling rate that is about 10
+            14
+            -fold faster than using state-of-the-art classical simulation strategies and supercomputers.
+          
+          
+            Science
+            , this issue p.
+            1460
+          ","Han-Sen Zhong, Hui Wang, Yu-Hao Deng, Ming-Cheng Chen, Li-Chao Peng, Yi-Han Luo, Jian Qin, Dian Wu, Xing Ding, Yi Hu, Peng Hu, Xiao-Yan Yang, Wei-Jun Zhang, Hao Li, Yuxuan Li, Xiao Jiang, Lin Gan, Guangwen Yang, Lixing You, Zhen Wang, Li Li, Nai-Le Liu, Chao-Yang Lu, Jian-Wei Pan",Science,
+"Quantum computing with photons - introduction to the circuit model, the one way quantum computer, and the fundamental principles of photonic experiments",https://iopscience.iop.org/article/10.1088/0953-4075/48/8/083001,,"Quantum computing with photons: introduction to the circuit model, the one-way quantum computer, and the fundamental principles of photonic experiments",Unknown,Stefanie Barz,"Journal of Physics B: Atomic, Molecular and Optical Physics",
+"Quantum mechanics with real numbers: entanglement, superselection rules and gauges",https://arxiv.org/pdf/2308.05473.pdf,Commercial and Philosophical Views,"Quantum mechanics with real numbers: entanglement, superselection rules
+  and gauges","We show how imaginary numbers in quantum physics can be eliminated by
+enlarging the Hilbert Space followed by an imposition of - what effectively
+amounts to - a superselection rule. We illustrate this procedure with a qubit
+and apply it to the Mach-Zehnder interferometer. The procedure is somewhat
+reminiscent of the constrained quantization of the electromagnetic field,
+where, in order to manifestly comply with relativity, one enlargers the Hilbert
+Space by quantizing the longitudinal and scalar modes, only to subsequently
+introduce a constraint to make sure that they are actually not directly
+observable.",Vlatko Vedral,arXiv,quant-ph
+Quantum Particles and Classical Particles - Nathan Rosen,https://link.springer.com/article/10.1007/BF00735376,,Quantum particles and classical particles,Unknown,Nathan Rosen,Foundations of Physics,
+"Quantum readout error mitigation via deep learning - Jihye Kim, Byungdu Oh, Yonuk Chong, Euyheon Hwang, and Daniel K Park",https://iopscience.iop.org/article/10.1088/1367-2630/ac7b3d,,Quantum readout error mitigation via deep learning,"Abstract
+               Quantum computing devices are inevitably subject to errors. To leverage quantum technologies for computational benefits in practical applications, quantum algorithms and protocols must be implemented reliably under noise and imperfections. Since noise and imperfections limit the size of quantum circuits that can be realized on a quantum device, developing quantum error mitigation techniques that do not require extra qubits and gates is of critical importance. In this work, we present a deep learning-based protocol for reducing readout errors on quantum hardware. Our technique is based on training an artificial neural network (NN) with the measurement results obtained from experiments with simple quantum circuits consisting of singe-qubit gates only. With the NN and deep learning, non-linear noise can be corrected, which is not possible with the existing linear inversion methods. The advantage of our method against the existing methods is demonstrated through quantum readout error mitigation experiments performed on IBM five-qubit quantum devices.","Jihye Kim, Byungdu Oh, Yonuk Chong, Euyheon Hwang, Daniel K Park",New Journal of Physics,
+Quantum states with Einstein-Podolsky-Rosen correlations admitting a hidden-variable model,https://journals.aps.org/pra/pdf/10.1103/PhysRevA.40.4277,Quantum Information Theory,Quantum states with Einstein-Podolsky-Rosen correlations admitting a hidden-variable model,Unknown,Reinhard F. Werner,Physical Review A,
+Quantum walks a comprehensive review - Salvador E. Venegas-Andraca,https://arxiv.org/abs/1201.4780,,Quantum walks: a comprehensive review,"Quantum walks, the quantum mechanical counterpart of classical random walks,
+is an advanced tool for building quantum algorithms that has been recently
+shown to constitute a universal model of quantum computation. Quantum walks is
+now a solid field of research of quantum computation full of exciting open
+problems for physicists, computer scientists, mathematicians and engineers.
+  In this paper we review theoretical advances on the foundations of both
+discrete- and continuous-time quantum walks, together with the role that
+randomness plays in quantum walks, the connections between the mathematical
+models of coined discrete quantum walks and continuous quantum walks, the
+quantumness of quantum walks, a summary of papers published on discrete quantum
+walks and entanglement as well as a succinct review of experimental proposals
+and realizations of discrete-time quantum walks. Furthermore, we have reviewed
+several algorithms based on both discrete- and continuous-time quantum walks as
+well as a most important result: the computational universality of both
+continuous- and discrete- time quantum walks.",Salvador E. Venegas-Andraca,arXiv,"quant-ph, math-ph, math.MP"
+Quantum-Enhanced Data Classification with a Variational Entangled Sensor Network,https://arxiv.org/abs/2006.11962,Quantum Enhanced Sensing & Detection,"Quantum-enhanced data classification with a variational entangled sensor
+  network","Variational quantum circuits (VQCs) built upon noisy intermediate-scale
+quantum (NISQ) hardware, in conjunction with classical processing, constitute a
+promising architecture for quantum simulations, classical optimization, and
+machine learning. However, the required VQC depth to demonstrate a quantum
+advantage over classical schemes is beyond the reach of available NISQ devices.
+Supervised learning assisted by an entangled sensor network (SLAEN) is a
+distinct paradigm that harnesses VQCs trained by classical machine-learning
+algorithms to tailor multipartite entanglement shared by sensors for solving
+practically useful data-processing problems. Here, we report the first
+experimental demonstration of SLAEN and show an entanglement-enabled reduction
+in the error probability for classification of multidimensional radio-frequency
+signals. Our work paves a new route for quantum-enhanced data processing and
+its applications in the NISQ era.","Yi Xia, Wei Li, Quntao Zhuang, Zheshen Zhang",arXiv,"quant-ph, physics.optics"
+"Rate limits in quantum networks with lossy repeaters - Riccardo Laurenza, Nathan Walk, Jens Eisert and Stefao Pirandola",https://arxiv.org/pdf/2110.10168.pdf,,Rate limits in quantum networks with lossy repeaters,"The derivation of ultimate limits to communication over certain quantum
+repeater networks have provided extremely valuable benchmarks for assessing
+near-term quantum communication protocols. However, these bounds are usually
+derived in the limit of ideal devices and leave questions about the performance
+of practical implementations unanswered. To address this challenge, we quantify
+how the presence of loss in repeater stations affect the maximum attainable
+rates for quantum communication over linear repeater chains and more complex
+quantum networks. Extending the framework of node splitting, we model the loss
+introduced at the repeater stations and then prove the corresponding limits. In
+the linear chain scenario we show that, by increasing the number of repeater
+stations, the maximum rate cannot overcome a quantity which solely depends on
+the loss of a single station. We introduce a way of adapting the standard
+machinery for obtaining bounds to this realistic scenario. The difference is
+that whilst ultimate limits for any strategy can be derived given a fixed
+channel, when the repeaters introduce additional decoherence, then the
+effective overall channel is itself a function of the chosen repeater strategy
+(e.g., one-way versus two-way classical communication). Classes of repeater
+strategies can be analysed using additional modelling and the subsequent bounds
+can be interpreted as the optimal rate within that class.","Riccardo Laurenza, Nathan Walk, Jens Eisert, Stefano Pirandola",arXiv,quant-ph
+Real-time quantum error correction beyond break-even,https://arxiv.org/abs/2211.09116,Quantum Error Correction,Real-time quantum error correction beyond break-even,"The ambition of harnessing the quantum for computation is at odds with the
+fundamental phenomenon of decoherence. The purpose of quantum error correction
+(QEC) is to counteract the natural tendency of a complex system to decohere.
+This cooperative process, which requires participation of multiple quantum and
+classical components, creates a special type of dissipation that removes the
+entropy caused by the errors faster than the rate at which these errors corrupt
+the stored quantum information. Previous experimental attempts to engineer such
+a process faced an excessive generation of errors that overwhelmed the
+error-correcting capability of the process itself. Whether it is practically
+possible to utilize QEC for extending quantum coherence thus remains an open
+question. We answer it by demonstrating a fully stabilized and error-corrected
+logical qubit whose quantum coherence is significantly longer than that of all
+the imperfect quantum components involved in the QEC process, beating the best
+of them with a coherence gain of $G = 2.27 \pm 0.07$. We achieve this
+performance by combining innovations in several domains including the
+fabrication of superconducting quantum circuits and model-free reinforcement
+learning.","V. V. Sivak, A. Eickbusch, B. Royer, S. Singh, I. Tsioutsios, S. Ganjam, A. Miano, B. L. Brock, A. Z. Ding, L. Frunzio, S. M. Girvin, R. J. Schoelkopf, M. H. Devoret",arXiv,quant-ph
+"Realization of Real-Time Fault-Tolerant Quantum Error Correction - C. Ryan-Anderson, J. G. Bohnet, K. Lee, D. Gresh, A. Hankin, J. P. Gaebler, Francois, A. Chernoguzov, ...",https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.041058,,Realization of Real-Time Fault-Tolerant Quantum Error Correction,Unknown,"C. Ryan-Anderson, J. G. Bohnet, K. Lee, D. Gresh, A. Hankin, J. P. Gaebler, D. Francois, A. Chernoguzov, D. Lucchetti, N. C. Brown, T. M. Gatterman, S. K. Halit, K. Gilmore, J. A. Gerber, B. Neyenhuis, D. Hayes, R. P. Stutz",Physical Review X,
+Rearrangement of single atoms in a 2000-site optical tweezers array at cryogenic temperatures,https://arxiv.org/pdf/2405.19503,,"Rearrangement of single atoms in a 2000-site optical tweezers array at
+  cryogenic temperatures","We report on the trapping of single rubidium atoms in large arrays of optical
+tweezers comprising up to 2088 sites in a cryogenic environment at 6 K. Our
+approach relies on the use of microscope objectives that are in-vacuum but at
+room temperature, in combination with windowless thermal shields into which the
+objectives are protruding to ensure a cryogenic environment for the trapped
+atoms. To achieve enough optical power for efficient trapping, we combine two
+lasers at slightly different wavelengths. We discuss the performance and
+limitations of our design. Finally, we demonstrate atom-by-atom rearrangement
+of an 828-atom target array using moving optical tweezers controlled by a
+field-programmable gate array.","Grégoire Pichard, Desiree Lim, Etienne Bloch, Julien Vaneecloo, Lilian Bourachot, Gert-Jan Both, Guillaume Mériaux, Sylvain Dutartre, Richard Hostein, Julien Paris, Bruno Ximenez, Adrien Signoles, Antoine Browaeys, Thierry Lahaye, Davide Dreon",arXiv,"physics.atom-ph, cond-mat.quant-gas, quant-ph"
+Resource savings from fault-tolerant circuit design,https://arxiv.org/pdf/2311.02132.pdf,Quantum Error Correction,Resource savings from fault-tolerant circuit design,"Using fault-tolerant constructions, computations performed with unreliable
+components can simulate their noiseless counterparts though the introduction of
+a modest amount of redundancy. Given the modest overhead required to achieve
+fault-tolerance, and the fact that increasing the reliability of basic
+components often comes at a cost, are there situations where fault-tolerance
+may be more economical? We present a general framework to account for this
+overhead cost in order to effectively compare fault-tolerant to
+non-fault-tolerant approaches for computation, in the limit of small logical
+error rates. Using this detailed accounting, we determine explicit boundaries
+at which fault-tolerant designs become more efficient than designs that achieve
+comparable reliability through direct consumption of resources. We find that
+the fault-tolerant construction is always preferred in the limit of high
+reliability in cases where the resources required to construct a basic unit
+grows faster than $\log(1 / \epsilon)$ asymptotically for small $\epsilon$.","Andrew K. Tan, Isaac L. Chuang",arXiv,"cs.CE, cs.IT, math.IT"
+"Review of Distributed Quantum Computing. From single QPU to High Performance Quantum Computing - David Barral, et. al.",https://arxiv.org/abs/2404.01265,,"Review of Distributed Quantum Computing. From single QPU to High
+  Performance Quantum Computing","The emerging field of quantum computing has shown it might change how we
+process information by using the unique principles of quantum mechanics. As
+researchers continue to push the boundaries of quantum technologies to
+unprecedented levels, distributed quantum computing raises as an obvious path
+to explore with the aim of boosting the computational power of current quantum
+systems. This paper presents a comprehensive survey of the current state of the
+art in the distributed quantum computing field, exploring its foundational
+principles, landscape of achievements, challenges, and promising directions for
+further research. From quantum communication protocols to entanglement-based
+distributed algorithms, each aspect contributes to the mosaic of distributed
+quantum computing, making it an attractive approach to address the limitations
+of classical computing. Our objective is to provide an exhaustive overview for
+experienced researchers and field newcomers.","David Barral, F. Javier Cardama, Guillermo Díaz, Daniel Faílde, Iago F. Llovo, Mariamo Mussa Juane, Jorge Vázquez-Pérez, Juan Villasuso, César Piñeiro, Natalia Costas, Juan C. Pichel, Tomás F. Pena, Andrés Gómez",arXiv,"quant-ph, cs.ET"
+Room temperature quantum key distribution characteristics of low‑noise InGaAs/InP single‑photon avalanche diode,https://link.springer.com/article/10.1007/s40042-021-00111-4,Quantum Hardware & Implementation,Room temperature quantum key distribution characteristics of low-noise InGaAs/InP single-photon avalanche diode,Unknown,"Soo-Hyun Baek, Seung-Chul Yang, Chan-Yong Park, Chul-Woo Park, Seok-Beom Cho, Sang-Wan Ryu",Journal of the Korean Physical Society,
+Scaling silicon-based quantum computing using CMOS technology,https://arxiv.org/abs/2011.11753,Silicon Based Technologies,"Scaling silicon-based quantum computing using CMOS technology:
+  State-of-the-art, Challenges and Perspectives","Complementary metal-oxide semiconductor (CMOS) technology has radically
+reshaped the world by taking humanity to the digital age. Cramming more
+transistors into the same physical space has enabled an exponential increase in
+computational performance, a strategy that has been recently hampered by the
+increasing complexity and cost of miniaturization. To continue achieving
+significant gains in computing performance, new computing paradigms, such as
+quantum computing, must be developed. However, finding the optimal physical
+system to process quantum information, and scale it up to the large number of
+qubits necessary to build a general-purpose quantum computer, remains a
+significant challenge. Recent breakthroughs in nanodevice engineering have
+shown that qubits can now be manufactured in a similar fashion to silicon
+field-effect transistors, opening an opportunity to leverage the know-how of
+the CMOS industry to address the scaling challenge. In this article, we focus
+on the analysis of the scaling prospects of quantum computing systems based on
+CMOS technology.","M. F. Gonzalez-Zalba, S. de Franceschi, E. Charbon, T. Meunier, M. Vinet, A. S. Dzurak",arXiv,"quant-ph, cond-mat.mes-hall"
+"SeQUeNCe a customizable discrete-event simulator of quantum networks - Xiaoliang Wu, Alexander Kolar, Joaquin Chung, Dong Jin,, Tian Zhong, ...",https://arxiv.org/abs/2009.12000,,SeQUeNCe: A Customizable Discrete-Event Simulator of Quantum Networks,"Recent advances in quantum information science enabled the development of
+quantum communication network prototypes and created an opportunity to study
+full-stack quantum network architectures. This work develops SeQUeNCe, a
+comprehensive, customizable quantum network simulator. Our simulator consists
+of five modules: Hardware models, Entanglement Management protocols, Resource
+Management, Network Management, and Application. This framework is suitable for
+simulation of quantum network prototypes that capture the breadth of current
+and future hardware technologies and protocols. We implement a comprehensive
+suite of network protocols and demonstrate the use of SeQUeNCe by simulating a
+photonic quantum network with nine routers equipped with quantum memories. The
+simulation capabilities are illustrated in three use cases. We show the
+dependence of quantum network throughput on several key hardware parameters and
+study the impact of classical control message latency. We also investigate
+quantum memory usage efficiency in routers and demonstrate that redistributing
+memory according to anticipated load increases network capacity by 69.1% and
+throughput by 6.8%. We design SeQUeNCe to enable comparisons of alternative
+quantum network technologies, experiment planning, and validation and to aid
+with new protocol design. We are releasing SeQUeNCe as an open source tool and
+aim to generate community interest in extending it.","Xiaoliang Wu, Alexander Kolar, Joaquin Chung, Dong Jin, Tian Zhong, Rajkumar Kettimuthu, Martin Suchara",arXiv,quant-ph
+Single-shot Quantum Signal Processing Interferometry,https://arxiv.org/pdf/2311.13703.pdf,Programmable Quantum Gates,Single-shot Quantum Signal Processing Interferometry,"Quantum systems of infinite dimension, such as bosonic oscillators, provide
+vast resources for quantum sensing. Yet, a general theory on how to manipulate
+such bosonic modes for sensing beyond parameter estimation is unknown. We
+present a general algorithmic framework, quantum signal processing
+interferometry (QSPI), for quantum sensing at the fundamental limits of quantum
+mechanics by generalizing Ramsey-type interferometry. Our QSPI sensing protocol
+relies on performing nonlinear polynomial transformations on the oscillator's
+quadrature operators by generalizing quantum signal processing (QSP) from
+qubits to hybrid qubit-oscillator systems. We use our QSPI sensing framework to
+make efficient binary decisions on a displacement channel in the single-shot
+limit. Theoretical analysis suggests the sensing accuracy, given a single-shot
+qubit measurement, scales inversely with the sensing time or circuit depth of
+the algorithm. We further concatenate a series of such binary decisions to
+perform parameter estimation in a bit-by-bit fashion. Numerical simulations are
+performed to support these statements. Our QSPI protocol offers a unified
+framework for quantum sensing using continuous-variable bosonic systems beyond
+parameter estimation and establishes a promising avenue toward efficient and
+scalable quantum control and quantum sensing schemes beyond the NISQ era.","Jasmine Sinanan-Singh, Gabriel L. Mintzer, Isaac L. Chuang, Yuan Liu",arXiv,"quant-ph, eess.SP"
+Solitons near avoided mode crossings in χ(2) nanowaveguides,https://arxiv.org/abs/2108.08563,Silicon Based Technologies,Solitons near avoided mode crossing in $χ^{(2)}$ nanowaveguides,"We present a model for $\chi^{(2)}$ waveguides accounting for three modes,
+two of which make an avoided crossing at the second harmonic wavelength. We
+introduce two linearly coupled pure modes and adjust the coupling to replicate
+the waveguide dispersion near the avoided crossing. Analysis of the nonlinear
+system reveals continuous wave (CW) solutions across much of the
+parameter-space and prevalence of its modulational instability. We also predict
+the existence of the avoided-crossing solitons, and study peculiarities of
+their dynamics and spectral properties, which include formation of a pedestal
+in the pulse tails and associated pronounced spectral peaks. Mapping these
+solitons onto the linear dispersion diagrams, we make connections between their
+existence and CW existence and stability. We also simulate the two-color
+soliton generation from a single frequency pump pulse to back up its formation
+and stability properties.","William R. Rowe, Andrey V. Gorbach, Dmitry V. Skryabin",arXiv,"physics.optics, nlin.PS"
+Stim: a fast stabilizer circuit simulator -Craig Gidney,https://arxiv.org/abs/2103.02202v3,,Stim: a fast stabilizer circuit simulator,"This paper presents ``Stim"", a fast simulator for quantum stabilizer
+circuits. The paper explains how Stim works and compares it to existing tools.
+With no foreknowledge, Stim can analyze a distance 100 surface code circuit (20
+thousand qubits, 8 million gates, 1 million measurements) in 15 seconds and
+then begin sampling full circuit shots at a rate of 1 kHz. Stim uses a
+stabilizer tableau representation, similar to Aaronson and Gottesman's CHP
+simulator, but with three main improvements. First, Stim improves the
+asymptotic complexity of deterministic measurement from quadratic to linear by
+tracking the {\em inverse} of the circuit's stabilizer tableau. Second, Stim
+improves the constant factors of the algorithm by using a cache-friendly data
+layout and 256 bit wide SIMD instructions. Third, Stim only uses expensive
+stabilizer tableau simulation to create an initial reference sample. Further
+samples are collected in bulk by using that sample as a reference for batches
+of Pauli frames propagating through the circuit.",Craig Gidney,arXiv,quant-ph
+"Subsystem codes with high thresholds by gauge fixing and reduced qubit overhead - Oscar Higgott, Nikolas P. Breuckmann",https://arxiv.org/abs/2010.09626,,"Subsystem codes with high thresholds by gauge fixing and reduced qubit
+  overhead","We introduce a technique that uses gauge fixing to significantly improve the
+quantum error correcting performance of subsystem codes. By changing the order
+in which check operators are measured, valuable additional information can be
+gained, and we introduce a new method for decoding which uses this information
+to improve performance. Applied to the subsystem toric code with three-qubit
+check operators, we increase the threshold under circuit-level depolarising
+noise from $0.67\%$ to $0.81\%$. The threshold increases further under a
+circuit-level noise model with small finite bias, up to $2.22\%$ for infinite
+bias. Furthermore, we construct families of finite-rate subsystem LDPC codes
+with three-qubit check operators and optimal-depth parity-check measurement
+schedules. To the best of our knowledge, these finite-rate subsystem codes
+outperform all known codes at circuit-level depolarising error rates as high as
+$0.2\%$, where they have a qubit overhead that is $4.3\times$ lower than the
+most efficient version of the surface code and $5.1\times$ lower than the
+subsystem toric code. Their threshold and pseudo-threshold exceeds $0.42\%$ for
+circuit-level depolarising noise, increasing to $2.4\%$ under infinite bias
+using gauge fixing.","Oscar Higgott, Nikolas P. Breuckmann",arXiv,quant-ph
+"Supervised learning with quantum enhanced feature spaces - Vojtech Havlicek, et.al",https://arxiv.org/pdf/1804.11326.pdf,,Supervised learning with quantum enhanced feature spaces,"Machine learning and quantum computing are two technologies each with the
+potential for altering how computation is performed to address previously
+untenable problems. Kernel methods for machine learning are ubiquitous for
+pattern recognition, with support vector machines (SVMs) being the most
+well-known method for classification problems. However, there are limitations
+to the successful solution to such problems when the feature space becomes
+large, and the kernel functions become computationally expensive to estimate. A
+core element to computational speed-ups afforded by quantum algorithms is the
+exploitation of an exponentially large quantum state space through controllable
+entanglement and interference. Here, we propose and experimentally implement
+two novel methods on a superconducting processor. Both methods represent the
+feature space of a classification problem by a quantum state, taking advantage
+of the large dimensionality of quantum Hilbert space to obtain an enhanced
+solution. One method, the quantum variational classifier builds on [1,2] and
+operates through using a variational quantum circuit to classify a training set
+in direct analogy to conventional SVMs. In the second, a quantum kernel
+estimator, we estimate the kernel function and optimize the classifier
+directly. The two methods present a new class of tools for exploring the
+applications of noisy intermediate scale quantum computers [3] to machine
+learning.","Vojtech Havlicek, Antonio D. Córcoles, Kristan Temme, Aram W. Harrow, Abhinav Kandala, Jerry M. Chow, Jay M. Gambetta",arXiv,"quant-ph, stat.ML"
+Surface codes: Towards practical large-scale quantum computation,https://arxiv.org/abs/1208.0928,Quantum Error Correction,Surface codes: Towards practical large-scale quantum computation,"This article provides an introduction to surface code quantum computing. We
+first estimate the size and speed of a surface code quantum computer. We then
+introduce the concept of the stabilizer, using two qubits, and extend this
+concept to stabilizers acting on a two-dimensional array of physical qubits, on
+which we implement the surface code. We next describe how logical qubits are
+formed in the surface code array and give numerical estimates of their
+fault-tolerance. We outline how logical qubits are physically moved on the
+array, how qubit braid transformations are constructed, and how a braid between
+two logical qubits is equivalent to a controlled-NOT. We then describe the
+single-qubit Hadamard, S and T operators, completing the set of required gates
+for a universal quantum computer. We conclude by briefly discussing physical
+implementations of the surface code. We include a number of appendices in which
+we provide supplementary information to the main text.","Austin G. Fowler, Matteo Mariantoni, John M. Martinis, Andrew N. Cleland",arXiv,quant-ph
+Symmetry-invariant quantum machine learning force fields,https://arxiv.org/abs/2311.11362,Quantum Machine Learning (QML),Symmetry-invariant quantum machine learning force fields,"Machine learning techniques are essential tools to compute efficient, yet
+accurate, force fields for atomistic simulations. This approach has recently
+been extended to incorporate quantum computational methods, making use of
+variational quantum learning models to predict potential energy surfaces and
+atomic forces from ab initio training data. However, the trainability and
+scalability of such models are still limited, due to both theoretical and
+practical barriers. Inspired by recent developments in geometric classical and
+quantum machine learning, here we design quantum neural networks that
+explicitly incorporate, as a data-inspired prior, an extensive set of
+physically relevant symmetries. We find that our invariant quantum learning
+models outperform their more generic counterparts on individual molecules of
+growing complexity. Furthermore, we study a water dimer as a minimal example of
+a system with multiple components, showcasing the versatility of our proposed
+approach and opening the way towards larger simulations. Our results suggest
+that molecular force fields generation can significantly profit from leveraging
+the framework of geometric quantum machine learning, and that chemical systems
+represent, in fact, an interesting and rich playground for the development and
+application of advanced quantum machine learning tools.","Isabel Nha Minh Le, Oriel Kiss, Julian Schuhmacher, Ivano Tavernelli, Francesco Tacchino",arXiv,"quant-ph, cs.LG, physics.chem-ph, physics.comp-ph"
+Teleportation of entanglement over 143 km,https://arxiv.org/abs/1403.0009,Quantum Entanglement & Teleportation,Teleportation of entanglement over 143 km,"As a direct consequence of the no-cloning theorem, the deterministic
+amplification as in classical communication is impossible for quantum states.
+This calls for more advanced techniques in a future global quantum network,
+e.g. for cloud quantum computing. A unique solution is the teleportation of an
+entangled state, i.e. entanglement swapping, representing the central resource
+to relay entanglement between distant nodes. Together with entanglement
+purification and a quantum memory it constitutes a so-called quantum repeater.
+Since the aforementioned building blocks have been individually demonstrated in
+laboratory setups only, the applicability of the required technology in
+real-world scenarios remained to be proven. Here we present a free-space
+entanglement-swapping experiment between the Canary Islands of La Palma and
+Tenerife, verifying the presence of quantum entanglement between two previously
+independent photons separated by 143 km. We obtained an expectation value for
+the entanglement-witness operator, more than 6 standard deviations beyond the
+classical limit. By consecutive generation of the two required photon pairs and
+space-like separation of the relevant measurement events, we also showed the
+feasibility of the swapping protocol in a long-distance scenario, where the
+independence of the nodes is highly demanded. Since our results already allow
+for efficient implementation of entanglement purification, we anticipate our
+assay to lay the ground for a fully-fledged quantum repeater over a realistic
+high-loss and even turbulent quantum channel.","Thomas Herbst, Thomas Scheidl, Matthias Fink, Johannes Handsteiner, Bernhard Wittmann, Rupert Ursin, Anton Zeilinger",arXiv,"quant-ph, physics.optics"
+"The Computational and Latency Advantage of Quantum Communication Networks - Roberto Ferrara, Riccardo Bassoli, Christian Deppe, Frank H.P. Fitzek and Holger Boche",https://arxiv.org/pdf/2106.03360.pdf,,"The Computational and Latency Advantage of Quantum Communication
+  Networks","This article summarises the current status of classical communication
+networks and identifies some critical open research challenges that can only be
+solved by leveraging quantum technologies. By now, the main goal of quantum
+communication networks has been security. However, quantum networks can do more
+than just exchange secure keys or serve the needs of quantum computers. In
+fact, the scientific community is still investigating on the possible use
+cases/benefits that quantum communication networks can bring. Thus, this
+article aims at pointing out and clearly describing how quantum communication
+networks can enhance in-network distributed computing and reduce the overall
+end-to-end latency, beyond the intrinsic limits of classical technologies.
+Furthermore, we also explain how entanglement can reduce the communication
+complexity (overhead) that future classical virtualised networks will
+experience.","Roberto Ferrara, Riccardo Bassoli, Christian Deppe, Frank H. P. Fitzek, Holger Boche",arXiv,"cs.IT, math.IT, quant-ph"
+"The SWAP test and the Hong-Ou-Mandel effect are equivalent - Juan Carlos Garcia-Escartin, Pedro Chamorro-Posada",https://arxiv.org/abs/1303.6814,,The SWAP test and the Hong-Ou-Mandel effect are equivalent,"We show that the Hong-Ou-Mandel effect from quantum optics is equivalent to
+the SWAP test, a quantum information primitive which compares two arbitrary
+states. We first derive a destructive SWAP test that doesn't need the ancillary
+qubit that appears in the usual quantum circuit. Then, we study the
+Hong-Ou-Mandel effect for two photons meeting at a beam splitter and prove it
+is, in fact, an optical implementation of the destructive SWAP test. This
+result offers both an interesting simple realization of a powerful quantum
+information primitive and an alternative way to understand and analyse the
+Hong-Ou-Mandel effect.","Juan Carlos Garcia-Escartin, Pedro Chamorro-Posada",arXiv,quant-ph
+"The_Virtual_Quantum_Optics_Laboratory - Brian R. La Cour, Maria Maynard, Parth Shroff, Gabriel Ko, Evan Ellis",https://arxiv.org/abs/2105.07300,,The Virtual Quantum Optics Laboratory,"We present a web-based software tool, the Virtual Quantum Optics Laboratory
+(VQOL), that may be used for designing and executing realistic simulations of
+quantum optics experiments. A graphical user interface allows one to rapidly
+build and configure a variety of different optical experiments, while the
+runtime environment provides unique capabilities for visualization and
+analysis. All standard linear optical components are available as well as
+sources of thermal, coherent, and entangled Gaussian states. A unique aspect of
+VQOL is the introduction of non-Gaussian measurements using detectors modeled
+as deterministic devices that ""click"" when the amplitude of the light falls
+above a given threshold. We describe the underlying theoretical models and
+provide several illustrative examples. We find that VQOL provides a a faithful
+representation of many experimental quantum optics phenomena and may serve as
+both a useful instructional tool for students as well as a valuable research
+tool for practitioners.","Brian R. La Cour, Maria Maynard, Parth Shroff, Gabriel Ko, Evan Ellis",arXiv,quant-ph
+The information-theoretic foundation of thermodynamic work extraction,https://arxiv.org/abs/2009.04588,Physical Information,The information-theoretic foundation of thermodynamic work extraction,"In this paper I apply newly-proposed information-theoretic principles to
+thermodynamic work extraction. I show that if it is possible to extract work
+deterministically from a physical system prepared in any one of a set of
+states, then those states must be distinguishable from one another. This result
+is formulated independently of scale and of particular dynamical laws; it also
+provides a novel connection between thermodynamics and information theory,
+established via the law of conservation of energy (rather than the second law
+of thermodynamics). Albeit compatible with these conclusions, existing
+thermodynamics approaches cannot provide a result of such generality, because
+they are scale-dependent (relying on ensembles or coarse-graining) or tied to
+particular dynamical laws. This paper thus provides a broader foundation for
+thermodynamics, with implications for the theory of von Neumann's universal
+constructor",Chiara Marletto,arXiv,"quant-ph, physics.comp-ph"
+The role of quantum information in thermodynamics,https://arxiv.org/abs/1505.07835,Physical Information,The role of quantum information in thermodynamics --- a topical review,"This topical review article gives an overview of the interplay between
+quantum information theory and thermodynamics of quantum systems. We focus on
+several trending topics including the foundations of statistical mechanics,
+resource theories, entanglement in thermodynamic settings, fluctuation theorems
+and thermal machines. This is not a comprehensive review of the diverse field
+of quantum thermodynamics; rather, it is a convenient entry point for the
+thermo-curious information theorist. Furthermore this review should facilitate
+the unification and understanding of different interdisciplinary approaches
+emerging in research groups around the world.","John Goold, Marcus Huber, Arnau Riera, Lídia del Rio, Paul Skrzypczyk",arXiv,quant-ph
+"Tutorial: Remote entanglement protocols for stationary qubits with photonic interfaces - Hans K.C. Beukers, et.al.",https://arxiv.org/pdf/2310.19878.pdf,,"Tutorial: Remote entanglement protocols for stationary qubits with
+  photonic interfaces","Generating entanglement between distant quantum systems is at the core of
+quantum networking. In recent years, numerous theoretical protocols for remote
+entanglement generation have been proposed, of which many have been
+experimentally realized. Here, we provide a modular theoretical framework to
+elucidate the general mechanisms of photon-mediated entanglement generation
+between single spins in atomic or solid-state systems. Our framework
+categorizes existing protocols at various levels of abstraction and allows for
+combining the elements of different schemes in new ways. These abstraction
+layers make it possible to readily compare protocols for different quantum
+hardware. To enable the practical evaluation of protocols tailored to specific
+experimental parameters, we have devised numerical simulations based on the
+framework with our codes available online.","Hans K. C. Beukers, Matteo Pasini, Hyeongrak Choi, Dirk Englund, Ronald Hanson, Johannes Borregaard",arXiv,quant-ph
+"Two-photon interference the Hong-Ou-Mandel effect - FrédÉric Bouchard, Alicia Sit, Yingwen Zhang, Robert Fickler, Filippo M. Miatto,...",https://arxiv.org/abs/2006.09335,,Two-photon interference: the Hong-Ou-Mandel effect,"Nearly 30 years ago, two-photon interference was observed, marking the
+beginning of a new quantum era. Indeed, two-photon interference has no
+classical analogue, giving it a distinct advantage for a range of applications.
+The peculiarities of quantum physics may now be used to our advantage to
+outperform classical computations, securely communicate information, simulate
+highly complex physical systems and increase the sensitivity of precise
+measurements. This separation from classical to quantum physics has motivated
+physicists to study two-particle interference for both fermionic and bosonic
+quantum objects. So far, two-particle interference has been observed with
+massive particles, among others, such as electrons and atoms, in addition to
+plasmons, demonstrating the extent of this effect to larger and more complex
+quantum systems. A wide array of novel applications to this quantum effect is
+to be expected in the future. This review will thus cover the progress and
+applications of two-photon (two-particle) interference over the last three
+decades.","FrédÉric Bouchard, Alicia Sit, Yingwen Zhang, Robert Fickler, Filippo M. Miatto, Yuan Yao, Fabio Sciarrino, Ebrahim Karimi",arXiv,"quant-ph, physics.optics"
+Energy & Information - Myron Tribus and Edward C. McIrvine,https://www.jstor.org/stable/24923125?saml_data=eyJzYW1sVG9rZW4iOiIzYThiNDZlMi1iZGVhLTRlMGQtOGExOC03YzQ2ZDZkNzQyNWQiLCJpbnN0aXR1dGlvbklkcyI6WyJiN2JlMjYxZS1hOWVhLTRiZGYtOWVjNS00ZWVkN2NhNTI5NzIiXX0#metadata_info_tab_contents,,Unknown,Unknown,Unknown,Unknown,Unknown
+"Simple Proof of Security of the BB84 Quantum Key Distribution Protocol -Peter W. Shor, John Preskill",https://arxiv.org/abs/quant-ph/0003004,,Unknown,Unknown,Unknown,Unknown,Unknown
+2D materials for quantum information science,https://www.nature.com/articles/s41578-019-0136-x,Quantum Hardware & Implementation,Unknown,Unknown,Unknown,Unknown,Unknown
+Energy & Information,https://www.jstor.org/stable/24923125,Physical Information,Unknown,Unknown,Unknown,Unknown,Unknown
+"Entanglement in Many-Body Systems - Luigi Amico, Rosario Fazio, Vlatko Vedral",https://arxiv.org/pdf/quant-ph/0703044.pdf,,Unknown,Unknown,Unknown,Unknown,Unknown
+Establishing the quantum supremacy frontier with a 281 Pflop/s simulation,https://iopscience.iop.org/article/10.1088/2058-9565/ab7eeb/pdf?casa_token=fqUuMeRiHW8AAAAA:-qCFEf4B8q71vIHgiBtzWC_CMtpzILLTB5PaGoVOSn-EugRt6crwFnEY65HH3AwY_zVOkq2gmQ,,Unknown,Unknown,Unknown,Unknown,Unknown
+Energy-Efficient Superconducting Computing—Power Budgets and Requirements,https://ieeexplore.ieee.org/abstract/document/6449287,,Unknown,Unknown,Unknown,Unknown,Unknown
+"Scheme for reducing decoherence in quantum computer memory, Peter W. Shor",https://www.cs.miami.edu/home/burt/learning/Csc670.052/pR2493_1.pdf,,Unknown,Unknown,Unknown,Unknown,Unknown
+"Experimental violation of Bell inequalities for multi-dimensional systems - Hsin-Pin Lo1, Che-Ming Li2, AtsushiYabushita1, Yueh-NanChen3, Chih-Wei Luo1 & Takayoshi Kobayashi",https://www.nature.com/articles/srep22088,,Unknown,Unknown,Unknown,Unknown,Unknown
+Quantum information processing with bosonic qubits in circuit QED,https://iopscience.iop.org/article/10.1088/2058-9565/abe989/pdf,Quantum Hardware & Implementation,Unknown,Unknown,Unknown,Unknown,Unknown
+Quantum Computing,https://arxiv.org/abs/quant-ph/9708022,Quantum Computing Fundamentals,Unknown,Unknown,Unknown,Unknown,Unknown
+The Future of Quantum Computing with Superconducting Qubits,https://pubs.aip.org/aip/jap/article/132/16/160902/2837574/,Quantum Computing Fundamentals,Unknown,Unknown,Unknown,Unknown,Unknown
+"Experimental exploration of five-qubit quantum error-correcting code with superconducting qubits - Ming Gong, Xiao Yuan, Shiyu Wang, Yulin Wu, ...",https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiH6f7Sk8n5AhW6S0EAHYpcCL0QFnoECAsQAQ&url=https%3A%2F%2Fora.ox.ac.uk%2Fobjects%2Fuuid%3A5b2e5204-7746-4569-807e-77654a77313a%2Ffiles%2Fs0v838175c&usg=AOvVaw3l2-7GFf0m6Fw14IpYljjx,,Unknown,Unknown,Unknown,Unknown,Unknown
+An energy efficient multipliers using reversible gates,https://www.researchgate.net/publication/347857423_An_energy_efficient_multipliers_using_reversible_gates,,Unknown,Unknown,Unknown,Unknown,Unknown
+A generalization of the stabilizer formalism for simulating arbitrary quantum circuits - Theodore J. Yoder,https://www.scottaaronson.com/showcase2/report/ted-yoder.pdf,,Unknown,Unknown,Unknown,Unknown,Unknown
+Quantum Optical Neural Networks (Patent Application),https://patentimages.storage.googleapis.com/fa/61/94/ec20dc003a6517/US20200372334A1.pdf,Quantum Neural Networks (QNNs),Unknown,Unknown,Unknown,Unknown,Unknown
+Quantum computing at the frontiers of biological sciences,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8254820/,Quantum Computing Fundamentals,Unknown,Unknown,Unknown,Unknown,Unknown
+A Review of Quantum Computer Energy Efficiency,https://ieeexplore.ieee.org/abstract/document/8767125,Quantum Hardware & Implementation,Unknown,Unknown,Unknown,Unknown,Unknown
+Linear growth of quantum circuit complexity,https://www.nature.com/articles/s41567-022-01539-6,Quantum Algorithms,Unknown,Unknown,Unknown,Unknown,Unknown
+Solid-state single-photon emitters,http://ciqm.harvard.edu/uploads/2/3/3/4/23349210/aharanovich_2016.pdf,Quantum Hardware & Implementation,Unknown,Unknown,Unknown,Unknown,Unknown
+Green Networking Metrics,https://github.com/intarchboard/e-impact-workshop-public/blob/main/papers/Clemm-Dong-Mirsky-Ciavaglia-Tantsura-Odini_Green-Networking-Metrics.pdf,Energy & Sustainability in Quantum Computing,Unknown,Unknown,Unknown,Unknown,Unknown
+"18th Conference on the Theory of Quantum Computation, Communication and Cryptography",https://inspirehep.net/files/36042b35a0a8b68d0c63390592af9491,,Unknown,Unknown,Unknown,Unknown,Unknown
+"A Preprocessing Perspective for Quantum Machine Learning Classification Advantage in Finance Using NISQ Algorithms - Javier Mancilla, Christophe Pere",https://www.mdpi.com/1099-4300/24/11/1656,,Unknown,Unknown,Unknown,Unknown,Unknown
+A Tutorial on Quantum Error Correction - Andrew M. Steane,https://www2.physics.ox.ac.uk/sites/default/files/ErrorCorrectionSteane06.pdf,,Unknown,Unknown,Unknown,Unknown,Unknown
+"An Algebraic Language for Distributed Quantum Computing - Mingsheng Ying, Yuan Feng",https://ieeexplore.ieee.org/document/4745631,,Unknown,Unknown,Unknown,Unknown,Unknown
+Photonic resource state generation from a minimal number of quantum emitters,https://www.nature.com/articles/s41534-022-00522-6,Quantum Photonics,Unknown,Unknown,Unknown,Unknown,Unknown
+Advances in Silicon Quantum Photonics - Jeremy C. Adcock; Jueming Bao; Yulin Chi; Xiaojiong Chen; Davide Bacco; Qihuang,https://ieeexplore.ieee.org/document/9205209/authors#authors,,Unknown,Unknown,Unknown,Unknown,Unknown
+"Error Correcting Codes in Quantum Theory, Andrew Steane",https://users.physics.ox.ac.uk/~Steane/pubs/Steane_PRL95.pdf,,Unknown,Unknown,Unknown,Unknown,Unknown
+The Physical Implementation of Quantum Computation,https://arxiv.org/abs/quant-ph/0002077,Quantum Computing Fundamentals,Unknown,Unknown,Unknown,Unknown,Unknown
+Quantum computational advantage with a programmable photonic processor,https://www.nature.com/articles/s41586-022-04725-x,Quantum Supremacy & Computational Advantage,Unknown,Unknown,Unknown,Unknown,Unknown
+The Everything-Is-a-Quantum-Wave Interpretation of Quantum Physics - Vlatko Vedral,https://www.mdpi.com/2624-960X/5/2/31,,Unknown,Unknown,Unknown,Unknown,Unknown
+"The Future of Quantum Computing with Superconducting Qubits - Sergey Bravyi, Oliver Dial, Jay M. Gambetta, Dar ́ıo Gil, and Zaira Nazario1",https://pubs.aip.org/aip/jap/article/132/16/160902/2837574/The-future-of-quantum-computing-with?gad_source=1&gclid=CjwKCAjwzN-,,Unknown,Unknown,Unknown,Unknown,Unknown
+"Generation of broadband correlated photon-pairs in short thin-film lithium-niobate waveguides - Bradley S. Elkus, et. al",https://opg.optica.org/directpdfaccess/02ed958b-dc38-449c-b5d94c4360c660b2_424684/oe-27-26-38521.pdf?da=1&id=424684&seq=0&mobile=no,,Unknown,Unknown,Unknown,Unknown,Unknown
+Field-linked resonances of polar molecules,https://www.nature.com/articles/s41586-022-05651-8,,Unknown,Unknown,Unknown,Unknown,Unknown
+"Request_Scheduling_in_Quantum_Networks - C. Cicconetti, M. Conti, and A. Passarella",https://www.researchgate.net/publication/352621787_Request_Scheduling_in_Quantum_Networks,,Unknown,Unknown,Unknown,Unknown,Unknown
+"Reducing Green House Gas Emissions With Congestion Control - Michael Welzl, Ozgu Alay, Peyman Teymoori, Safiqul Islam",https://github.com/intarchboard/e-impact-workshop-public/blob/main/papers/Welzel-Alay-Teymoori-Islam_Reducing-Green-House-Gas-Emissions-With-Congestion-Control-v2.pdf,,Unknown,Unknown,Unknown,Unknown,Unknown
+Quantum supremacy using a programmable superconducting processor,https://www.nature.com/articles/s41586-019-1666-5,Quantum Supremacy & Computational Advantage,Unknown,Unknown,Unknown,Unknown,Unknown
+Quantum communications and cryptography,https://people.bu.edu/alexserg/Impression_Book.pdf,Quantum Communication & Cryptography,Unknown,Unknown,Unknown,Unknown,Unknown
+"Discrete simulation of quantum walks - Madita Willsch, Dennis Willsch, Kristel Michielsen, and Hans De Raedt",https://www.frontiersin.org/articles/10.3389/fphy.2020.00145/full,,Unknown,Unknown,Unknown,Unknown,Unknown
+On the CNOT-cost of TOFFOLI gates,https://dl.acm.org/doi/10.5555/2011791.2011799,Quantum Circuits,Unknown,Unknown,Unknown,Unknown,Unknown
+Transitioning organizations to post-quantum cryptography,https://www.nature.com/articles/s41586-022-04623-2,Quantum Communication & Cryptography,Unknown,Unknown,Unknown,Unknown,Unknown
+Distribution of entanglement in large-scale quantum networks,https://iopscience.iop.org/article/10.1088/0034-4885/76/9/096001/pdf,Quantum Entanglement & Teleportation,Unknown,Unknown,Unknown,Unknown,Unknown
+Generalized GHZ States and Distributed Quantum Computing,https://arxiv.org/abs/quant-ph/0402148,Quantum Entanglement & Teleportation,Unknown,Unknown,Unknown,Unknown,Unknown
+Substituting Quantum Entanglement for Communication,https://arxiv.org/pdf/quant-ph/9704026,Quantum Entanglement & Teleportation,Unknown,Unknown,Unknown,Unknown,Unknown
+Implementing Post-quantum Cryptography for Developers,https://www.scitepress.org/Papers/2022/107862/107862.pdf,Quantum Communication & Cryptography,Unknown,Unknown,Unknown,Unknown,Unknown
+An introduction to measurement based quantum computation - Richard Jozsa,https://arxiv.org/abs/quant-ph/0508124,,Unknown,Unknown,Unknown,Unknown,Unknown
+"The Toric Code, Paul Herringer",https://www.physics.rutgers.edu/grad/602/Lectures/JC_Presentations/0419/Intro_Toric_Code.pdf,,Unknown,Unknown,Unknown,Unknown,Unknown
+Quantum simulator enables first microscopic observation of charge carriers pairing,https://www.mpq.mpg.de/6803661/01-magnetic-pairing,Ion Traps,Unknown,Unknown,Unknown,Unknown,Unknown
+"Topological quantum memory - Eric Dennis,Alexei Kitaev,Andrew Landahl,and John Preskill",https://arxiv.org/abs/quant-ph/0110143,,Unknown,Unknown,Unknown,Unknown,Unknown
+"Universal and operational benchmarking of quantum memories - Xiao Yuan, Yunchao Liu, Qi Zhao, Bartosz Regula, Jayne Thompson and Mile Gu",https://bartoszregula.me/pdf/s41534-021-00444-9.pdf,,Unknown,Unknown,Unknown,Unknown,Unknown
+Quantum principal component analysis,https://www.nature.com/articles/nphys3029#Sec2,Quantum Algorithms,Unknown,Unknown,Unknown,Unknown,Unknown
+"How many qubits are needed for quantum computational supremacy? - Alexander M. Dalzell1, Aram W. Harrow, Dax Enshan Koh, and Rolando L. La Placa",https://quantum-journal.org/papers/q-2020-05-11-264/,,Unknown,Unknown,Unknown,Unknown,Unknown
+"Implementing the quantum random walk - B. C. Travaglione, G. J. Milburn",https://arxiv.org/abs/quant-ph/0109076,,Unknown,Unknown,Unknown,Unknown,Unknown
+Memory cost of quantum protocols,https://www.researchgate.net/publication/51965796_Memory_cost_of_quantum_protocols,Quantum Memories,Unknown,Unknown,Unknown,Unknown,Unknown
+Experimental exploration of five-qubit quantum error-correcting code with superconducting qubits,https://ora.ox.ac.uk/objects/uuid:5b2e5204-7746-4569-807e-77654a77313a/files/s0v838175c,Quantum Error Correction,Unknown,Unknown,Unknown,Unknown,Unknown
+"Channel Waveguides in Lithium Niobate and Lithium Tantalate- Yi Lu, Benjamin Johnston, Peter Dekker, Michael J Withford, Judith M Dawes",https://pubmed.ncbi.nlm.nih.gov/32867367/,,Unknown,Unknown,Unknown,Unknown,Unknown
+Optimal architectures for long distance quantum communication,https://www.nature.com/articles/srep20463,Quantum Repeater Architectures,Unknown,Unknown,Unknown,Unknown,Unknown
+Stabilizer Codes and Quantum Error Correction -Thesis by Daniel Gottesman,https://arxiv.org/abs/quant-ph/9705052,,Unknown,Unknown,Unknown,Unknown,Unknown
+Multiple Particle Interference and Quantum Error Correction - Andrew Steane,https://arxiv.org/abs/quant-ph/9601029Multiplexed quantum repeaters,,Unknown,Unknown,Unknown,Unknown,Unknown
+"Multiple Particle Interference and Quantum Error Correction, Andrew Steane",https://arxiv.org/abs/quant-ph/9601029,,Unknown,Unknown,Unknown,Unknown,Unknown
+Why Philosophers Should Care About Computational Complexity,https://arxiv.org/abs/1108.1791,Commercial and Philosophical Views,Why Philosophers Should Care About Computational Complexity,"One might think that, once we know something is computable, how efficiently
+it can be computed is a practical question with little further philosophical
+importance. In this essay, I offer a detailed case that one would be wrong. In
+particular, I argue that computational complexity theory -- the field that
+studies the resources (such as time, space, and randomness) needed to solve
+computational problems -- leads to new perspectives on the nature of
+mathematical knowledge, the strong AI debate, computationalism, the problem of
+logical omniscience, Hume's problem of induction, Goodman's grue riddle, the
+foundations of quantum mechanics, economic rationality, closed timelike curves,
+and several other topics of philosophical interest. I end by discussing aspects
+of complexity theory itself that could benefit from philosophical analysis.",Scott Aaronson,arXiv,"cs.CC, quant-ph"
+lambeq: An Efficient High-Level Python Library for Quantum NLP,https://arxiv.org/abs/2110.04236,Natural Language Processing & Quantum Computing,lambeq: An Efficient High-Level Python Library for Quantum NLP,"We present lambeq, the first high-level Python library for Quantum Natural
+Language Processing (QNLP). The open-source toolkit offers a detailed hierarchy
+of modules and classes implementing all stages of a pipeline for converting
+sentences to string diagrams, tensor networks, and quantum circuits ready to be
+used on a quantum computer. lambeq supports syntactic parsing, rewriting and
+simplification of string diagrams, ansatz creation and manipulation, as well as
+a number of compositional models for preparing quantum-friendly representations
+of sentences, employing various degrees of syntax sensitivity. We present the
+generic architecture and describe the most important modules in detail,
+demonstrating the usage with illustrative examples. Further, we test the
+toolkit in practice by using it to perform a number of experiments on simple
+NLP tasks, implementing both classical and quantum pipelines.","Dimitri Kartsaklis, Ian Fan, Richie Yeung, Anna Pearson, Robin Lorenz, Alexis Toumi, Giovanni de Felice, Konstantinos Meichanetzidis, Stephen Clark, Bob Coecke",arXiv,"cs.CL, cs.AI, quant-ph"
