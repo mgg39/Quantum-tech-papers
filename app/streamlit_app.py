@@ -109,8 +109,7 @@ def run_streamlit_app() -> None:
         st.write(texts["app"]["home_about_text_2"])
 
         st.markdown(
-            f"<span style='color:#1f77b4;'>{
-                texts['app']['home_about_topics']}</span>",
+            f"<span style='color:#1f77b4;'>{texts["app"]["home_about_topics"]}</span>",
             unsafe_allow_html=True)
         st.write(texts["app"]["home_about_text_3"])
         st.write(
