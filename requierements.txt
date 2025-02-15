@@ -1,8 +1,8 @@
-streamlit==1.42.0
-pandas==2.2.3
-plotly==6.0.0
-networkx==3.4.2
-sentence-transformers==3.4.1
+streamlit
 scikit-learn
-gensim==4.3.3
-spacy==3.8.4
+pandas
+plotly
+networkx
+sentence-transformers
+gensim
+spacy
