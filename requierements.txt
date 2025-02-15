@@ -8,3 +8,5 @@ gensim==4.3.3
 spacy==3.8.4
 plotly==6.0.0
 networkx==3.4.2
+torch>=2.0.0
+transformers>=4.35.0
