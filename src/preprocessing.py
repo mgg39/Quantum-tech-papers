@@ -66,7 +66,8 @@ def generate_ngrams(df) -> pd.DataFrame:
     """
     sentences = [title.lower().split() for title in df['Title']]
 
-    # Create bigram and trigram models with a lower threshold for more combinations
+    # Create bigram and trigram models with a lower threshold for more
+    # combinations
     bigram_model = Phrases(sentences, min_count=2, threshold=3)
     trigram_model = Phrases(bigram_model[sentences], threshold=3)
 
@@ -74,7 +75,8 @@ def generate_ngrams(df) -> pd.DataFrame:
     trigram_phraser = Phraser(trigram_model)
 
     # Apply n-grams transformation
-    df['title_clean'] = [' '.join(trigram_phraser[bigram_phraser[sent]]) for sent in sentences]
+    df['title_clean'] = [
+        ' '.join(trigram_phraser[bigram_phraser[sent]]) for sent in sentences]
 
     return df
 

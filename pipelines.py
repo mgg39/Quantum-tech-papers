@@ -43,22 +43,36 @@ def main() -> None:
     Returns:
     None
     """
-    parser = argparse.ArgumentParser(description="Quantum Tech Papers Dashboard")
-    parser.add_argument("--extract", action="store_true", help="Extract data from README.")
-    parser.add_argument("--enrich", action="store_true", help="Fetch metadata from arXiv / CrossRef and update enriched CSV.")
-    parser.add_argument("--train", action="store_true", help="Run the model training pipeline (NER, n-grams, SBERT embeddings).")
+    parser = argparse.ArgumentParser(
+        description="Quantum Tech Papers Dashboard")
+    parser.add_argument(
+        "--extract",
+        action="store_true",
+        help="Extract data from README.")
+    parser.add_argument(
+        "--enrich",
+        action="store_true",
+        help="Fetch metadata from arXiv / CrossRef and update enriched CSV.")
+    parser.add_argument(
+        "--train",
+        action="store_true",
+        help="Run the model training pipeline (NER, n-grams, SBERT embeddings).")
 
     args = parser.parse_args()
     config = load_config()
 
     if args.extract:
         print("Extracting data from README...")
-        extract_data_from_readme(config['paths']['readme_input'], config['paths']['input_csv'])
+        extract_data_from_readme(
+            config['paths']['readme_input'],
+            config['paths']['input_csv'])
         print("Extraction completed successfully.")
 
     if args.enrich:
         print("Starting incremental enrichment...")
-        enrich_incrementally(config['paths']['input_csv'], config['paths']['enriched_csv'])
+        enrich_incrementally(
+            config['paths']['input_csv'],
+            config['paths']['enriched_csv'])
         print("Enrichment completed successfully.")
 
     if args.train:

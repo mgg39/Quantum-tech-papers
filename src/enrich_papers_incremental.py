@@ -89,8 +89,10 @@ def get_arxiv_metadata(arxiv_id) -> dict:
 
     title = entry.find('arxiv:title', ns).text.strip()
     abstract = entry.find('arxiv:summary', ns).text.strip()
-    authors = ', '.join([author.find('arxiv:name', ns).text for author in entry.findall('arxiv:author', ns)])
-    categories = ', '.join([cat.attrib['term'] for cat in entry.findall('arxiv:category', ns)])
+    authors = ', '.join([author.find(
+        'arxiv:name', ns).text for author in entry.findall('arxiv:author', ns)])
+    categories = ', '.join([cat.attrib['term']
+                           for cat in entry.findall('arxiv:category', ns)])
     keywords = categories if categories else "Unknown"
 
     return {
@@ -120,9 +122,13 @@ def get_crossref_metadata(doi) -> dict:
     data = response.json().get('message', {})
     title = data.get('title', ["Unknown"])[0]
     abstract = data.get('abstract', "Unknown")
-    authors = ', '.join([f"{a.get('given', '')} {a.get('family', '')}".strip() for a in data.get('author', [])])
+    authors = ', '.join([f"{a.get('given', '')} {a.get('family', '')}".strip(
+    ) for a in data.get('author', [])])
     journal = data.get('container-title', ["Unknown"])[0]
-    keywords = ', '.join(data.get('subject', [])) if 'subject' in data else "Unknown"
+    keywords = ', '.join(
+        data.get(
+            'subject',
+            [])) if 'subject' in data else "Unknown"
 
     abstract = re.sub(r'<[^>]*>', '', abstract)
 
@@ -167,7 +173,9 @@ def fetch_paper_metadata(url):
     }
 
 
-def enrich_incrementally(input_csv='data/inputs/papers_data.csv', enriched_csv='data/enriched/papers_data_enriched.csv') -> None:
+def enrich_incrementally(
+        input_csv='data/inputs/papers_data.csv',
+        enriched_csv='data/enriched/papers_data_enriched.csv') -> None:
     """
     Enriches the dataset of quantum technology research papers incrementally by fetching metadata for new papers.
 

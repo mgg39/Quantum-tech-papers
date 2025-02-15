@@ -41,9 +41,24 @@ def train_tfidf(train_df, stop_words=None) -> tuple:
     tuple: A tuple containing the fitted TF-IDF vectorizer and the TF-IDF matrix.
     """
     if stop_words is None:
-        stop_words = {'quantum', 'information', 'computing', 'system', 'systems', 'using', 'based', 'study', 'approach'}
+        stop_words = {
+            'quantum',
+            'information',
+            'computing',
+            'system',
+            'systems',
+            'using',
+            'based',
+            'study',
+            'approach'}
 
-    vectorizer = TfidfVectorizer(stop_words=list(stop_words), max_df=0.9, min_df=2, ngram_range=(1, 2))
+    vectorizer = TfidfVectorizer(
+        stop_words=list(stop_words),
+        max_df=0.9,
+        min_df=2,
+        ngram_range=(
+            1,
+            2))
     X_tfidf = vectorizer.fit_transform(train_df['title_clean'])
 
     return vectorizer, X_tfidf
@@ -61,11 +76,19 @@ def train_sbert_and_embed(train_df, model_name='all-MiniLM-L6-v2') -> tuple:
     tuple: A tuple containing the SBERT model and the embeddings.
     """
     model = SentenceTransformer(model_name)
-    embeddings = model.encode(train_df['title_clean'].tolist(), show_progress_bar=True)
+    embeddings = model.encode(
+        train_df['title_clean'].tolist(),
+        show_progress_bar=True)
     return model, embeddings
 
-    
-def save_artifacts(vectorizer, X_tfidf, sbert_model, sbert_embeddings, train_df, config) -> None:
+
+def save_artifacts(
+        vectorizer,
+        X_tfidf,
+        sbert_model,
+        sbert_embeddings,
+        train_df,
+        config) -> None:
     """
     Save trained models, embeddings, and preprocessed data.
 
@@ -119,7 +142,13 @@ def main(config) -> None:
 
     sbert_model, sbert_embeddings = train_sbert_and_embed(train_df)
 
-    save_artifacts(vectorizer, X_tfidf, sbert_model, sbert_embeddings, train_df, config)
+    save_artifacts(
+        vectorizer,
+        X_tfidf,
+        sbert_model,
+        sbert_embeddings,
+        train_df,
+        config)
 
 
 if __name__ == '__main__':

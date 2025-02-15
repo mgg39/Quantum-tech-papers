@@ -48,7 +48,12 @@ def load_embeddings_and_model(config) -> tuple:
     return train_df, embeddings, model, vectorizer, X_tfidf
 
 
-def search_papers_semantic(query, train_df, train_embeddings, model, top_k=5) -> pd.DataFrame:
+def search_papers_semantic(
+        query,
+        train_df,
+        train_embeddings,
+        model,
+        top_k=5) -> pd.DataFrame:
     """
     Performs a semantic search using SBERT on the training dataframe and returns the top-k results.
 
@@ -66,12 +71,24 @@ def search_papers_semantic(query, train_df, train_embeddings, model, top_k=5) ->
     similarities = cosine_similarity(query_embedding, train_embeddings)[0]
     top_indices = similarities.argsort()[-top_k:][::-1]
 
-    results = train_df.iloc[top_indices][['Title', 'Web', 'Category', 'Abstract','Authors','Journal','Keywords']].copy()
+    results = train_df.iloc[top_indices][['Title',
+                                          'Web',
+                                          'Category',
+                                          'Abstract',
+                                          'Authors',
+                                          'Journal',
+                                          'Keywords']].copy()
     results['Similarity Score'] = similarities[top_indices]
     return results
 
 
-def search_papers_exact_boost(query, train_df, train_embeddings, model, top_k=5, boost_weight=0.5) -> pd.DataFrame:
+def search_papers_exact_boost(
+        query,
+        train_df,
+        train_embeddings,
+        model,
+        top_k=5,
+        boost_weight=0.5) -> pd.DataFrame:
     """
     Performs a hybrid search combining SBERT semantic similarity with exact match boosting on the training dataframe and returns the top-k results.
 
@@ -87,14 +104,22 @@ def search_papers_exact_boost(query, train_df, train_embeddings, model, top_k=5,
     pd.DataFrame: A dataframe containing the top-k search results with their similarity scores.
     """
     query_embedding = model.encode([query])
-    similarities_sbert = cosine_similarity(query_embedding, train_embeddings)[0]
+    similarities_sbert = cosine_similarity(
+        query_embedding, train_embeddings)[0]
 
-    exact_matches = train_df['Title'].str.contains(query, case=False, na=False).astype(float)
+    exact_matches = train_df['Title'].str.contains(
+        query, case=False, na=False).astype(float)
 
     final_score = similarities_sbert + boost_weight * exact_matches
 
     top_indices = final_score.argsort()[-top_k:][::-1]
 
-    results = train_df.iloc[top_indices][['Title', 'Web', 'Category', 'Abstract','Authors','Journal','Keywords']].copy()
+    results = train_df.iloc[top_indices][['Title',
+                                          'Web',
+                                          'Category',
+                                          'Abstract',
+                                          'Authors',
+                                          'Journal',
+                                          'Keywords']].copy()
     results['Similarity Score'] = final_score[top_indices]
     return results

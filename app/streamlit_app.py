@@ -19,6 +19,7 @@ import streamlit as st
 import pandas as pd
 from src.inference import load_embeddings_and_model, search_papers_exact_boost
 from src.config_loader import load_config, load_texts
+from app.pages.graph_visualization import render_graph_page
 
 
 import streamlit as st
@@ -59,8 +60,6 @@ def render_paper(row, texts) -> None:
         st.divider()
 
 
-
-
 def run_streamlit_app() -> None:
     """
     Runs the Streamlit application for searching and filtering quantum technology papers.
@@ -83,56 +82,95 @@ def run_streamlit_app() -> None:
 
     @st.cache_resource
     def load_data():
-        train_df, embeddings, model, vectorizer, X_tfidf = load_embeddings_and_model(config)
+        train_df, embeddings, model, vectorizer, X_tfidf = load_embeddings_and_model(
+            config)
         return train_df, embeddings, model, vectorizer, X_tfidf
 
     train_df, embeddings, model, vectorizer, X_tfidf = load_data()
 
-    col1, col2 = st.columns([2, 2])
+    # Sidebar navigation
+    st.sidebar.title(texts["app"]["sidebar_title"])
+    page = st.sidebar.radio(
+        texts["app"]["sidebar_navigation"],
+        [texts["sidebar"]["search_page"], texts["sidebar"]["graph_page"]]
+    )
 
-    with col1:
-        categories = train_df['Category'].dropna().unique().tolist()
-        categories.insert(0, texts["filters"]["all"])
-        category_selected = st.selectbox(texts["filters"]["select_label"], categories)
+    if page == texts["sidebar"]["search_page"]:
+        st.title(texts["app"]["home_page_title"])
+        st.subheader(texts["app"]["home_about_title"])
 
-    with col2:
-        all_authors = (
-            train_df['Authors'].dropna()
-            .str.split(', ')
-            .explode()
-            .unique()
-            .tolist()
+        st.write(texts["app"]["home_about_text_1"])
+        st.write(texts["app"]["home_about_text_2"])
+
+        st.markdown(
+            f"<span style='color:#1f77b4;'>{
+                texts['app']['home_about_topics']}</span>",
+            unsafe_allow_html=True)
+        st.write(texts["app"]["home_about_text_3"])
+        st.write(
+            """
+            If you would like to add any paper to this repository please feel free to create a pull request &/or reach out to me via linkedin or email.
+
+            Linkedin : [https://www.linkedin.com/in/maria-gragera-garces/](https://www.linkedin.com/in/maria-gragera-garces/)
+
+            Email : [m.gragera.garces@gmail.com](mailto:m.gragera.garces@gmail.com)
+            """
         )
-        all_authors.sort()
-        selected_authors = st.multiselect(texts["filters"]["select_authors"], all_authors)
+        st.divider()
 
-    query = st.text_input(texts["search"]["input_placeholder"])
+    if page == texts["sidebar"]["search_page"]:
+        col1, col2 = st.columns([2, 2])
 
-    if category_selected != texts["filters"]["all"]:
-        df_filtered = train_df[train_df['Category'] == category_selected]
-    else:
-        df_filtered = train_df
+        with col1:
+            categories = train_df['Category'].dropna().unique().tolist()
+            categories.insert(0, texts["filters"]["all"])
+            category_selected = st.selectbox(
+                texts["filters"]["select_label"], categories)
 
-    if selected_authors:
-        df_filtered = df_filtered[
-            df_filtered['Authors'].apply(
-                lambda authors: any(author in str(authors) for author in selected_authors)
+        with col2:
+            all_authors = (
+                train_df['Authors'].dropna()
+                .str.split(', ')
+                .explode()
+                .unique()
+                .tolist()
             )
-        ]
+            all_authors.sort()
+            selected_authors = st.multiselect(
+                texts["filters"]["select_authors"], all_authors)
 
-    if query:
-        st.subheader(texts["search"]["results_title"].format(query=query))
-        results = search_papers_exact_boost(
-            query, train_df, embeddings, model, top_k=5, boost_weight=0.5
-        )
+        query = st.text_input(texts["search"]["input_placeholder"])
 
-        for _, row in results.iterrows():
-            render_paper(row, texts)
+        if category_selected != texts["filters"]["all"]:
+            df_filtered = train_df[train_df['Category'] == category_selected]
+        else:
+            df_filtered = train_df
 
-    else:
-        st.subheader(texts["filters"]["showing_category"].format(category=category_selected))
-        st.write(texts["filters"]["displaying_n_papers"].format(count=len(df_filtered)))
+        if selected_authors:
+            df_filtered = df_filtered[df_filtered['Authors'].apply(
+                lambda authors: any(author in str(authors) for author in selected_authors))]
 
-        for _, row in df_filtered.iterrows():
-            render_paper(row, texts)
-    st.write(texts["app"]["end_of_list"])
+        if query:
+            st.subheader(texts["search"]["results_title"].format(query=query))
+            results = search_papers_exact_boost(
+                query, train_df, embeddings, model, top_k=5, boost_weight=0.5
+            )
+
+            for _, row in results.iterrows():
+                render_paper(row, texts)
+
+        else:
+            st.subheader(
+                texts["filters"]["showing_category"].format(
+                    category=category_selected))
+            st.write(
+                texts["filters"]["displaying_n_papers"].format(
+                    count=len(df_filtered)))
+
+            for _, row in df_filtered.iterrows():
+                render_paper(row, texts)
+
+        st.write(texts["app"]["end_of_list"])
+
+    elif page == texts["sidebar"]["graph_page"]:
+        render_graph_page(train_df, texts)
