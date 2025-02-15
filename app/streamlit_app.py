@@ -79,7 +79,13 @@ def run_streamlit_app() -> None:
     """
     config = load_config()
     texts = load_texts()
-
+    st.set_page_config(
+        page_title="Quantum Tech Papers",
+        page_icon="📚",
+        layout="wide",
+        initial_sidebar_state="expanded"
+    )
+    
     @st.cache_resource
     def load_data():
         train_df, embeddings, model, vectorizer, X_tfidf = load_embeddings_and_model(
