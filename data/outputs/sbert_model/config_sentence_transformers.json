@@ -1,0 +1,10 @@
+{
+  "__version__": {
+    "sentence_transformers": "3.4.1",
+    "transformers": "4.46.3",
+    "pytorch": "2.3.1"
+  },
+  "prompts": {},
+  "default_prompt_name": null,
+  "similarity_fn_name": "cosine"
+}
