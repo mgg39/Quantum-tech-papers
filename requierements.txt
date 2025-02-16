@@ -1,7 +1,7 @@
-streamlit
+sentence-transformers
 pandas
 plotly
 networkx
-sentence-transformers==3.4.1
 gensim
 spacy
+streamlit
