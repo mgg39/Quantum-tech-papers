@@ -1,7 +1,0 @@
-sentence-transformers
-pandas
-plotly
-networkx
-gensim
-spacy
-streamlit
