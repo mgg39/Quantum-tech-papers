@@ -2,7 +2,7 @@
 inference.py
 
 Author: Ricard Santiago Raigada García
-Date: 15-02-2025
+Date: 16-02-2025
 
 This module contains functions for loading embeddings and models, and for performing semantic and hybrid searches
 on quantum technology research papers.
@@ -11,13 +11,16 @@ Functions:
     load_embeddings_and_model(config) -> tuple:
         Loads SBERT embeddings, model, training dataframe, TF-IDF vectorizer, and TF-IDF matrix from the specified configuration paths.
 
+    cosine_similarity_numpy(a, b) -> np.ndarray:
+        Computes the cosine similarity between a single vector `a` and a matrix `b`.
+
     search_papers_semantic(query, train_df, train_embeddings, model, top_k=5) -> pd.DataFrame:
         Performs a semantic search using SBERT on the training dataframe and returns the top-k results.
 
     search_papers_exact_boost(query, train_df, train_embeddings, model, top_k=5, boost_weight=0.5) -> pd.DataFrame:
         Performs a hybrid search combining SBERT semantic similarity with exact match boosting on the training dataframe and returns the top-k results.
 """
-from sklearn.metrics.pairwise import cosine_similarity
+import numpy as np
 from sentence_transformers import SentenceTransformer
 import pickle
 import pandas as pd
@@ -48,6 +51,22 @@ def load_embeddings_and_model(config) -> tuple:
     return train_df, embeddings, model, vectorizer, X_tfidf
 
 
+def cosine_similarity_numpy(a, b):
+    """
+    Computes the cosine similarity between a single vector `a` and a matrix `b`.
+
+    Parameters:
+    a (np.ndarray): A 2D numpy array with shape (1, embedding_dim).
+    b (np.ndarray): A 2D numpy array with shape (num_samples, embedding_dim).
+
+    Returns:
+    np.ndarray: A 1D array containing cosine similarities between `a` and each row in `b`.
+    """
+    a_norm = a / np.linalg.norm(a)
+    b_norm = b / np.linalg.norm(b, axis=1, keepdims=True)
+    return np.dot(b_norm, a_norm.T).flatten()
+
+
 def search_papers_semantic(
         query,
         train_df,
@@ -68,7 +87,7 @@ def search_papers_semantic(
     pd.DataFrame: A dataframe containing the top-k search results with their similarity scores.
     """
     query_embedding = model.encode([query])
-    similarities = cosine_similarity(query_embedding, train_embeddings)[0]
+    similarities = cosine_similarity_numpy(query_embedding, train_embeddings)
     top_indices = similarities.argsort()[-top_k:][::-1]
 
     results = train_df.iloc[top_indices][['Title',
@@ -104,8 +123,8 @@ def search_papers_exact_boost(
     pd.DataFrame: A dataframe containing the top-k search results with their similarity scores.
     """
     query_embedding = model.encode([query])
-    similarities_sbert = cosine_similarity(
-        query_embedding, train_embeddings)[0]
+    similarities_sbert = cosine_similarity_numpy(
+        query_embedding, train_embeddings)
 
     exact_matches = train_df['Title'].str.contains(
         query, case=False, na=False).astype(float)
