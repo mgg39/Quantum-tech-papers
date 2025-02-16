@@ -1,3 +1,13 @@
+---
+title: Quantum Tech Papers
+emoji: 🧑‍🔬
+colorFrom: blue
+colorTo: indigo
+sdk: streamlit
+sdk_version: "1.42.0"
+app_file: main.py
+pinned: false
+---
 # Quantum-tech-papers
 This repository contains a list of some of the papers and publications, I have read through my journey through quantum. 
 I began working on this project through my undergraduate years and currently continue mantaining it in grad school.
