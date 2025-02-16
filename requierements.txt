@@ -1,8 +1,7 @@
 streamlit
-scikit-learn
 pandas
 plotly
 networkx
-sentence-transformers
+sentence-transformers==3.4.1
 gensim
 spacy
