@@ -1,0 +1,54 @@
+{
+    "app": {
+    "title": "Quantum Tech Papers",
+    "description": "Browse the collection of quantum technology papers. Search semantically or filter by category.",
+    "end_of_list": "End of list",
+    "sidebar_title": "Navigation",
+    "sidebar_navigation": "Select Page",
+    "home_page_title": "Quantum Tech Papers",
+    "home_about_title": "About This Project",
+    "home_about_text_1": "This repository contains a list of some of the papers and publications I have read throughout my journey in quantum technologies. I began this project during my undergraduate years, and I currently continue maintaining it in graduate school.",
+    "home_about_text_2": "The objective of this project is not to curate a list of the most recommended publications for beginners, but rather to build a journal-like record depicting my personal journey through quantum research papers. The topics reflected here often align with my research work and surges of interest throughout my time in this industry. Some recurring areas of focus include:",
+    "home_about_topics": "Quantum protocol design, Quantum algorithms, The Quantum Internet, Silicon-based quantum technologies, Ion traps, The Hong-Ou-Mandel effect, Quantum circuits, Programmable quantum gates, Quantum error correction & mitigation, Electron-spin states, Commercial and philosophical views on quantum tech, Quantum repeater architectures, Quantum memories, Experimental simulation tools, Quantum markets and hype, Quantum Machine Learning (QML), Constructor theory & Physical information, Quantum Neural Networks (QNNs)",
+    "home_about_text_3": "I welcome contributions to the Recommended Reads branch and would love to build a strong reading list for beginners through collective input."
+  },
+    "filters": {
+      "all": "All",
+      "select_label": "Filter by Category",
+      "showing_category": "Papers in Category: '{category}'",
+      "displaying_n_papers": "Displaying {count} papers",
+      "select_authors": "Filter by Authors"
+    },
+    "search": {
+      "input_placeholder": "Search by keywords (semantic search):",
+      "results_title": "Results for: '{query}' (Semantic Search)"
+    },
+    "paper": {
+      "view_paper": "View Paper",
+      "category": "Category",
+      "authors": "Authors",
+      "journal": "Journal",
+      "keywords": "Keywords",
+      "show_abstract": "Show Abstract"
+    },
+    "sidebar": {
+    "title": "Navigation",
+    "select_page": "Select a Page",
+    "search_page": "Search Papers",
+    "graph_page": "Research Graph"
+    },
+    "graph": {
+      "title": "Research Graph",
+      "description": "Explore the relationships between authors and papers, as well as papers and keywords. This way, you can discover other research related to your goals.",
+      "select_graph_type": "Select Graph Type",
+      "generate_graph": "Generate Graph",
+      "author_paper": "Author - Paper",
+      "keyword_paper": "Keyword - Paper",
+      "selected_papers_title": "Selected Papers",
+      "legend_title": "Graph Legend",
+      "legend_paper": "Paper",
+      "legend_author": "Author",
+      "legend_keyword": "Keyword"
+    }
+  }
+  

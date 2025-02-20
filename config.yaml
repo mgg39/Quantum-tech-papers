@@ -1,0 +1,10 @@
+paths:
+  readme_input: "README.md"
+  input_csv: "data/inputs/papers_data.csv"
+  enriched_csv: "data/enriched/papers_data_enriched.csv"
+  output_dir: "data/outputs"
+  tfidf_vectorizer: "data/outputs/tfidf_vectorizer.pkl"
+  tfidf_matrix: "data/outputs/tfidf_matrix.pkl"
+  sbert_embeddings: "data/outputs/sbert_embeddings.pkl"
+  sbert_model: "data/outputs/sbert_model"
+  train_data_with_clean: "data/outputs/train_data_with_clean.csv"

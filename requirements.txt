@@ -1,0 +1,8 @@
+streamlit
+scikit-learn
+pandas
+plotly
+networkx
+sentence-transformers
+gensim
+spacy

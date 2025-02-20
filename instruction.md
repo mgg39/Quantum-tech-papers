@@ -1,0 +1,1 @@
+python pipelines.py --extract --enrich --train
