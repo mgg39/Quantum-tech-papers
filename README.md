@@ -19,6 +19,7 @@ The objective of this project is not to curate a list of the most recommended pu
 An interactive web application is now available to navigate the collection, perform semantic searches, and explore relationships between authors, papers, and keywords through graph visualizations. Paper metadata enrichment including abstracts, keywords, authors, journals, and publication links (sourced via external APIs) is also integrated
 
 Access the web application:
+
 [![Streamlit App](https://img.shields.io/badge/Streamlit-Open_App-brightgreen?logo=streamlit)](https://quantum-tech-papers.streamlit.app/)
 
 Re-curring topics on this list include:
