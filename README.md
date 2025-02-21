@@ -9,18 +9,28 @@ app_file: main.py
 pinned: false
 ---
 # Quantum-tech-papers
-This repository contains a list of some of the papers and publications, I have read through my journey through quantum. 
+
+This repository contains a list of some of the papers and publications, I have read through my journey through quantum.
+
 I began working on this project through my undergraduate years and currently continue mantaining it in grad school.
+
 The objective of this project is not to curate a list of the most recommended publications for a beginner in quantum tech, but rather to build a journal (of sorts) that depics my journey through quantum publications. The full list of reads can be found here, but other branches include year by year breakdowns. The topics presented in this compilation often reflect my work and surges in interest through my time in this industry.
 
+An interactive web application is now available to navigate the collection, perform semantic searches, and explore relationships between authors, papers, and keywords through graph visualizations. Paper metadata enrichment including abstracts, keywords, authors, journals, and publication links (sourced via external APIs) is also integrated
+
+Access the web application:
+
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Open_App-brightgreen?logo=streamlit)](https://quantum-tech-papers.streamlit.app/)
+
 Re-curring topics on this list include:
+
 - Quantum protocol design
 - Quantum algorithms
 - The Quantum internet
 - Silicon based quantum technologies
 - Ion traps
 - The Hong-Ou-Mandel effect
-- Quantum circuits 
+- Quantum circuits
 - Programmable quantum gates
 - Quantum error correction
 - Quantum error mitigation
